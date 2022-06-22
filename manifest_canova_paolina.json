@@ -69,27 +69,27 @@
     ],
     "thumbnail": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif/full/full/0/default.tif",
     "viewDirection": "right-to-left",
-    "attribution": "Digital image courtesy of the Getty's <a href='http://www.getty.edu/about/opencontent.html' target='_blank'>Open Content Program<\/a>.",
-    "logo": "http://www.getty.edu/museum/media/graphics/web/logos/getty.png",
-    "within": "http://www.getty.edu/art/collection/",
+    "attribution":"Digital image courtesy of the <a href='https://galleriaborghese.beniculturali.it/info/foto-e-video/' target='_blank'>Galleria Borghese<\/a>.",
+    "logo":"https://galleriaborghese.beniculturali.it/wp-content/uploads/logo.svg",
+    "within":"-",
     "sequences": [
         {
-            "@id": "https://data.getty.edu/museum/api/iiif/id:826/sequence/main",
+            "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif/",
             "@type": "sc:Sequence",
             "label": "Object",
             "viewingDirection": "left-to-right",
             "viewingHint": "paged",
-            "startCanvas": "https://data.getty.edu/museum/api/iiif/id:826/canvas/main",
+            "startCanvas": "",
             "canvases": [
                 {
-                    "@id": "https://data.getty.edu/museum/api/iiif/id:826/canvas/main",
+                    "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif/",
                     "@type": "sc:Canvas",
                     "label": "Main Image",
                     "width": 1200,
                     "height": 949,
                     "images": [
                         {
-                            "@id": "https://data.getty.edu/museum/api/iiif/id:826/annotation/main-image",
+                            "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif/",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
                             "resource": {
@@ -103,15 +103,14 @@
                                 },
                                 "width": 1200,
                                 "height": 949
-                            },
-                            "on": "https://data.getty.edu/museum/api/iiif/id:826/canvas/main"
+                            }
                         }
                     ],
-                    "thumbnail": "https://data.getty.edu/museum/api/iiif/671108/full/600,472/0/default.jpg"
+                    "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif/full/full/0/default.tif"
                 }
             ]
         }
     ],
-    "license": "http://www.getty.edu/legal/copyright.html#oc",
-    "related": "https://raw.githubusercontent.com/vedph/test_IIIF/main/manifest_paolina_borghese.json"
+    "license": "https://galleriaborghese.beniculturali.it/info/foto-e-video/",
+    "related": "https://raw.githubusercontent.com/ElenaBarchielli/testmanifest/main/manifest_canova_paolina.json"
 }
