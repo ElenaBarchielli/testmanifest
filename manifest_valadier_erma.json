@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://raw.githubusercontent.com/vedph/test_IIIF/main/manifest.json",
+    "@id": "https://raw.githubusercontent.com/ElenaBarchielli/testmanifest/main/manifest_valadier_erma.json",
     "@type": "sc:Manifest",
     "label": "Erma di Bacco, 1773, Valadier Luigi",
     "description": "Commissionata nel 1773 da Marcantonio Borghese per il Palazzo di famiglia in Campo Marzio, l’Erma di Bacco fu ritenuta per molto tempo antica finché successivi studi dimostrarono l’identità del suo esecutore. La documentazione rinvenuta attesta che il fusto di alabastro a rose, panneggiato nella parte superiore, è frutto della rilavorazione di un pezzo antico a opera dello scalpellino Benedetto Maciucchi e che Luigi Valadier, autore della bella testa bronzea, stese sulla capigliatura una patina verde con schizzi d’oro per rendere l’effetto dell’antico, le cui tracce sono tuttora visibili. Dalla lettura dell’inventario dei beni dell’artista, redatto dopo la sua morte, si deduce che il busto del Bacco faceva parte di una serie di bronzi prodotti regolarmente dalla sua bottega e da questa combinati con marmi diversi per proporli alla propria ricca e raffinata clientela, composta da reali, diplomatici, collezionisti, antiquari e grand tourists.",
