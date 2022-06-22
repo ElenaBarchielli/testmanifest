@@ -64,11 +64,11 @@
                   }
                ],
                "thumbnail":"https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/sala_panoramica.png/full/full/0/default.jpg",
-		    "otherContent": [ {
-        "@id": "http://example.com/sas/annotation/list/485692b588835a3fdc3e2483fefe74fd.json",
-        "@type": "sc:AnnotationList",
-        "label": "My fantastic annotations"
-    }]
+	       "otherContent": [ {
+               "@id": "http://example.com/sas/annotation/list/485692b588835a3fdc3e2483fefe74fd.json",
+               "@type": "sc:AnnotationList",
+               "label": "My fantastic annotations"
+               }]
             }
          ]
       }
