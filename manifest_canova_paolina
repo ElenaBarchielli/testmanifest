@@ -1,0 +1,117 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://raw.githubusercontent.com/vedph/test_IIIF/main/manifest_paolina_borghese.json",
+    "@type": "sc:Manifest",
+    "label": "Paolina Borghese Bonaparte come Venere vincitrice, 1804-1808, Canova Antonio",
+    "description": "Ritratta da Antonio Canova come Venere vincitrice del giudizio di Paride, Paolina Borghese Bonaparte (1780-1825) è raffigurata a seno scoperto, distesa su due cuscini e un morbido materasso, con la mano destra al capo e la sinistra che tiene il pomo. Secondo il noto episodio della mitologia greca, Paride assegnò a lei il pomo d’oro come segno del suo primato nella bellezza, conteso con Giunone e Minerva. La scultura, eseguita a Roma tra il 1804 e il 1808, destò un certo scalpore fra i contemporanei: in essa grazia antica e artificio compositivo si accordano con la resa naturalistica, quasi pittorica, dei morbidi incarnati e dei veli leggeri che coprono i fianchi di Paolina, dando vita ad un insieme  estremamente seducente. Il triclinio, noto come “agrippina”, è decorato da un drappeggio con frange, borchie, girali e figure antropomorfe sui lati e sulla spalliera e nasconde un meccanismo che permette alla scultura di girare e mostrarsi a 360°. I disegni preparatori dell’opera sono conservati al Museo Civico di Bassano, mentre il modello in gesso è ubicato nella Gipsoteca di Possagno.",
+    "metadata":
+    [
+        {
+            "label": "Artist / Maker",
+            "value": "Canova Antionio (Possagno 1757 - Venezia 1822)"
+        },
+        {
+            "label": "Culture & Date",
+            "value": "'700 - '800"
+        },
+        {
+            "label": "Medium",
+            "value": "Carrara marble"
+        },
+        {
+            "label": "Dimensions",
+            "value": "alt. cm. 92, con il letto cm 160"
+        },
+        {
+            "label": "Object Number",
+            "value": "LIV"
+        },
+        {
+            "label": "Room",
+            "value": "<a href='https://galleriaborghese.beniculturali.it/il-museo/la-villa/sala-1-sala-della-paolina/' target='_blank'>Sala I - Sala della Paolina<\/a>"
+        },
+        {
+            "label": "Place Created",
+            "value": "-"
+        },
+        {
+            "label": "Signed",
+            "value": "-"
+        },
+        {
+            "label": "Markings",
+            "value": "-"
+        },
+        {
+            "label": "Classification",
+            "value": "scultura"
+        },
+        {
+            "label": "Collection",
+            "value": "<a href=’https://galleriaborghese.beniculturali.it/' target='_blank'>Galleria Borghese<\/a>"
+        },
+        {
+            "label": "Rights Statement",
+            "value": "-"
+        },
+        {
+            "label": "Scheda",
+            "value": "Capolavoro iconico della Galleria, il ritratto di Paolina Borghese come Venere vincitrice è stato commissionato dal principe Camillo Borghese ad Antonio Canova nel 1804 e risulta pagato 6000 scudi il 15 maggio 1808 (Faldi 1954, p. 47; Pupillo 2019, pp. 248, 335 n. 131). Camillo Borghese aveva sposato Paolina Bonaparte, la bella e vivace sorella di Napoleone, nel 1803 a Parigi. Il Primo Console, che di lì a un anno sarebbe diventato imperatore, fu ben contento di imparentarsi con una nobile famiglia romana. Paolina aveva 23 anni ed era già vedova del generale Leclerc. Camillo la sposò senza neanche aspettare la conclusione dell’anno di vedovanza di lei e insieme si trasferirono a Roma a Palazzo Borghese, dove Paolina poté dedicarsi alla vita di sfarzo e divertimenti che tanto amava. Sebbene il matrimonio non fosse particolarmente felice, Camillo convocò l’artista più illustre del momento per il ritratto della bellissima moglie. Numerosi furono i pettegolezzi che fiorirono circa la nudità della scultura e l’eventualità che la principessa avesse posato svestita per l’artista (lei stessa avrebbe affermato maliziosamente “ogni velo può cadere dinanzi al Canova”): si tratta tuttavia di un ritratto ideale, che rientra nel cosiddetto genere “grazioso” della produzione canoviana. Paolina è rappresentata come Venere, vincitrice del giudizio di Paride nei confronti delle rivali Giunone e Minerva, come ci indica il pomo che tiene nella mano: è la più bella fra le dee. Antonio Canova ha espresso in quest’opera altissima una summa della propria cultura figurativa e ne ha fatto un’icona del proprio singolare neoclassicismo. La posa della principessa, distesa su un’elegante “agrippina” – una sorta di chaise-longue stile Impero molto in voga all’epoca – rimanda al repertorio classico, alle sculture etrusche e romane sdraiate sui sarcofagi; ma anche alla tradizione della pittura veneta del Cinquecento, alle Veneri tizianesche, con cui era posta idealmente in competizione all’interno della villa (Mazzocca 2004, p. 21). Della scultura esistono numerosi disegni preparatori (Museo Civico di Bassano) e il gesso originale, conservato nella Gipsoteca di Possagno, che mostra ancora i “punti”, i riferimenti utili per il trasferimento della scultura in marmo. Sappiamo che Canova lasciava questa operazione ai suoi assistenti, riservando a sé stesso “l’ultima mano”, ovvero quella levigatura paziente, con abrasivi sempre più sottili, che portava all’effetto della “vera carne” e che si esaltava nella visione a lume di candela. Nella Paolina, Canova ha steso sul marmo, come finitura, l’acqua di rota, l’acqua che si faceva colare sulla mola per non surriscaldare i ferri da arrotare, che dava alla superficie una lucentezza rosata (Cicognara 1824, p. 131 ss.). Stupefacente la resa del materasso, che pare affondare morbidamente sotto il peso della dea. Questo effetto di verosimiglianza aveva un precedente illustre: il materasso che Bernini aveva scolpito per l’Ermafrodito appartenuto a Scipione Borghese e che proprio negli anni in cui la Paolina veniva scolpita prendeva la via di Parigi, venduto a Napoleone insieme ad altre centinaia di opere (Mazzocca 2004, p. 21).Canova, che si era opposto fieramente alla vendita dei marmi Borghese, ne restituisce qui una versione neoclassica. Sotto all’agrippina è nascosto un ingegnoso meccanismo ruotante su un’asse centrale, realizzato a Torino, che permette alla scultura di girare e mostrarsi a 360°, ripristinato nella sua funzione durante il restauro del 1997 (Herrmann Fiore, 2002, figg. 13-14). Nel 1953 al letto sono state aggiunte due zampe leonine (Faldi 1954, p. 46). La scultura venne trasportata nel 1809 nel palazzo Chiablese a Torino (Faldi 1954, p. 47), dove Camillo risiedeva in qualità di governatore generale dei dipartimenti d’Oltralpe. Inviata di nuovo a Roma via mare nel 1814 dal porto di Genova, fu trasferita nel Palazzo Borghese di Campo Marzio dove rimase esposta anche di notte illuminata da fiaccole (Quatremère de Quincy 1834, p. 147 ss.). Nel 1838 fu trasferita nella Villa Pinciana dove fu posta nella Stanza di Paride ed Elena, in un allestimento neoclassico (Minozzi 2007, pp. 71-89). Fu collocata nella posizione attuale nel 1889, in accordo con i temi narrati nella volta con le Storie di Venere ed Enea di Domenico de Angelis."
+        },
+        {
+            "label": "Frame",
+            "value": "-"
+        },
+        {
+            "label": "Provenance",
+            "value": "Principe Camillo Borghese, 1808; Inventario Fidecommissario Borghese, 1833, A, p. 15; Acquisto dello Stato, 1902."
+        }
+    ],
+    "thumbnail": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif/full/full/0/default.tif",
+    "viewDirection": "right-to-left",
+    "attribution": "Digital image courtesy of the Getty's <a href='http://www.getty.edu/about/opencontent.html' target='_blank'>Open Content Program<\/a>.",
+    "logo": "http://www.getty.edu/museum/media/graphics/web/logos/getty.png",
+    "within": "http://www.getty.edu/art/collection/",
+    "sequences": [
+        {
+            "@id": "https://data.getty.edu/museum/api/iiif/id:826/sequence/main",
+            "@type": "sc:Sequence",
+            "label": "Object",
+            "viewingDirection": "left-to-right",
+            "viewingHint": "paged",
+            "startCanvas": "https://data.getty.edu/museum/api/iiif/id:826/canvas/main",
+            "canvases": [
+                {
+                    "@id": "https://data.getty.edu/museum/api/iiif/id:826/canvas/main",
+                    "@type": "sc:Canvas",
+                    "label": "Main Image",
+                    "width": 1200,
+                    "height": 949,
+                    "images": [
+                        {
+                            "@id": "https://data.getty.edu/museum/api/iiif/id:826/annotation/main-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif/full/full/0/default.tif",
+                                "@type": "dctypes:Image",
+                                "format": "image/tif",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif",
+                                    "profile": "http://iiif.io/api/image/2/profiles/level0.json"
+                                },
+                                "width": 1200,
+                                "height": 949
+                            },
+                            "on": "https://data.getty.edu/museum/api/iiif/id:826/canvas/main"
+                        }
+                    ],
+                    "thumbnail": "https://data.getty.edu/museum/api/iiif/671108/full/600,472/0/default.jpg"
+                }
+            ]
+        }
+    ],
+    "license": "http://www.getty.edu/legal/copyright.html#oc",
+    "related": "https://raw.githubusercontent.com/vedph/test_IIIF/main/manifest_paolina_borghese.json"
+}
