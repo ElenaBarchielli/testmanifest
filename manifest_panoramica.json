@@ -65,6 +65,18 @@
                ],
                "thumbnail":"https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/s1_panorama.png/full/full/0/default.jpg"
             }
+		 {
+		    "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/s1_panorama.png/info.json",
+		    "@type": "sc:Canvas",
+		    "images": [
+		    ...
+		    ],
+		    "otherContent": [ {
+			"@id": "http://54.38.189.118:8081/annotation/list/54610c72cc77d139f551ccdf548da4d6.jsonn",
+			"@type": "sc:AnnotationList",
+			"label": "My fantastic annotations"
+		    }]
+		}
          ]
       }
    ]
