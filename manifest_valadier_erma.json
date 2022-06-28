@@ -93,12 +93,12 @@
                             "@type": "oa:Annotation",
                             "motivation": "sc:sculpture",
                             "resource": {
-                                "@id": "https://6012.cophilab-cloud.ilc.cnr.it/INV_147.jpg/full/full/0/default.jpg",
+                                "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Valadier-Erma-Bacco.tif",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "service": {
                                     "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "https://6012.cophilab-cloud.ilc.cnr.it/INV_147.jpg",
+                                    "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Valadier-Erma-Bacco.tif",
                                     "profile": "http://iiif.io/api/image/2/profiles/level0.json"
                                 },
                                 "width": 800,
