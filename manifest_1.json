@@ -67,7 +67,7 @@
             "value": "Principe Camillo Borghese, 1808; Inventario Fidecommissario Borghese, 1833, A, p. 15; Acquisto dello Stato, 1902."
         }
     ],
-    "thumbnail": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif/full/full/0/default.tif",
+    "thumbnail": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif/full/full/0/default.jpg",
     "viewDirection": "right-to-left",
     "attribution":"Digital image courtesy of the <a href='https://galleriaborghese.beniculturali.it/info/foto-e-video/' target='_blank'>Galleria Borghese<\/a>.",
     "logo":"https://galleriaborghese.beniculturali.it/wp-content/uploads/logo.svg",
@@ -102,7 +102,7 @@
                                     "profile": "http://iiif.io/api/image/2/profiles/level0.json"
                                 }
                             },
-						"on": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif/full/full/0/default.tif"
+						"on": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif/full/full/0/default.jpg"
 						}
                     ],
 					"thumbnail":"https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/sala_panoramica_2.png/full/full/0/default.jpg"
