@@ -93,7 +93,7 @@
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
                             "resource": {
-                                "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif/full/full/0/default.tif",
+                                "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif/full/full/0/default.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/tif",
                                 "service": {
