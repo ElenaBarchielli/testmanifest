@@ -74,7 +74,7 @@
     "within":"-",
     "sequences": [
         {
-            "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif/",
+            "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share#sequencePaolina",
             "@type": "sc:Sequence",
             "label": "Object",
             "viewingDirection": "left-to-right",
@@ -82,14 +82,14 @@
             "startCanvas": "",
             "canvases": [
                 {
-                    "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif/",
+                    "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif",
                     "@type": "sc:Canvas",
                     "label": "Main Image",
                     "width": 1200,
                     "height": 949,
                     "images": [
                         {
-                            "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif/",
+                            "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
                             "resource": {
@@ -100,13 +100,12 @@
                                     "@context": "http://iiif.io/api/image/2/context.json",
                                     "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif",
                                     "profile": "http://iiif.io/api/image/2/profiles/level0.json"
-                                },
-                                "width": 1200,
-                                "height": 949
-                            }
-                        }
+                                }
+                            },
+						"on": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif/full/full/0/default.tif"
+						}
                     ],
-                    "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif/full/full/0/default.tif"
+					"thumbnail":"https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/sala_panoramica_2.png/full/full/0/default.jpg"
                 }
             ]
         }
