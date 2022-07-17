@@ -2,7 +2,7 @@
    "@context":"http://iiif.io/api/presentation/2/context.json",
    "@id":"https://raw.githubusercontent.com/ElenaBarchielli/testmanifest/main/manifest_paolina_eb4.json",
    "@type":"sc:Manifest",
-   "label":"Sala 1 - Sala della Paolina_eb4",
+   "label":"Sala 1 - Sala della Paolina",
    "service": {
    "profile": "http://iiif.io/api/search/0/search",
    "@id": "http://54.38.189.118:8081/search-api/45a10a842038a91aa918fdb7e4a39fa3/search",
