@@ -38,29 +38,30 @@
          "startCanvas":"-",
          "canvases":[
             {
-               "@id":"https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/sala_panoramica.png/info.json",
+               "@id":"https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/sala_panoramica.png",
                "@type":"sc:Canvas",
                "label":"Sala 360",
                "width":858,
                "height":1200,
                "images":[
                   {
-                     "@id":"https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/sala_panoramica.png/info.json",
+                     "@id":"https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/sala_panoramica.png",
                      "@type":"oa:Annotation",
                      "motivation":"sc:foto360",
-					 "on": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/sala_panoramica.png/info.json",
+					 
                      "resource":{
                         "@id":"https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/sala_panoramica.png/",
                         "@type":"dctypes:Image",
                         "format":"image/png",
                         "service":{
                            "@context":"http://iiif.io/api/image/2/context.json",
-                           "@id":"https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/sala_panoramica.png/",
+                           "@id":"https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/sala_panoramica.png/full/full/0/default.jpg",
                            "profile":"http://iiif.io/api/image/2/profiles/level1.json"
                         },
                         "width":18000,
                         "height":9000
-                     }
+                     },
+			  "on": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/sala_panoramica.png/full/full/0/default.jpg"
                   }
                ],
                "thumbnail":"https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/sala_panoramica.png/full/full/0/default.jpg",
