@@ -61,65 +61,13 @@
                         "width":18000,
                         "height":9000
                      }
-                  },
-		  {
-                    "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif",
-                    "@type": "sc:Canvas",
-                    "label": "Main Image",
-                    "width": 1200,
-                    "height": 949,
-                    "images": [
-                        {
-                            "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif",
-                            "@type": "oa:Annotation",
-                            "motivation": "sc:painting",
-                            "resource": {
-                                "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif/full/full/0/default.jpg",
-                                "@type": "dctypes:Image",
-                                "format": "image/tif",
-                                "service": {
-                                    "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif",
-                                    "profile": "http://iiif.io/api/image/2/profiles/level0.json"
-                                }
-                            },
-						"on": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif/full/full/0/default.jpg"
-						}
-                    ],
-					"thumbnail":"https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif/full/full/0/default.jpg"
-                },
-		{
-                    "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/CXXXXV_VALADIER.jpg",
-                    "@type": "sc:Canvas",
-                    "label": "Main Image",
-                    "width": 1200,
-                    "height": 949,
-                    "images": [
-                        {
-                            "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/CXXXXV_VALADIER.jpg",
-                            "@type": "oa:Annotation",
-                            "motivation": "sc:painting",
-                            "resource": {
-                                "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/CXXXXV_VALADIER.jpg/full/full/0/default.jpg",
-                                "@type": "dctypes:Image",
-                                "format": "image/tif",
-                                "service": {
-                                    "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/CXXXXV_VALADIER.jpg",
-                                    "profile": "http://iiif.io/api/image/2/profiles/level0.json"
-                                }
-                            },
-						"on": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/CXXXXV_VALADIER.jpg/full/full/0/default.jpg"
-						}
-                    ],
-					"thumbnail":"https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/CXXXXV_VALADIER.jpg/full/full/0/default.jpg"
-                }
+                  }
                ],
                "thumbnail":"https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/sala_panoramica.png/full/full/0/default.jpg",
-	       "otherContent": [ {
-		       "@id": "http://54.38.189.118:8081/annotation/list/485692b588835a3fdc3e2483fefe74fd.json",
-		       "@type": "sc:AnnotationList",
-		       "label": "My fantastic annotations"
+	            "otherContent": [ {
+		         "@id": "http://54.38.189.118:8081/annotation/list/485692b588835a3fdc3e2483fefe74fd.json",
+		         "@type": "sc:AnnotationList",
+		         "label": "My fantastic annotations"
                }]
             }
          ]
