@@ -50,7 +50,7 @@
                      "motivation":"sc:foto360",
 					 
                      "resource":{
-                        "@id":"https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/sala_panoramica.png/",
+                        "@id":"https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/sala_panoramica.png",
                         "@type":"dctypes:Image",
                         "format":"image/png",
                         "service":{
