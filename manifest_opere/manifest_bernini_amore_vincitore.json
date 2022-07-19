@@ -1,0 +1,171 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://raw.githubusercontent.com/ElenaBarchielli/testmanifest/main/manifest_opere/manifest_valadier_erma.json",
+    "@type": "sc:Manifest",
+    "label": "Amore Vincitore, 1617 ca., Attribuito a Bernini Pietro",
+    "description": "Il bassorilievo, di piccole dimensioni, ritrae un vivace Amore che brandisce una freccia con aria maliziosa, mentre è assiso su un’aquila, uno degli animali araldici della famiglia Borghese. Il putto, piuttosto corpulento, si sostiene al collo dell’uccello, che, visibilmente sopraffatto da tale peso, è posato sopra un masso. Un lembo del panneggio che parzialmente avvolge il corpo di Amore svolazza alle sue spalle, terminando nell’angolo superiore destro del rilievo, mentre il resto del tessuto crea pesanti pieghe alle spalle dell’aquila, in basso sulla destra del rilievo. La capigliatura è ben delineata, con uno spettinato ciuffo sulla fronte, mentre il busto risulta piuttosto indefinito, a suggerire la morbidezza delle carni. Collocato all’interno della Villa Pinciana, in una parete della Sala I, presumibilmente intorno al 1780, nel corso dei lavori di decorazione diretti da Antonio Asprucci, il bassorilievo è stato riferito a Pietro Bernini sulla scorta della lettura di alcuni pagamenti a lui indirizzati senza indicazione di opera e delle analogie stilistiche con altre sue opere.",
+    "metadata": 
+    [
+        {
+            "label": "Title",
+            "value": "Amore Vincitore"
+        },
+        {
+            "label": "Artist / Maker",
+            "value": "Attribuito a Bernini Pietro (Sesto Fiorentino 1562 - Roma 1629)"
+        },
+        {
+            "label": "Date",
+            "value": "1617 ca."
+        },
+        {
+            "label": "Culture",
+            "value": "-"
+        },
+        {
+            "label": "Medium / Technique",
+            "value": "marmo"
+        },
+        {
+            "label": "Dimensions",
+            "value": "70 x 60 cm (- in.)"
+        },
+        {
+            "label": "Number of Inventory",
+            "value": "LXXIV"
+        },
+        {
+            "label": "Location",
+            "value": "<a href='link alla pagina della sala' target='_blank'>Sala<\/a> <a href='link al virtual tour' target='_blank'>Sala<\/a>"
+        },
+        {
+            "label": "Place Created",
+            "value": "-"
+        },
+        {
+            "label": "Signature(s)",
+            "value": "-"
+        },
+        {
+            "label": "Mark(s)",
+            "value": "-"
+        },
+        {
+            "label": "Classification",
+            "value": "-"
+        },
+        {
+            "label": "Object Type",
+            "value": "-"
+        },
+        {
+            "label": "Collection",
+            "value": "<a href=’https://galleriaborghese.beniculturali.it/' target='_blank'>Galleria Borghese<\/a>"
+        },
+        {
+            "label": "Rights Statement",
+            "value": "-"
+        },
+        {
+            "label": "Full Artwork Details",
+            "value": "Amore, a cavalcioni di un’aquila, al cui collo si sostiene fermamente, rivolge lo sguardo verso il basso e brandisce con la mano destra una freccia, forse alla ricerca di un destinatario per il suo dardo. L’espressione del volto è furba e impudente, come si confà al dio che ha il potere di stravolgere la vita di uomini e divinità suscitando amore o odio nei loro cuori. “Si vede, espresso di basso rilievo moderno, Cupido sopra un’Aquila con un dardo in mano” così descriveva Montelatici (1700, p. 72) un piccolo bassorilievo collocato a ridosso di una facciata posta come prospettiva di uno dei viali del secondo recinto della villa, chiaramente identificabile con il presente (D'Onofrio 1967, p. 258). Documentato per la prima volta all’interno della villa Pinciana nel 1796 (Lamberti, Visconti, II, p.46), nella Sala I, dove è murato nella parete che confina col Salone di ingresso della villa, il rilievo è probabilmente stato spostato in questa posizione in occasione dei lavori di ristrutturazione dell’edificio condotti dall’architetto Antonio Asprucci, tra il 1775 ed il 1785, su incarico di Marcantonio IV Borghese. Mentre Faldi lo ritiene piuttosto eseguito in relazione a tali lavori (1954, p. 18), Fruhan recupera la citazione riportata da Montelatici ma non ne recepisce la collocazione, ritenendolo eseguito per la facciata della Villa, e non prende posizione sull’attribuzione (Fruhan 1986, p. 551 n. 174). Il rinvenimento di alcuni pagamenti destinati dalla famiglia Borghese a Pietro Bernini ha portato D’Onofrio ad individuarne alcuni che sosterrebbero la sua attribuzione, suffragata dalle forme un po’ sfatte del putto e dai suoi tratti fisiognomici che, secondo lo studioso, ricordano quelli del bassorilievo dell’Assunta da lui eseguito per l’esterno della Cappella Paolina in S. Maria Maggiore proprio tra il 1607-1610 (D'Onofrio 1967, pp. 258-259). Kessler, nella sua monografia sull’artista del 2005, non cita il rilievo tra le sue opere.  Nato in Toscana, Pietro Bernini lavorò per un ventennio a Napoli, dove nel 1598 nacque il figlio Gian Lorenzo, prima di trasferirsi a Roma tra il 1605-1606. Numerose le opere cui si dedicò su commissione della famiglia Borghese: oltre al citato rilievo dell'Assunta, oggi nel battistero della basilica di S. Maria Maggiore, eseguì per la cappella Paolina l’Incoronazione di Clemente VIII (1611-1613), l’Angelo a sinistra sopra il portale d'ingresso della cappella Paolina del Quirinale (1616-17) e il Marco Curzio, termini e altre sculture decorative per la Villa Borghese, queste ultime condotte con la collaborazione del figlio. Sonja Felici"
+        },
+        {
+            "label": "Frame",
+            "value": "-"
+        },
+        {
+            "label": "Exhibitions",
+            "value": "-"
+        },
+        {
+            "label": "Restauration",
+            "value": "1996/ 1997 Consorzio Capitolino"
+        },
+        {
+            "label": "Bibliography",
+            "value": "-"
+        },
+        {
+            "label": "Provenance",
+            "value": "Inventario Fidecommissario Borghese, 1833, p. 44; Acquisto dello Stato, 1902."
+        },
+        {
+            "label": "Storiiies",
+            "value": "<a href='link alle storiiies' target='_blank'>Storiiies<\/a>"
+        }
+    ],
+    "thumbnail": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Valadier-Erma-Bacco.tif/full/full/0/default.jpg",
+    "viewDirection": "right-to-left",
+    "attribution": "Digital image courtesy of the <a href='https://galleriaborghese.beniculturali.it/info/foto-e-video/' target='_blank'>Galleria Borghese<\/a>.",
+    "logo": "https://galleriaborghese.beniculturali.it/wp-content/uploads/logo.svg",
+    "within": "-",
+    "sequences": [
+        {
+            "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share#sequenceErma",
+            "@type": "sc:Sequence",
+            "label": "Object",
+            "viewingDirection": "left-to-right",
+            "viewingHint": "paged",
+            "startCanvas": "-",
+            "canvases": [
+                {
+                    "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Valadier-Erma-Bacco.tif",
+                    "@type": "sc:Canvas",
+                    "label": "Main Image",
+                    "width": 12264,
+                    "height": 16352,
+                    "images": [
+                        {
+                            "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Valadier-Erma-Bacco.tif/full/full/0/default.jpg",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Valadier-Erma-Bacco.ti",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Valadier-Erma-Bacco.ti",
+                                    "profile": "http://iiif.io/api/image/2/profiles/level0.json"
+                                }
+                            },
+                            "on": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Valadier-Erma-Bacco.tif/full/full/0/default.jpg"
+                        }
+                    ],
+                    "thumbnail": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Valadier-Erma-Bacco.tif/full/full/0/default.jpg"
+                },
+                {
+                    "@id":"https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/sala_panoramica.png/info.json",
+                    "@type":"sc:Canvas",
+                    "label":"Sala 360",
+                    "width":18000,
+                    "height":9000,
+                    "images":[
+                       {
+                          "@id":"https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/sala_panoramica.png/info.json",
+                          "@type":"oa:Annotation",
+                          "motivation":"sc:foto360",
+                          "on":"https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/sala_panoramica.png/info.json",
+                          "resource":{
+                             "@id":"https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/sala_panoramica.png/",
+                             "@type":"dctypes:Image",
+                             "format":"image/png",
+                             "service":{
+                                "@context":"http://iiif.io/api/image/2/context.json",
+                                "@id":"https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/sala_panoramica.png/",
+                                "profile":"http://iiif.io/api/image/2/profiles/level1.json"
+                             },
+                             "width":18000,
+                             "height":9000
+                          }
+                       }
+                    ],
+                    "thumbnail":"https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/sala_panoramica.png/full/full/0/default.jpg"
+                 }
+            ]
+        }
+    ],
+    "license": "https://galleriaborghese.beniculturali.it/info/foto-e-video/",
+    "related": "https://raw.githubusercontent.com/ElenaBarchielli/testmanifest/main/manifest_opere/manifest_valadier_erma.json"
+}

@@ -1,0 +1,171 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://raw.githubusercontent.com/ElenaBarchielli/testmanifest/main/manifest_opere/manifest_canova_paolina.json",
+    "@type": "sc:Manifest",
+    "label": "Busto di Scipione l'Africano, XVII secolo, Ambito Romano",
+    "description": "Ritratta da Antonio Canova come Venere vincitrice del giudizio di Paride, Paolina Borghese Bonaparte (1780-1825) è raffigurata a seno scoperto, distesa su due cuscini e un morbido materasso, con la mano destra al capo e la sinistra che tiene il pomo. Secondo il noto episodio della mitologia greca, Paride assegnò a lei il pomo d’oro come segno del suo primato nella bellezza, conteso con Giunone e Minerva. La scultura, eseguita a Roma tra il 1804 e il 1808, destò un certo scalpore fra i contemporanei: in essa grazia antica e artificio compositivo si accordano con la resa naturalistica, quasi pittorica, dei morbidi incarnati e dei veli leggeri che coprono i fianchi di Paolina, dando vita ad un insieme  estremamente seducente. Il triclinio, noto come “agrippina”, è decorato da un drappeggio con frange, borchie, girali e figure antropomorfe sui lati e sulla spalliera e nasconde un meccanismo che permette alla scultura di girare e mostrarsi a 360°. I disegni preparatori dell’opera sono conservati al Museo Civico di Bassano, mentre il modello in gesso è ubicato nella Gipsoteca di Possagno.",
+    "metadata": 
+    [
+        {
+            "label": "Title",
+            "value": "Busto di Scipione l'Africano"
+        },
+        {
+            "label": "Artist / Maker",
+            "value": "Ambito Romano"
+        },
+        {
+            "label": "Date",
+            "value": "XVII secolo"
+        },
+        {
+            "label": "Culture",
+            "value": "-"
+        },
+        {
+            "label": "Medium / Technique",
+            "value": "marmo statuario e bigio morato"
+        },
+        {
+            "label": "Dimensions",
+            "value": "h 64 cm ( - in.)"
+        },
+        {
+            "label": "Number of Inventory",
+            "value": "LXXVI"
+        },
+        {
+            "label": "Location",
+            "value": "<a href='https://galleriaborghese.beniculturali.it/il-museo/la-villa/sala-1-sala-della-paolina/' target='_blank'>Sala I - Sala della Paolina<\/a>"
+        },
+        {
+            "label": "Place Created",
+            "value": "-"
+        },
+        {
+            "label": "Signature(s)",
+            "value": "-"
+        },
+        {
+            "label": "Mark(s)",
+            "value": "-"
+        },
+        {
+            "label": "Classification",
+            "value": "-"
+        },
+        {
+            "label": "Object Type",
+            "value": "-"
+        },
+        {
+            "label": "Collection",
+            "value": "<a href=’https://galleriaborghese.beniculturali.it/' target='_blank'>Galleria Borghese<\/a>"
+        },
+        {
+            "label": "Rights Statement",
+            "value": "-"
+        },
+        {
+            "label": "Full Artwork Details",
+            "value": "Il personaggio è ritratto con il viso rivolto leggermente a destra, la testa calva e l’ovale del volto pieno, il naso dritto da cui si sviluppano profondi solchi naso-labiali, secondo una iconografia tradizionalmente riferita a Scipione Africano. L’identificazione di tale fisionomia, derivata da prototipi antichi che ritraggono piuttosto sacerdoti isiaci (Faldi 1954, p.15; Galleria Borghese 2000, p. 76), con il generale e console romano era dovuta soprattutto dalla calvizie, motivata dal fatto che a lui si riconduceva l’introduzione a Roma della moda di radersi quotidianamente il capo (Palma Venetucci 1993, pp. 53-54). Il busto marmoreo riproduce una toga contabulata, ossia indossata con il lembo anteriore avvolto intorno al torace piuttosto che lasciato scendere verso il basso. L’opera, di cui non è noto l’autore, è stata considerata un prodotto seicentesco per l’accentuata dicromia, che si caratterizza anche per l’uso del bigio per il volto – determinato dall’associazione tra il nome del personaggio e il colore della sua pelle – e la ripresa, priva di accuratezza filologica, del repertorio della statuaria romana, evidente nella raffigurazione di una toga contabulata, tipica dell’età tardo imperiale. Il busto risulta documentato dalle fonti per la prima volta nel 1796, quando è registrato in una testata del portico (Lamberti, Visconti, I, p. 11). Nell’Inventario Fidecommissario è descritto come esposto in sala I, in una nicchia della parete (1833, C, p. 44, n. 50), dove può ritenersi collocato in occasione del riallestimento della Villa Pinciana operato dall’architetto Antonio Asprucci. Sonja Felici"
+        },
+        {
+            "label": "Frame",
+            "value": "-"
+        },
+        {
+            "label": "Exhibitions",
+            "value": "-"
+        },
+        {
+            "label": "Restauration",
+            "value": "1996/ 1997 Consorzio Capitolino"
+        },
+        {
+            "label": "Bibliography",
+            "value": "-"
+        },
+        {
+            "label": "Provenance",
+            "value": "Documentato per la prima volta nella Villa Pinciana nel 1796 (L. Lamberti, E.Q. Visconti, Sculture del palazzo della Villa Borghese detta Pinciana, Roma 1796, I, p. 11). Inventario Fidecommissario Borghese, 1833, C, p. 44, n. 50. Acquisto dello Stato, 1902."
+        },
+        {
+            "label": "Storiiies",
+            "value": "<a href='link alle storiiies' target='_blank'>Storiiies<\/a>"
+        }
+    ],
+    "thumbnail": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif/full/full/0/default.jpg",
+    "viewDirection": "right-to-left",
+    "attribution": "Digital image courtesy of the <a href='https://galleriaborghese.beniculturali.it/info/foto-e-video/' target='_blank'>Galleria Borghese<\/a>.",
+    "logo": "https://galleriaborghese.beniculturali.it/wp-content/uploads/logo.svg",
+    "within": "-",
+    "sequences": [
+        {
+            "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share#sequencePaolina",
+            "@type": "sc:Sequence",
+            "label": "Object",
+            "viewingDirection": "left-to-right",
+            "viewingHint": "paged",
+            "startCanvas": "-",
+            "canvases": [
+                {
+                    "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif",
+                    "@type": "sc:Canvas",
+                    "label": "Main Image",
+                    "width": 5299,
+                    "height": 4189,
+                    "images": [
+                        {
+                            "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/tif",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif",
+                                    "profile": "http://iiif.io/api/image/2/profiles/level0.json"
+                                }
+                            },
+						"on": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif/full/full/0/default.jpg"
+						}
+                    ],
+                    "thumbnail": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif/full/full/0/default.jpg"
+                },
+                {
+                    "@id":"https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/sala_panoramica.png/info.json",
+                    "@type":"sc:Canvas",
+                    "label":"Sala 360",
+                    "width":18000,
+                    "height":9000,
+                    "images":[
+                       {
+                          "@id":"https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/sala_panoramica.png/info.json",
+                          "@type":"oa:Annotation",
+                          "motivation":"sc:foto360",
+                          "on":"https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/sala_panoramica.png/info.json",
+                          "resource":{
+                             "@id":"https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/sala_panoramica.png/",
+                             "@type":"dctypes:Image",
+                             "format":"image/png",
+                             "service":{
+                                "@context":"http://iiif.io/api/image/2/context.json",
+                                "@id":"https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/sala_panoramica.png/",
+                                "profile":"http://iiif.io/api/image/2/profiles/level1.json"
+                             },
+                             "width":18000,
+                             "height":9000
+                          }
+                       }
+                    ],
+                    "thumbnail":"https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/sala_panoramica.png/full/full/0/default.jpg"
+                 }
+            ]
+        }
+    ],
+    "license": "https://galleriaborghese.beniculturali.it/info/foto-e-video/",
+    "related": "https://raw.githubusercontent.com/ElenaBarchielli/testmanifest/main/manifest_opere/manifest_canova_paolina.json"
+}
