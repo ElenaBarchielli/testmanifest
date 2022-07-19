@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://raw.githubusercontent.com/ElenaBarchielli/testmanifest/main/manifest_opere/manifest_canova_paolina.json",
+    "@id": "https://raw.githubusercontent.com/ElenaBarchielli/testmanifest/main/manifest_opere/manifest_clementeXII.json",
     "@type": "sc:Manifest",
     "label": "Busto di Clemente XII, Bracci Pietro",
     "description": "Il pontefice raffigurato con piglio austero in questo busto intensamente espressivo è il toscano Clemente XII Corsini; egli fu qui ritratto, probabilmente dal romano Pietro Bracci, con indosso il camauro, una stola finemente decorata e la mozzetta orlata di pelliccia e mossa da profonde pieghe. Il volto, serio e accigliato, è scolpito con una resa realistica delle rughe.  L’opera, non documentata nel diario in cui Pietro Bracci elencò tutte le opere da lui prodotte, gli è stata riferita dalla critica in seguito al confronto con un altro busto di Clemente XII, conservato presso la Galleria Nazionale d'Arte Antica di Roma. Per la datazione dell’opera si fa riferimento agli anni del pontificato di Clemente XII, anche se non ne è da escluderne un’esecuzione successiva.",
@@ -167,5 +167,5 @@
         }
     ],
     "license": "https://galleriaborghese.beniculturali.it/info/foto-e-video/",
-    "related": "https://raw.githubusercontent.com/ElenaBarchielli/testmanifest/main/manifest_opere/manifest_canova_paolina.json"
+    "related": "https://www.collezionegalleriaborghese.it/opere/busto-di-clemente-xii"
 }
