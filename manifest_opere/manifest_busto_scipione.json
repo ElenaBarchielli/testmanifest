@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://raw.githubusercontent.com/ElenaBarchielli/testmanifest/main/manifest_opere/manifest_canova_paolina.json",
+    "@id": "https://raw.githubusercontent.com/ElenaBarchielli/testmanifest/main/manifest_opere/manifest_busto_scipione.json",
     "@type": "sc:Manifest",
     "label": "Busto di Scipione l'Africano, XVII secolo, Ambito Romano",
     "description": "Ritratta da Antonio Canova come Venere vincitrice del giudizio di Paride, Paolina Borghese Bonaparte (1780-1825) è raffigurata a seno scoperto, distesa su due cuscini e un morbido materasso, con la mano destra al capo e la sinistra che tiene il pomo. Secondo il noto episodio della mitologia greca, Paride assegnò a lei il pomo d’oro come segno del suo primato nella bellezza, conteso con Giunone e Minerva. La scultura, eseguita a Roma tra il 1804 e il 1808, destò un certo scalpore fra i contemporanei: in essa grazia antica e artificio compositivo si accordano con la resa naturalistica, quasi pittorica, dei morbidi incarnati e dei veli leggeri che coprono i fianchi di Paolina, dando vita ad un insieme  estremamente seducente. Il triclinio, noto come “agrippina”, è decorato da un drappeggio con frange, borchie, girali e figure antropomorfe sui lati e sulla spalliera e nasconde un meccanismo che permette alla scultura di girare e mostrarsi a 360°. I disegni preparatori dell’opera sono conservati al Museo Civico di Bassano, mentre il modello in gesso è ubicato nella Gipsoteca di Possagno.",
@@ -167,5 +167,5 @@
         }
     ],
     "license": "https://galleriaborghese.beniculturali.it/info/foto-e-video/",
-    "related": "https://raw.githubusercontent.com/ElenaBarchielli/testmanifest/main/manifest_opere/manifest_canova_paolina.json"
+    "related": "https://raw.githubusercontent.com/ElenaBarchielli/testmanifest/main/manifest_opere/manifest_busto_scipione.json"
 }
