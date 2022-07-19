@@ -73,7 +73,7 @@
             {
                "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif",
                "@type": "sc:Canvas",
-               "label": "Main Image",
+               "label": "Paolina Borghese Bonaparte come Venere Vincitrice, 1804 - 1808, Canova Antonio",
                "width": 5299,
                "height": 4189,
                "images": [
@@ -99,7 +99,7 @@
            {
             "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Valadier-Erma-Bacco.tif",
             "@type": "sc:Canvas",
-            "label": "Main Image",
+            "label": "Erma di Bacco, 1773, Valadier Luigi",
             "width": 12264,
             "height": 16352,
             "images": [
