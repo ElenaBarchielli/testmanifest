@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://raw.githubusercontent.com/ElenaBarchielli/testmanifest/main/manifest_opere/manifest_bernini_amore_vincitore.jsonn",
+    "@id": "https://raw.githubusercontent.com/ElenaBarchielli/testmanifest/main/manifest_opere/manifest_bernini_amore_vincitore.json",
     "@type": "sc:Manifest",
     "label": "Amore Vincitore, 1617 ca., Attribuito a Bernini Pietro",
     "description": "Il bassorilievo, di piccole dimensioni, ritrae un vivace Amore che brandisce una freccia con aria maliziosa, mentre è assiso su un’aquila, uno degli animali araldici della famiglia Borghese. Il putto, piuttosto corpulento, si sostiene al collo dell’uccello, che, visibilmente sopraffatto da tale peso, è posato sopra un masso. Un lembo del panneggio che parzialmente avvolge il corpo di Amore svolazza alle sue spalle, terminando nell’angolo superiore destro del rilievo, mentre il resto del tessuto crea pesanti pieghe alle spalle dell’aquila, in basso sulla destra del rilievo. La capigliatura è ben delineata, con uno spettinato ciuffo sulla fronte, mentre il busto risulta piuttosto indefinito, a suggerire la morbidezza delle carni. Collocato all’interno della Villa Pinciana, in una parete della Sala I, presumibilmente intorno al 1780, nel corso dei lavori di decorazione diretti da Antonio Asprucci, il bassorilievo è stato riferito a Pietro Bernini sulla scorta della lettura di alcuni pagamenti a lui indirizzati senza indicazione di opera e delle analogie stilistiche con altre sue opere.",
