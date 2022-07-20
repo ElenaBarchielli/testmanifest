@@ -28,7 +28,7 @@
         },
         {
             "label": "Dimensions",
-            "value": "- × - cm (- × - in.)"
+            "value": "h 92 cm, con il letto 160 cm"
         },
         {
             "label": "Number of Inventory",
@@ -52,7 +52,7 @@
         },
         {
             "label": "Classification",
-            "value": "-"
+            "value": "<a href='https://www.collezionegalleriaborghese.it/collezione/scultura' target='_blank'>Scultura Moderna<\/a>"
         },
         {
             "label": "Object Type",
@@ -76,11 +76,11 @@
         },
         {
             "label": "Exhibitions",
-            "value": "-"
+            "value": "2007-2008 Roma, Galleria Borghese"
         },
         {
             "label": "Restauration",
-            "value": "-"
+            "value": "1924 C. Fossi, 1955 V. Consalvi, 1957 E. Pedrazzoni, 1957 S. Camilucci, 1965 S. Camillucci, 1996 SECTILE s.n.c./ Ceccotti, 1996/ 1997 Cons. Capitolino"
         },
         {
             "label": "Bibliography",
@@ -88,7 +88,7 @@
         },
         {
             "label": "Provenance",
-            "value": "-"
+            "value": "Principe Camillo Borghese, 1808; Inventario Fidecommissario Borghese, 1833, A, p. 15; Acquisto dello Stato, 1902."
         },
         {
             "label": "Storiiies",
@@ -134,10 +134,38 @@
 						}
                     ],
                     "thumbnail": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif/full/full/0/default.jpg"
-                }
+                },
+                {
+                    "@id":"https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/sala_panoramica.png/info.json",
+                    "@type":"sc:Canvas",
+                    "label":"Sala 360",
+                    "width":18000,
+                    "height":9000,
+                    "images":[
+                       {
+                          "@id":"https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/sala_panoramica.png/info.json",
+                          "@type":"oa:Annotation",
+                          "motivation":"sc:foto360",
+                          "on":"https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/sala_panoramica.png/info.json",
+                          "resource":{
+                             "@id":"https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/sala_panoramica.png/",
+                             "@type":"dctypes:Image",
+                             "format":"image/png",
+                             "service":{
+                                "@context":"http://iiif.io/api/image/2/context.json",
+                                "@id":"https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/sala_panoramica.png/",
+                                "profile":"http://iiif.io/api/image/2/profiles/level1.json"
+                             },
+                             "width":18000,
+                             "height":9000
+                          }
+                       }
+                    ],
+                    "thumbnail":"https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/sala_panoramica.png/full/full/0/default.jpg"
+                 }
             ]
         }
     ],
     "license": "https://galleriaborghese.beniculturali.it/info/foto-e-video/",
-    "related": "https://raw.githubusercontent.com/ElenaBarchielli/testmanifest/main/manifest_opere/manifest_canova_paolina.json"
+    "related": "https://www.collezionegalleriaborghese.it/opere/paolina-borghese-bonaparte-come-venere-vincitrice"
 }
