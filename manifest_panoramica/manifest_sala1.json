@@ -21,6 +21,18 @@
       {
          "label":"Opere in sala",
          "value":"<a href='https://galleriaborghese.beniculturali.it/opere/erma-di-bacco/' target='_blank'>Erma di Bacco - Valadier Luigi<\/a>"
+      },
+      {
+         "label":"Opere in sala",
+         "value":"<a href='https://www.collezionegalleriaborghese.it/opere/amore-vincitore' target='_blank'>Amore Vincitore - Attribuito a Bernini Pietro<\/a>"
+      },
+      {
+         "label":"Opere in sala",
+         "value":"<a href='https://www.collezionegalleriaborghese.it/opere/busto-di-scipione-lafricano' target='_blank'>Busto di Scipione l'Africano - Ambito Romano<\/a>"
+      },
+      {
+         "label":"Opere in sala",
+         "value":"<a href='https://www.collezionegalleriaborghese.it/opere/busto-di-clemente-xii' target='_blank'>Busto di Clemente XII - Bracci Pietro<\/a>"
       }
    ],
    "thumbnail":"-",
