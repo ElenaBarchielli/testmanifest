@@ -109,8 +109,8 @@
                     "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Valadier-Erma-Bacco.tif",
                     "@type": "sc:Canvas",
                     "label": "Main Image",
-                    "width": 12264,
-                    "height": 16352,
+                    "width": 3817,
+                    "height": 4237,
                     "images": [
                         {
                             "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Valadier-Erma-Bacco.tif/full/full/0/default.jpg",

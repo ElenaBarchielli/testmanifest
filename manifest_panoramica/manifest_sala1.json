@@ -145,113 +145,89 @@
                       }
                   ],
                   "thumbnail": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Valadier-Erma-Bacco.tif/full/full/0/default.jpg"
-              }
+              },
+              {
+               "@id": "",
+               "@type": "sc:Canvas",
+               "label": "Amore Vincitore, 1617 ca., Attribuito a Bernini Pietro",
+               "width": 3817,
+               "height": 4237,
+               "images": [
+                   {
+                       "@id": "",
+                       "@type": "oa:Annotation",
+                       "motivation": "sc:painting",
+                       "resource": {
+                           "@id": "",
+                           "@type": "dctypes:Image",
+                           "format": "image/jpeg",
+                           "service": {
+                               "@context": "http://iiif.io/api/image/2/context.json",
+                               "@id": "",
+                               "profile": "http://iiif.io/api/image/2/profiles/level0.json"
+                           }
+                       },
+                       "on": ""
+                   }
+               ],
+               "thumbnail": ""
+           },
+           {
+            "@id": "",
+            "@type": "sc:Canvas",
+            "label": "Busto di Scipione l'Africano, XVII secolo, Ambito Romano",
+            "width": 4032,
+            "height": 6048,
+            "images": [
+                {
+                    "@id": "",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "resource": {
+                        "@id": "",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "",
+                            "profile": "http://iiif.io/api/image/2/profiles/level0.json"
+                        }
+                    },
+                    "on": ""
+                }
+            ],
+            "thumbnail": ""
+        },
+        {
+         "@id": "",
+         "@type": "sc:Canvas",
+         "label": "Busto di Scipione l'Africano, XVII secolo, Ambito Romano",
+         "width": 8700,
+         "height": 11600,
+         "images": [
+             {
+                 "@id": "",
+                 "@type": "oa:Annotation",
+                 "motivation": "sc:painting",
+                 "resource": {
+                     "@id": "",
+                     "@type": "dctypes:Image",
+                     "format": "image/jpeg",
+                     "service": {
+                         "@context": "http://iiif.io/api/image/2/context.json",
+                         "@id": "",
+                         "profile": "http://iiif.io/api/image/2/profiles/level0.json"
+                     }
+                 },
+                 "on": ""
+             }
+         ],
+         "thumbnail": ""
+     }
                ]
             }
          ]
       }
       
-   ],
-   "thumbnail":"-",
-   "viewDirection":"right-to-left",
-   "attribution":"Digital image courtesy of the <a href='https://galleriaborghese.beniculturali.it/info/foto-e-video/' target='_blank'>Galleria Borghese<\/a>.",
-   "logo":"https://galleriaborghese.beniculturali.it/wp-content/uploads/logo.svg",
-   "within":"-",
-   "sequences":[
-      {
-         "@id":"https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/sala_panoramica.png/sequence1/",
-         "@type":"sc:Sequence",
-         "label":"Object",
-         "viewingDirection":"left-to-right",
-         "viewingHint":"paged",
-         "startCanvas":"-",
-         "canvases":[
-            {
-               "@id":"https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/sala_panoramica.png/info.json",
-               "@type":"sc:Canvas",
-               "label":"Sala 360",
-               "width":858,
-               "height":1200,
-               "images":[
-                  {
-                     "@id":"https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/sala_panoramica.png/info.json",
-                     "@type":"oa:Annotation",
-                     "motivation":"sc:foto360",
-                     "on":"https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/sala_panoramica.png/info.json",
-                     "resource":{
-                        "@id":"https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/sala_panoramica.png/",
-                        "@type":"dctypes:Image",
-                        "format":"image/png",
-                        "service":{
-                           "@context":"http://iiif.io/api/image/2/context.json",
-                           "@id":"https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/sala_panoramica.png/",
-                           "profile":"http://iiif.io/api/image/2/profiles/level1.json"
-                        },
-                        "width":18000,
-                        "height":9000
-                     }
-                  }
-               ],
-               "thumbnail":"https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/sala_panoramica.png/full/full/0/default.jpg",
-               "otherContent": [ {
-                  "@id": "http://54.38.189.118:8081/annotation/list/485692b588835a3fdc3e2483fefe74fd.json",
-                  "@type": "sc:AnnotationList",
-                  "label": "My fantastic annotations"
-              }]
-            },
-            {
-               "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif",
-               "@type": "sc:Canvas",
-               "label": "Paolina Borghese Bonaparte come Venere Vincitrice, 1804 - 1808, Canova Antonio",
-               "width": 5299,
-               "height": 4189,
-               "images": [
-                   {
-                       "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif",
-                       "@type": "oa:Annotation",
-                       "motivation": "sc:painting",
-                       "resource": {
-                           "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif/full/full/0/default.jpg",
-                           "@type": "dctypes:Image",
-                           "format": "image/tif",
-                           "service": {
-                               "@context": "http://iiif.io/api/image/2/context.json",
-                               "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif",
-                               "profile": "http://iiif.io/api/image/2/profiles/level0.json"
-                           }
-                       },
-             "on": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif/full/full/0/default.jpg"
-             }
-               ],
-               "thumbnail": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif/full/full/0/default.jpg"
-           },
-           {
-            "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Valadier-Erma-Bacco.tif",
-            "@type": "sc:Canvas",
-            "label": "Erma di Bacco, 1773, Valadier Luigi",
-            "width": 12264,
-            "height": 16352,
-            "images": [
-                {
-                    "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Valadier-Erma-Bacco.tif/full/full/0/default.jpg",
-                    "@type": "oa:Annotation",
-                    "motivation": "sc:painting",
-                    "resource": {
-                        "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Valadier-Erma-Bacco.tif",
-                        "@type": "dctypes:Image",
-                        "format": "image/jpeg",
-                        "service": {
-                            "@context": "http://iiif.io/api/image/2/context.json",
-                            "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Valadier-Erma-Bacco.tif",
-                            "profile": "http://iiif.io/api/image/2/profiles/level0.json"
-                        }
-                    },
-                    "on": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Valadier-Erma-Bacco.tif/full/full/0/default.jpg"
-                }
-            ],
-            "thumbnail": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Valadier-Erma-Bacco.tif/full/full/0/default.jpg"
-        }
-         ]
-      }
    ]
 }
