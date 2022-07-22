@@ -52,7 +52,7 @@
         },
         {
             "label": "Classification",
-            "value": "-"
+            "value": "<a href='https://www.collezionegalleriaborghese.it/collezione/scultura' target='_blank'>Scultura Moderna<\/a>"
         },
         {
             "label": "Object Type",
@@ -76,11 +76,11 @@
         },
         {
             "label": "Exhibitions",
-            "value": "-"
+            "value": "1997 Roma, Villa Medici, 2018-2019 New York, Frick Collection, 2019-2020    Roma, Galleria Borghese"
         },
         {
             "label": "Restauration",
-            "value": "-"
+            "value": "2018 diagnostica: Artelab; ENEA; restauro: C.B.C. coop a r.l."
         },
         {
             "label": "Bibliography",
@@ -88,7 +88,7 @@
         },
         {
             "label": "Provenance",
-            "value": "-"
+            "value": "Marcantonio IV Borghese, 1773 (Archivio Segreto Vaticano, Archivio Borghese, f. 5294, n. 3169, in González-Palacios, 1993, pp. 34-51); Inventario Fidecommissario Borghese, 1833, C, p. 50, n. 121; Acquisto dello Stato, 1902."
         }
     ],
     "thumbnail": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Valadier-Erma-Bacco.tif/full/full/0/default.jpg",
