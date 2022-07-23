@@ -91,14 +91,14 @@
             "value": "Donazione dell’Ospedale Istituto dei Ciechi di Roma, 1910. "
         }
     ],
-    "thumbnail": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif/full/full/0/default.jpg",
+    "thumbnail": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/bracci-clemente.tif/full/full/0/default.jpg",
     "viewDirection": "right-to-left",
     "attribution": "Digital image courtesy of the <a href='https://galleriaborghese.beniculturali.it/info/foto-e-video/' target='_blank'>Galleria Borghese<\/a>.",
     "logo": "https://galleriaborghese.beniculturali.it/wp-content/uploads/logo.svg",
     "within": "-",
     "sequences": [
         {
-            "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share#sequencePaolina",
+            "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share#sequenceClemente",
             "@type": "sc:Sequence",
             "label": "Object",
             "viewingDirection": "left-to-right",
@@ -106,30 +106,30 @@
             "startCanvas": "-",
             "canvases": [
                 {
-                    "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif",
+                    "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/bracci-clemente.tif",
                     "@type": "sc:Canvas",
                     "label": "Main Image",
                     "width": 8700,
                     "height": 11600,
                     "images": [
                         {
-                            "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif",
+                            "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/bracci-clemente.tif",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
                             "resource": {
-                                "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif/full/full/0/default.jpg",
+                                "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/bracci-clemente.tif/full/full/0/default.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/tif",
                                 "service": {
                                     "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif",
+                                    "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/bracci-clemente.tif",
                                     "profile": "http://iiif.io/api/image/2/profiles/level0.json"
                                 }
                             },
-						"on": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif/full/full/0/default.jpg"
+						"on": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/bracci-clemente.tif/full/full/0/default.jpg"
 						}
                     ],
-                    "thumbnail": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif/full/full/0/default.jpg"
+                    "thumbnail": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/bracci-clemente.tif/full/full/0/default.jpg"
                 },
                 {
                     "@id":"https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/sala_panoramica.png/info.json",
