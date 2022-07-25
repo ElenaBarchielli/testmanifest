@@ -136,30 +136,30 @@
                   "thumbnail": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Valadier-Erma-Bacco.tif/full/full/0/default.jpg"
               },
               {
-                  "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/bernini-amore.tif",
+                  "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/bernini-amore.png",
                   "@type": "sc:Canvas",
                   "label": "Amore Vincitore, 1617 ca., Attribuito a Bernini Pietro",
                   "width": 3817,
                   "height": 4237,
                   "images": [
                      {
-                        "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/bernini-amore.tif",
+                        "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/bernini-amore.png",
                         "@type": "oa:Annotation",
                         "motivation": "sc:painting",
                         "resource": {
-                              "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/bernini-amore.tif/full/full/0/default.jpg",
+                              "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/bernini-amore.png/full/full/0/default.jpg",
                               "@type": "dctypes:Image",
-                              "format": "image/tif",
+                              "format": "image/png",
                               "service": {
                                  "@context": "http://iiif.io/api/image/2/context.json",
-                                 "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/bernini-amore.tif",
+                                 "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/bernini-amore.png",
                                  "profile": "http://iiif.io/api/image/2/profiles/level0.json"
                               }
                         },
-                "on": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/bernini-amore.tif/full/full/0/default.jpg"
+                "on": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/bernini-amore.png/full/full/0/default.jpg"
                 }
                   ],
-                  "thumbnail": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/bernini-amore.tif/full/full/0/default.jpg"
+                  "thumbnail": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/bernini-amore.png/full/full/0/default.jpg"
                },
                {
                   "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/scipione-africano.png",
