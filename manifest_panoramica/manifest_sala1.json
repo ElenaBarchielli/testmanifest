@@ -162,30 +162,30 @@
                   "thumbnail": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/bernini-amore.tif/full/full/0/default.jpg"
                },
                {
-                  "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/scipione-africano.tif",
+                  "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/scipione-africano.png",
                   "@type": "sc:Canvas",
                   "label": "Busto di Scipione l'Africano, XVII secolo, Ambito Romano",
                   "width": 4032,
                   "height": 6048,
                   "images": [
                      {
-                        "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/scipione-africano.tif",
+                        "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/scipione-africano.png",
                         "@type": "oa:Annotation",
                         "motivation": "sc:painting",
                         "resource": {
-                              "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/scipione-africano.tif/full/full/0/default.jpg",
+                              "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/scipione-africano.png/full/full/0/default.jpg",
                               "@type": "dctypes:Image",
-                              "format": "image/tif",
+                              "format": "image/png",
                               "service": {
                                  "@context": "http://iiif.io/api/image/2/context.json",
-                                 "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/scipione-africano.tif",
+                                 "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/scipione-africano.png",
                                  "profile": "http://iiif.io/api/image/2/profiles/level0.json"
                               }
                         },
-                "on": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/scipione-africano.tif/full/full/0/default.jpg"
+                "on": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/scipione-africano.png/full/full/0/default.jpg"
                 }
                   ],
-                  "thumbnail": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/scipione-africano.tif/full/full/0/default.jpg"
+                  "thumbnail": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/scipione-africano.png/full/full/0/default.jpg"
                },
                {
                   "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/bracci-clemente.tif",
