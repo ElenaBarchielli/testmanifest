@@ -119,7 +119,7 @@
                             "resource": {
                                 "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/scipione-africano.png/full/full/0/default.jpg",
                                 "@type": "dctypes:Image",
-                                "format": "image/tif",
+                                "format": "image/png",
                                 "service": {
                                     "@context": "http://iiif.io/api/image/2/context.json",
                                     "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/scipione-africano.png",
