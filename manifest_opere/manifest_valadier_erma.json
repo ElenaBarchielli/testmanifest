@@ -117,12 +117,12 @@
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
                             "resource": {
-                                "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Valadier-Erma-Bacco.ti",
+                                "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Valadier-Erma-Bacco.tif",
                                 "@type": "dctypes:Image",
                                 "format": "image/tif",
                                 "service": {
                                     "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Valadier-Erma-Bacco.ti",
+                                    "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Valadier-Erma-Bacco.tif",
                                     "profile": "http://iiif.io/api/image/2/profiles/level0.json"
                                 }
                             },
