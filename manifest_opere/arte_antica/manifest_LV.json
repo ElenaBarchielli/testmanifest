@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://raw.githubusercontent.com/ElenaBarchielli/testmanifest/main/manifest_opere/arte_antica.json",
+    "@id": "https://raw.githubusercontent.com/ElenaBarchielli/testmanifest/main/manifest_opere/arte_antica/manifest_LV.json",
     "@type": "sc:Manifest",
     "label": "Statua di Apollo, II sec. d.C.",
     "description": "Statua maschile, nuda, di dimensioni minori del vero, allestita su un plinto. Ritrae una figura apollinea restaurata come eroe o Alessandro Magno. Il torso, con l’attaccatura delle braccia e delle cosce, è antico, mentre il resto del corpo è di restauro. La testa, moderna e inserita alla base del collo, presenta a sua volta rimaneggiamenti successivi. Per ragioni iconografiche e stilistiche, la porzione originale della scultura può essere attribuita all’opera di officine urbane di età imperiale che riprendono modelli statuari del primo ellenismo.",

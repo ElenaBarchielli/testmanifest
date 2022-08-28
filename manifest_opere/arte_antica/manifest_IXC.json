@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://raw.githubusercontent.com/ElenaBarchielli/testmanifest/main/manifest_opere/arte_antica.json",
+    "@id": "https://raw.githubusercontent.com/ElenaBarchielli/testmanifest/main/manifest_opere/arte_antica/manifest_IXC.json",
     "@type": "sc:Manifest",
     "label": "Testa femminile, restaurata quale Iside, su busto non pertinente, circa metà II secolo d.C.",
     "description": "Il busto ritrae una figura femminile provvista di un panneggio che lascia scoperto il seno destro. Dalla critica la scultura è interpretata come la raffigurazione di Tellus o della dea Iside. Nella direzione di quest'ultima ipotesi sembrano essere stati realizzati gli interventi di restauro eseguiti nel XIX secolo. Menzionata per la prima volta nella camera VII (Egizia) nel 1854, si ritrova nel 1893 collocata nella seconda stanza, e quindi nel 1998 posta definitivamente nella sala prima. Le caratteristiche dell’acconciatura e della morbida resa delle superfici sembrano suggerire un’ispirazione a modelli del V secolo a.C. dei quali la scultura Borghese è da considerare una replica eseguita nel II secolo d.C.",

@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://raw.githubusercontent.com/ElenaBarchielli/testmanifest/main/manifest_opere/arte_antica.json",
+    "@id": "https://raw.githubusercontent.com/ElenaBarchielli/testmanifest/main/manifest_opere/arte_antica/manifest_LVIII.json",
     "@type": "sc:Manifest",
     "label": "Statua di Afrodite del tipo Louvre-Napoli, metà I sec. d.C.",
     "description": "La statua di Venere, dea dell’amore e simbolo della forza vitale, è stante sulla gamba sinistra e sfiora il suolo con la punta del piede destro retrostante; mentre il braccio corrispondente è sollevato e sorregge un lembo del mantello, il sinistro è piegato in avanti ad angolo retto, porgendo un attributo oggi mancante. La figura è impostata frontalmente: al fianco sinistro inarcato corrisponde la spalla sinistra abbassata. Un chitone sottile avvolge il corpo muliebre, le cui morbide forme sono enfatizzate dalla trasparenza del tessuto, che scivolando lungo il braccio sinistro scopre il seno e la spalla. Nella replica di età giulio-claudia del celebre tipo statuario dell’“Afrodite Louvre-Napoli” si ravvisa il chiaro influsso di un archetipo della fine del V sec. a.C. ascrivibile, per trattamento del panneggio e ponderazione, alla cerchia fidiaca o policletea.",

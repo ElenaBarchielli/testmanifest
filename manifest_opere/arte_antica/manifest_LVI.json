@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://raw.githubusercontent.com/ElenaBarchielli/testmanifest/main/manifest_opere/arte_antica.json",
+    "@id": "https://raw.githubusercontent.com/ElenaBarchielli/testmanifest/main/manifest_opere/arte_antica/manifest_LVI.json",
     "@type": "sc:Manifest",
     "label": "Ara con soggetto dionisiaco, II sec. d.C.",
     "description": "L’altare di forma circolare, integrato nella parte superiore e inferiore, è decorato da un rilievo figurato con personaggi del corteggio di Dioniso, dio dei misteri e dell’ebrezza: un Fauno barbuto, dal corpo villoso e arti inferiori simili a quelli di un caprone, con indosso una nebride e nelle mani un bastone corto e un corno potorio; una Menade, sacerdotessa di Dioniso, un Satiro retrospiciente in corsa e una seconda Menade che danza suonando i crotali. Gli strumenti di culto bacchico appesi al bordo superiore del campo figurato richiamano l’ambientazione rurale tipica delle pratiche sacrali rustiche. Sull’orlo inferiore sono incise le iniziali di una iscrizione dedicatoria, non autentica, d(e) s(ua) p(ecunia) f(aciendum) c(uravit). L’esemplare Borghese, di ignota provenienza, è il prodotto di una officina italica di età imperiale che riprende un repertorio di modelli che spazia dall’età arcaica fino a quella ellenistica.",

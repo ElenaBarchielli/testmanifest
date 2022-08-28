@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://raw.githubusercontent.com/ElenaBarchielli/testmanifest/main/manifest_opere/arte_antica.json",
+    "@id": "https://raw.githubusercontent.com/ElenaBarchielli/testmanifest/main/manifest_opere/arte_antica/manifest_LXIX.json",
     "@type": "sc:Manifest",
     "label": "Statua di fanciullo ammantato, II sec. d.C.",
     "description": "La giovane figura, ritratta in posizione frontale con il capo volto verso sinistra, indossa un ampio mantello che ne lascia scoperti i piedi nudi. Sotto il panneggio sono visibili le braccia, il sinistro flesso in avanti a trattenere la veste, il destro ripiegato sul petto. Sul capo è posto un berretto aderente di forma ovoidale, il pileo. Il volto, dalle forme infantili, ha gote paffute, naso tondo ben evidenziato e bocca aperta in un sorriso gioioso. La statua, assieme ad altre due molto simili (inv. LXV, inv. CVIC) poste nella medesima sala I, è ricordata da Ennio Quirino Visconti, nel 1796, a decorare il giardino della Villa Pinciana. Con la riorganizzazione della collezione dopo la vendita napoleonica le sculture vengono destinate all’ornamento delle sale della Galleria Borghese. Nel 1893, è presente, insieme ad una seconda (inv.LXV), nella sua collocazione definitiva nella sala I.",

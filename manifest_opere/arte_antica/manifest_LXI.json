@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://raw.githubusercontent.com/ElenaBarchielli/testmanifest/main/manifest_opere/arte_antica.json",
+    "@id": "https://raw.githubusercontent.com/ElenaBarchielli/testmanifest/main/manifest_opere/arte_antica/manifest_LXI.json",
     "@type": "sc:Manifest",
     "label": "Sarcofago con il mito di Pasifae: Minosse che sacrifica a Poseidone, 150-160 d. C.",
     "description": "La lastra raffigura il sacrificio del re cretese Minosse, seguito da una figura femminile, dinanzi al tempio di Poseidone. Si tratta del lato destro di un sarcofago, oggi in parte conservato al museo del Louvre, rappresentante il mito di Pasifae. Moglie del re di Creta Minosse, Pasifae fu colta da folle passione per il toro, dono di Poseidone, a causa della vendetta del dio contro il re. Chiese a Dedalo di costruirle un simulacro ligneo di una giovenca, cavo all’interno, nel quale nascondersi; frutto della unione tra la regina e il toro fu il Minotauro. Alla metà del Cinquecento, il sarcofago si ritrova testimoniato, da un disegno attribuito a Girolamo Ferrari o Antonio Dosio, nel Belvedere in Vaticano. Secondo le testimonianze, la scultura fu tagliata nel 1615 in tre lastre destinate a ornare la Villa Borghese, da poco ultimata.",

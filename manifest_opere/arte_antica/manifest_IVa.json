@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://raw.githubusercontent.com/ElenaBarchielli/testmanifest/main/manifest_opere/arte_antica.json",
+    "@id": "https://raw.githubusercontent.com/ElenaBarchielli/testmanifest/main/manifest_opere/arte_antica/manifest_IVa.json",
     "@type": "sc:Manifest",
     "label": "Ara sepolcrale di Spendonte, prima metà I secolo d.C., Arte Romana",
     "description": "L’ara è ricordata nel Portico dal Nibby nel 1832 a sostegno del frammento di una statua di Leda (inv. IV). La scultura quadrangolare conserva una modanatura nell’estremità inferiore; sui fianchi sono raffigurati gli utensili dei sacrifici rituali, una patera e una piccola brocca. Gli angoli della faccia anteriore sono decorati da due bucrani che sostengono dalle corna dei nastri avviluppati in un ricco festone. L’iscrizione è dedicata al liberto Spendon.La scultura è inquadrabile cronologicamente agli inizi del I d.C.",

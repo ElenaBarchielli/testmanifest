@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://raw.githubusercontent.com/ElenaBarchielli/testmanifest/main/manifest_opere/arte_antica.json",
+    "@id": "https://raw.githubusercontent.com/ElenaBarchielli/testmanifest/main/manifest_opere/arte_antica/manifest_LXIV.json",
     "@type": "sc:Manifest",
     "label": "Rilievo con Aiace e Cassandra presso il Palladio, I sec. d.C.",
     "description": "Il bassorilievo è decorato con la scena del “ratto di Cassandra”, l’oltraggioso stupro della principessa troiana compiuto da Aiace presso il santuario di Atena a Troia, qui evocato dal pilastro sulla sinistra e dal simulacro della dea, il Palladio, eretto su un piedistallo a gradini. Sulla sinistra l’eroe, nudo a eccezione del mantello aperto a ventaglio dietro le spalle, trascina a sé Cassandra, identificata anche dall’iscrizione [Cas]SA[ndra]. Nel tentativo disperato di opporsi alla presa dell’antagonista la donna, aggrappata al simulacro con la sinistra, lascia scivolare mantello e chitone lungo la spalla destra, scoprendo un seno. Parte di un più ampio fregio architettonico raffigurante probabilmente l’Iliupersis, il rilievo è un prodotto di una officina neoattica eseguito su modelli tarantini. Menzionato da Winckelmann nei sotterranei della Villa nel 1797, dal 1832 è segnalato nella sala I.",

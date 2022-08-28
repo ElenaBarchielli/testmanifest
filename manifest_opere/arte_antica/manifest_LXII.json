@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://raw.githubusercontent.com/ElenaBarchielli/testmanifest/main/manifest_opere/arte_antica.json",
+    "@id": "https://raw.githubusercontent.com/ElenaBarchielli/testmanifest/main/manifest_opere/arte_antica/manifest_LXII.json",
     "@type": "sc:Manifest",
     "label": "Gruppo di Leda seduta con cigno ed Eros, ritratto di Antonia Minore, inizio III d.C. (gruppo); circa 35 d.C. (testa)",
     "description": "La scultura ritrae Leda, semisdraiata, lungo la riva del fiume Eurota. Sulla figura, coperta solo in parte da un panneggio, è adagiato un cigno che le lambisce il seno destro. Dietro di lei compare un Erote dolcemente poggiato al suo braccio sinistro. Il gruppo scultoreo è stato ritenuto moderno fino a recenti interventi di restauro che  hanno individuato l’antichità del nucleo originario, reintegrato nelle parti mancanti nel XIX secolo. La testa, non pertinente, è considerata un ritratto di Antonia Minore, sorella di Augusto e madre dell’imperatore Claudio. Nel 1826 risulta posta nel Giardino del Lago della Villa Borghese, mentre, nel 1832, appare collocata nella sua attuale sistemazione nella sala I.",

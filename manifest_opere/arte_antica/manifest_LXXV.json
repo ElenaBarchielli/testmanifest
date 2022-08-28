@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://raw.githubusercontent.com/ElenaBarchielli/testmanifest/main/manifest_opere/arte_antica.json",
+    "@id": "https://raw.githubusercontent.com/ElenaBarchielli/testmanifest/main/manifest_opere/arte_antica/manifest_LXXV.json",
     "@type": "sc:Manifest",
     "label": "Fronte di sarcofago con la raffigurazione di cinque muse",
     "description": "L’ara marmorea proviene dagli scavi condotti per volontà del Principe Camillo Borghese fra 1830 e1832 a Mentana (Roma). L’altare è privo del coronamento originario e poggia su una base modanata. La faccia anteriore è occupata dall’iscrizione, in cui si ricorda che la sepoltura di Claudio Felice è stata allestita dall’erede Messalla Rutiliano. Felix è nome augurale molto diffuso, in particolare tra schiavi e liberti, ed è pressoché esclusivo degli uomini. Ai lati del monumento troviamo una patera e un urceus, una brocca, due strumenti rituali che hanno una posizione fissa nei cippi e negli altari e che rinviano simbolicamente alla posizione occupata dal sacerdote con la ciotola e dal camillo, il giovane assistente, con la brocca dinnanzi all’altare durante il sacrificio.",

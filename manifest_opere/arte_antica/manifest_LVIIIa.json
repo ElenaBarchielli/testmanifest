@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://raw.githubusercontent.com/ElenaBarchielli/testmanifest/main/manifest_opere/arte_antica.json",
+    "@id": "https://raw.githubusercontent.com/ElenaBarchielli/testmanifest/main/manifest_opere/arte_antica/manifest_LVIIIa.json",
     "@type": "sc:Manifest",
     "label": "Ara con soggetto dionisiaco, fine I sec. a.C.- inizio I sec. d.C.",
     "description": "L’altare circolare, molto corroso e di ignota provenienza, è decorato da un rilievo con una teoria di tre Menadi, o Baccanti, adepte del corteo di Dioniso, dio del vino e dei misteri, intente a danzare con in mano gli attributi tipici, il cembalo e il tirso, precedute da una pantera. Il tema iconografico, noto da almeno sessanta riproduzioni datate fra gli inizi del I secolo a.C. e il III secolo d.C. su supporti eterogenei, è tradizionalmente attribuito allo scultore greco Callimaco (fine V sec. a.C.). I motivi decorativi adottati nella cornice inferiore dell’ara richiamano la trabeazione del Tempio della Concordia nel Foro romano, restaurato da Tiberio fra 7 a.C. e 10 d.C., suggerendo una datazione in tale orizzonte cronologico.",

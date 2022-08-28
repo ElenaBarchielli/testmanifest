@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://raw.githubusercontent.com/ElenaBarchielli/testmanifest/main/manifest_opere/arte_antica.json",
+    "@id": "https://raw.githubusercontent.com/ElenaBarchielli/testmanifest/main/manifest_opere/arte_antica/manifest_LXXI.json",
     "@type": "sc:Manifest",
     "label": "Rilievo con Artemide, prima metà II sec. d.C.",
     "description": "Due figure femminili con panneggio sono raffigurate una di fronte all’altra: la donna a sinistra è seduta su una sedia e poggia i piedi su uno sgabello di dimensioni ridotte, è volta verso un bimbo in fasce sorretto dalla donna stante. Sotto la sedia è visibile una cerva accovacciata. Sullo sfondo, un florido albero incornicia e delimita la scena, evocando un'ambientazione agreste. Un'interpretazione identifica nella figura seduta la dea Artemide nella sua funzione di Kourotrophos, nutrice degli infanti, raffigurata mentre osserva un neonato che una donna le tende. Una diversa interpretazione vi individua il mito di Telefo, figlio di Eracle e di Auge, sacerdotessa di Atena, presentato da un'ancella alla madre. Il rilievo, inserito in una cornice moderna, fu scoperto nel 1766 nella tenuta Borghese di Torrenova sulla via Labicana.",

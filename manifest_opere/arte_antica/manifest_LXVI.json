@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://raw.githubusercontent.com/ElenaBarchielli/testmanifest/main/manifest_opere/arte_antica.json",
+    "@id": "https://raw.githubusercontent.com/ElenaBarchielli/testmanifest/main/manifest_opere/arte_antica/manifest_LXVI.json",
     "@type": "sc:Manifest",
     "label": "Ara circolare con bucrani e ghirlande, I sec. d.C.",
     "description": "La scultura è scelta nel 1619 come basamento per il gruppo scultoreo di Enea e Anchise presso la Palazzina Pinciana e quindi lavorata dallo scalpellino Giuseppe di Giacomo, che ne dimezza, secondo gli studi di Italo Faldi, di un quinto il volume per permettere una migliore aderenza alla parete. L’ara circolare è decorata da tre bucrani e due festoni di foglie di quercia e ghiande intrecciati a bende pendenti. La delicata plasticità e l’accuratezza nella resa degli elementi vegetali portano a collocare la scultura all’età augustea.",
