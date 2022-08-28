@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://raw.githubusercontent.com/ElenaBarchielli/testmanifest/main/manifest_opere/arte_antica.json",
+    "@id": "https://raw.githubusercontent.com/ElenaBarchielli/testmanifest/main/manifest_opere/arte_antica/manifest_CVIC.json",
     "@type": "sc:Manifest",
     "label": "Statua di fanciullo ammantato, II sec. d.C.",
     "description": "La statua, assieme ad altre due molto simili (inv. LXV, inv. LXIX) poste nella medesima sala I, è ricordata da Ennio Quirino Visconti, nel 1796, a decorare il giardino della Villa Pinciana. Con la ricostituzione della collezione dopo la vendita napoleonica queste sculture furono destinate a essere esposte all’interno delle sale della Galleria Borghese. La giovane figura, rappresentata stante, indossa un lungo mantello che ne lascia scoperti i piedi nudi. Le braccia sono nascoste sotto la veste, il sinistro flesso in avanti, mentre il destro è ripiegato sul petto. I lineamenti del volto sono morbidi e infantili, le labbra appena dischiuse in un sorriso e sul capo è posto un pileo dal quale fuoriescono dei riccioli ribelli  che incorniciano la fronte. L’aspetto giovanile, le ridotte dimensioni, l’abbigliamento con il mantello e pileo avvicinano la scultura alla tipologia iconografica del genius cucullatus o a quella di Telesforo, figlio o assistente di Asclepio. ",
