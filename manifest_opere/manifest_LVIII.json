@@ -1,0 +1,167 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://raw.githubusercontent.com/ElenaBarchielli/testmanifest/main/manifest_opere/arte_antica.json",
+    "@type": "sc:Manifest",
+    "label": "Statua di Afrodite del tipo Louvre-Napoli, metà I sec. d.C.",
+    "description": "La statua di Venere, dea dell’amore e simbolo della forza vitale, è stante sulla gamba sinistra e sfiora il suolo con la punta del piede destro retrostante; mentre il braccio corrispondente è sollevato e sorregge un lembo del mantello, il sinistro è piegato in avanti ad angolo retto, porgendo un attributo oggi mancante. La figura è impostata frontalmente: al fianco sinistro inarcato corrisponde la spalla sinistra abbassata. Un chitone sottile avvolge il corpo muliebre, le cui morbide forme sono enfatizzate dalla trasparenza del tessuto, che scivolando lungo il braccio sinistro scopre il seno e la spalla. Nella replica di età giulio-claudia del celebre tipo statuario dell’“Afrodite Louvre-Napoli” si ravvisa il chiaro influsso di un archetipo della fine del V sec. a.C. ascrivibile, per trattamento del panneggio e ponderazione, alla cerchia fidiaca o policletea.",
+    "metadata": 
+    [
+        {
+            "label": "Title",
+            "value": "Statua di Afrodite del tipo Louvre-Napoli"
+        },
+        {
+            "label": "Artist / Maker",
+            "value": "-"
+        },
+        {
+            "label": "Date",
+            "value": "metà I sec. d.C."
+        },
+        {
+            "label": "Culture",
+            "value": "-"
+        },
+        {
+            "label": "Medium / Technique",
+            "value": "marmo pentelico"
+        },
+        {
+            "label": "Dimensions",
+            "value": "alt.senza plinto cm. 165"
+        },
+        {
+            "label": "Number of Inventory",
+            "value": "LVIII"
+        },
+        {
+            "label": "Location",
+            "value": "<a href='https://galleriaborghese.beniculturali.it/il-museo/la-villa/sala-1-sala-della-paolina/' target='_blank'>Sala I - Sala della Paolina<\/a> | <a href='https://raw.githubusercontent.com/ElenaBarchielli/testmanifest/main/manifest_panoramica/manifest_sala1.json' target='_blank'>manifest<\/a>"
+        },
+        {
+            "label": "Place Created",
+            "value": "-"
+        },
+        {
+            "label": "Signature(s)",
+            "value": "-"
+        },
+        {
+            "label": "Mark(s)",
+            "value": "-"
+        },
+        {
+            "label": "Classification",
+            "value": "<a href='https://www.collezionegalleriaborghese.it/collezione/arte-antica' target='_blank'>Arte antica<\/a>"
+        },
+        {
+            "label": "Object Type",
+            "value": "-"
+        },
+        {
+            "label": "Collection",
+            "value": "<a href=’https://galleriaborghese.beniculturali.it/' target='_blank'>Galleria Borghese<\/a>"
+        },
+        {
+            "label": "Rights Statement",
+            "value": "-"
+        },
+        {
+            "label": "Full Artwork Details",
+            "value": "Nel 1828 la statua della “Venere velata, simile ad altra, che esiste al Museo Vaticano, con piedistallo con bassorilievo istoriato” è menzionata fra quelle poste nella “Sala della Bella Cerere” o “Sala della Leda” nel piano generale per il “Nuovo Museo Borghese”, allestito da Camillo Borghese tra il 1819 e il 1832 nel Casino depauperato dalla vendita delle opere della collezione al cognato Napoleone Bonaparte (Moreno 1997, p. 106); nel tentativo di sottolineare i nessi tematici fra le sculture della collezione, la statua è intenzionalmente accostata ad un’altra Afrodite, variante dello tipo (Gasparri 2011, p. 84). Antonio Nibby nel 1832 la menziona nella “Camera I”, corrispondente all’attuale sala I, descrivendola come “Venere o una ninfa nell’atto di lasciarsi cadere il peplo e disciogliersi la tunica per bagnarsi”, posta sopra un'ara rotonda decorata da Menadi danzanti; è ancora Nibby, nel 1838, a citarla, sempre nella sua attuale sistemazione, denominandola questa volta “Venere genitrice”.    La figura insiste sulla gamba sinistra, mentre la destra flessa è portata indietro e aderisce al suolo con la punta del piede; il braccio corrispondente è sollevato nell’atto di tenere un lembo del mantello, mentre l’altro è piegato in avanti ad angolo retto e doveva reggere un attributo – variamente identificato con una brocca, un lembo del mantello o un pomo – qui mancante. Il corpo è avvolto da un leggero chitone senza maniche, movimentato da sottili plissettature, così trasparente da simulare un effetto bagnato, che lascia intravvedere le forme e, scivolando lungo il braccio sinistro, scopre il seno e la spalla.   Nella scultura si riconosce la replica del celebre tipo statuario dell’”Afrodite Louvre-Napoli” (Delivorrias et alii 1984, pp. 33-35, nn. 225-240) – cosiddetta dalla prima replica nota ora al Louvre (Parigi, Louvre MA 525; Brinke 1996, pp. 19-20, R 3) – denominata anche Louvre-Holkham Hall o Parigi-Norfolck (Brinke 1996, pp. 24-25, R 9; Angelicoussis 2001, pp. 82-83, n. 3). La testa, ricomposta da due frammenti e ampiamente rilavorata, non è pertinente al tipo, pur riproponendo una acconciatura propria di altre raffigurazioni di Venere. Il prototipo – in bronzo – venne probabilmente creato fra 420-400 a.C. ed è generalmente ascritto a un artista della cerchia fidiaca o policletea; se in passato, infatti, sono stati fatti nomi di allievi di Fidia attivi alla fine del V sec. a.C., negli ultimi anni si è prediletta una associazione alla figura di Callimaco, scultore argivo di scuola fidiaca o a un artista di scuola policletea entrato in contatto con il cantiere del Partenone, in virtù del carattere eclettico dell’opera, che coniuga sapientemente elementi attici nel trattamento del panneggio ad altri propriamente argivi nella ponderazione. Si è ipotizzata, inoltre, la funzione di simulacro di Afrodite reduplicato nei due santuari gemelli a lei dedicati ad Atene, da cui provengono numerose repliche, e Trezene in Argolide (La Rocca 1972-73, p. 440).   L’immagine ebbe grande successo e venne riprodotta in copie di vario formato destinate ad ambiti residenziali, funerari o pubblici a partire dall’età ellenistica e soprattutto imperiale, in particolare in età giulio-claudia e nel periodo compreso fra l’età di Adriano e gli Antonini (Karanastassis 1986, pp. 217-259; Brinke 1991, pp.147-243; Brinke 1996, pp. 18-59). La capillare diffusione in tutte le città dell’impero in prima età imperiale può senza dubbio essere ricondotta all’ampio interesse per Venere quale madre di Enea e progenitrice della gens Iulia, mentre non è possibile, come proposto da vari studiosi in passato, riconoscere alcun legame fra il tipo statuario in esame e la statua di culto di Venus Genetrix nel Foro di Cesare a Roma – la cui creazione è associata da Plinio alla figura di Arkesilaos (Naturalis Historia XXXV, 155f) – né con il simulacro posto nel tempio di Venere a sostituzione del primo in occasione della riconsacrazione traianea del 113 d.C. (Capaldi 2009, p. 64 nota 26). L’andamento monotono e quasi metallico delle pieghe del panneggio e l’irrigidimento delle forme plastiche, che trova un confronto puntuale nella replica nella Collezione Farnese a Napoli (MANN inv. 5997), permettono di assegnare l’opera alla metà del I sec. d.C.       Jessica Clementi"
+        },
+        {
+            "label": "Frame",
+            "value": "-"
+        },
+        {
+            "label": "Exhibitions",
+            "value": "-"
+        },
+        {
+            "label": "Restauration",
+            "value": "1996 Consorzio Capitolino"
+        },
+        {
+            "label": "Bibliography",
+            "value": "-"
+        },
+        {
+            "label": "Provenance",
+            "value": "Inventario Fidecommissario Borghese, 1833, C, n. 39. Acquisto dello Stato, 1902."
+        }
+    ],
+    "thumbnail": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif/full/full/0/default.jpg",
+    "viewDirection": "right-to-left",
+    "attribution": "Digital image courtesy of the <a href='https://galleriaborghese.beniculturali.it/info/foto-e-video/' target='_blank'>Galleria Borghese<\/a>.",
+    "logo": "https://galleriaborghese.beniculturali.it/wp-content/uploads/logo.svg",
+    "within": "-",
+    "sequences": [
+        {
+            "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share#sequencePaolina",
+            "@type": "sc:Sequence",
+            "label": "Object",
+            "viewingDirection": "left-to-right",
+            "viewingHint": "paged",
+            "startCanvas": "-",
+            "canvases": [
+                {
+                    "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif",
+                    "@type": "sc:Canvas",
+                    "label": "Main Image",
+                    "width": 5299,
+                    "height": 4189,
+                    "images": [
+                        {
+                            "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/tif",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif",
+                                    "profile": "http://iiif.io/api/image/2/profiles/level0.json"
+                                }
+                            },
+						"on": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif/full/full/0/default.jpg"
+						}
+                    ],
+                    "thumbnail": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif/full/full/0/default.jpg"
+                },
+                {
+                    "@id":"https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/sala_panoramica.png/info.json",
+                    "@type":"sc:Canvas",
+                    "label":"Sala 360",
+                    "width":18000,
+                    "height":9000,
+                    "images":[
+                       {
+                          "@id":"https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/sala_panoramica.png/info.json",
+                          "@type":"oa:Annotation",
+                          "motivation":"sc:foto360",
+                          "on":"https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/sala_panoramica.png/info.json",
+                          "resource":{
+                             "@id":"https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/sala_panoramica.png/",
+                             "@type":"dctypes:Image",
+                             "format":"image/png",
+                             "service":{
+                                "@context":"http://iiif.io/api/image/2/context.json",
+                                "@id":"https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/sala_panoramica.png/",
+                                "profile":"http://iiif.io/api/image/2/profiles/level1.json"
+                             },
+                             "width":18000,
+                             "height":9000
+                          }
+                       }
+                    ],
+                    "thumbnail":"https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/sala_panoramica.png/full/full/0/default.jpg"
+                 }
+            ]
+        }
+    ],
+    "license": "https://galleriaborghese.beniculturali.it/info/foto-e-video/",
+    "related": "https://www.collezionegalleriaborghese.it/opere/statua-di-afrodite-del-tipo-louvre-napoli-con-testa-non-pertinente"
+}

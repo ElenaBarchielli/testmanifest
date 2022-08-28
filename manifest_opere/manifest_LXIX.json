@@ -1,0 +1,167 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://raw.githubusercontent.com/ElenaBarchielli/testmanifest/main/manifest_opere/arte_antica.json",
+    "@type": "sc:Manifest",
+    "label": "Statua di fanciullo ammantato, II sec. d.C.",
+    "description": "La giovane figura, ritratta in posizione frontale con il capo volto verso sinistra, indossa un ampio mantello che ne lascia scoperti i piedi nudi. Sotto il panneggio sono visibili le braccia, il sinistro flesso in avanti a trattenere la veste, il destro ripiegato sul petto. Sul capo è posto un berretto aderente di forma ovoidale, il pileo. Il volto, dalle forme infantili, ha gote paffute, naso tondo ben evidenziato e bocca aperta in un sorriso gioioso. La statua, assieme ad altre due molto simili (inv. LXV, inv. CVIC) poste nella medesima sala I, è ricordata da Ennio Quirino Visconti, nel 1796, a decorare il giardino della Villa Pinciana. Con la riorganizzazione della collezione dopo la vendita napoleonica le sculture vengono destinate all’ornamento delle sale della Galleria Borghese. Nel 1893, è presente, insieme ad una seconda (inv.LXV), nella sua collocazione definitiva nella sala I.",
+    "metadata": 
+    [
+        {
+            "label": "Title",
+            "value": "Statua di fanciullo ammantato"
+        },
+        {
+            "label": "Artist / Maker",
+            "value": "-"
+        },
+        {
+            "label": "Date",
+            "value": "II sec. d.C."
+        },
+        {
+            "label": "Culture",
+            "value": "-"
+        },
+        {
+            "label": "Medium / Technique",
+            "value": "marmo di Luni"
+        },
+        {
+            "label": "Dimensions",
+            "value": "altezza 71 cm"
+        },
+        {
+            "label": "Number of Inventory",
+            "value": "LXIX"
+        },
+        {
+            "label": "Location",
+            "value": "<a href='https://galleriaborghese.beniculturali.it/il-museo/la-villa/sala-1-sala-della-paolina/' target='_blank'>Sala I - Sala della Paolina<\/a> | <a href='https://raw.githubusercontent.com/ElenaBarchielli/testmanifest/main/manifest_panoramica/manifest_sala1.json' target='_blank'>manifest<\/a>"
+        },
+        {
+            "label": "Place Created",
+            "value": "-"
+        },
+        {
+            "label": "Signature(s)",
+            "value": "-"
+        },
+        {
+            "label": "Mark(s)",
+            "value": "-"
+        },
+        {
+            "label": "Classification",
+            "value": "<a href='https://www.collezionegalleriaborghese.it/collezione/arte-antica' target='_blank'>Arte antica<\/a>"
+        },
+        {
+            "label": "Object Type",
+            "value": "-"
+        },
+        {
+            "label": "Collection",
+            "value": "<a href=’https://galleriaborghese.beniculturali.it/' target='_blank'>Galleria Borghese<\/a>"
+        },
+        {
+            "label": "Rights Statement",
+            "value": "-"
+        },
+        {
+            "label": "Full Artwork Details",
+            "value": "La statua, assieme ad altre due molto simili (inv. LXV, inv. CVIC) poste negli angoli della medesima sala I, è ricordata da Ennio Quirino Visconti, nel 1796, a decorare il giardino della Villa Pinciana. L’autore descrive, nell’attuale sala V, una statuetta di Telesforo coperta da un pileo e avvolta in un mantello e aggiunge che “Molte altre statuette simili sono sparse nel bosco della Villa Pinciana” (Visconti, Lamberti 1796, pp.40-41). La scultura identificata dal Visconti fu trasferita al Museo del Louvre, mentre bisogna probabilmente riconoscere in quelle poste nel giardino le tre statuette esposte nella sala I. All'epoca della ricostituzione della raccolta nella palazzina, tra il 1819 e il 1832, dopo la massiccia vendita delle opere della collezione antica da parte di Camillo Borghese al cognato Napoleone Bonaparte le sculture furono destinate all’interno delle sale della Galleria Borghese, prima a decorare le colonne del Portico e in seguito su rocchi di marmo cipollino nella sala III (Moreno, Viacava 2003, p. 145, n. 110). Nel 1893, Adolfo Venturi ricorda la statua Borghese in esame situata, insieme ad una seconda (inv.LXV) nella sua collocazione definitiva nella sala I (Venturi 1893, p.20). La scultura, di dimensioni ridotte, ritrae un giovane stante, avvolto da un ampio mantello che lascia scoperti i piedi nudi, privi di calzari. Le braccia sono coperte dal panneggio, la destra piegata sul petto, la sinistra flessa in avanti in segno di offerta. Il capo, volto verso sinistra e leggermente alzato, è coperto da un aderente berretto ovoidale, con una leggera, arrotondata prominenza al vertice. Il viso, dall’espressione gioiosa, presenta tratti infantili, con naso pronunciato, gote paffute e bocca aperta e sorridente. Il copricapo, ben calcato, rientra nella tipologia dei pilei. Nella tradizione romana il pilleus era particolarmente diffuso per le sue molteplici valenze, utilizzato presso “i pontefici, i flamini, i Salii e che si dava agli schiavi in segno d'affrancamento” (Ernout, Meillet 1959, s.v. pilleus). Tito Livio ricorda, infatti, l’espressione servi ad pileum vocati per indicare la liberazione degli schiavi (Tito Livio, Historiae, XXIV, 32, 9), mentre Dionigi di Alicarnasso indica che la parola greca πῖλος/pílos corrispondeva all’apex dei flamini, cioè la verghetta che si trovava sulla punta del loro berretto bianco (Dionigi di Alicarnasso, Antiquitates Romanae, 2, 64). Nel Satyricon Petronio ricorda la credenza popolare secondo la quale il pileo era tipico del folletto Incubus e chi fosse riuscito a strapparglielo dal capo si sarebbe potuto impossessare del suo tesoro (Petronio Arbitro, Satyricon XXXVIII, 8). Nello studio dedicato alla statua Borghese, Anselmo Calvetti la identifica proprio nella figura malefica dell’Incubus, provvista della capacità di disturbare con incubi il sonno dei dormienti, così come si ritrova descritta da Plinio il Vecchio nella Naturalis Historia (XXX, 84). Il nome sarebbe da collegare alla sua etimologia latina, incub-are, nel senso di “dormire presso un luogo sacro, per ricevere, per mezzo di sogni, informazioni dalla divinità sull'avvenire in genere, ovvero (di un malato) informazioni sulla sua malattia” (Georges, Calonghi 1939, s.v. incubus). Presso gli ambulacri d'Asclepio, in particolare a Epidauro e all'Isola Tiberina in Roma, i pazienti potevano dormire nel luogo per ottenere la salvezza dal dio (Guarducci 1971, pp. 267-281). L’aspetto giovanile, le ridotte dimensioni, l’abbigliamento con il mantello e pileo della scultura Borghese, la avvicinano alla tipologia iconografica di Telesforo, figlio o aiutante di Asclepio, che si ritrova anche in un altro gruppo della stessa Galleria (sala VI, inv. CIC). Waldemar Deonna, che dedica un ampio studio a tale figura, precisa che “ha la statura e l'età di un fanciullo in piedi, dall'apparenza piacevole e gaia. Un mantello con cappuccio, spesso senza pieghe o solo con alcune, lo ricopre interamente, non lascia libere che raramente le braccia e gli giunge fino ai piedi, che sono nudi” (Deonna 1955, pp.44-46). Spesso assimilato alla figura del genius cucullatus, a Telesforo si attribuiva la funzione benefica di guaritore e portatore di salvezza ma al contempo quella notturna e nefasta di interruzione della vita. Le tre statuette ammantate, conservate presso la Galleria Borghese, si possono legare ad un modello iconografico molto diffuso e riprodotto nel tempo. L’uso di esporle nei giardini privati, in segno di buon auspicio e benevolenza, è riscontrabile anche in età moderna. Giulia Ciccarello"
+        },
+        {
+            "label": "Frame",
+            "value": "-"
+        },
+        {
+            "label": "Exhibitions",
+            "value": "-"
+        },
+        {
+            "label": "Restauration",
+            "value": "1827 Antonio d’Este"
+        },
+        {
+            "label": "Bibliography",
+            "value": "-"
+        },
+        {
+            "label": "Provenance",
+            "value": "Collezione Borghese (citato per la prima volta nei giardini con altre simili da Lamberti, Visconti 1796, pp. 40-41); Inventario Fidecommissario Borghese, 1833, C., p.47, n. 91. Acquisto dello Stato, 1902."
+        }
+    ],
+    "thumbnail": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif/full/full/0/default.jpg",
+    "viewDirection": "right-to-left",
+    "attribution": "Digital image courtesy of the <a href='https://galleriaborghese.beniculturali.it/info/foto-e-video/' target='_blank'>Galleria Borghese<\/a>.",
+    "logo": "https://galleriaborghese.beniculturali.it/wp-content/uploads/logo.svg",
+    "within": "-",
+    "sequences": [
+        {
+            "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share#sequencePaolina",
+            "@type": "sc:Sequence",
+            "label": "Object",
+            "viewingDirection": "left-to-right",
+            "viewingHint": "paged",
+            "startCanvas": "-",
+            "canvases": [
+                {
+                    "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif",
+                    "@type": "sc:Canvas",
+                    "label": "Main Image",
+                    "width": 5299,
+                    "height": 4189,
+                    "images": [
+                        {
+                            "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/tif",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif",
+                                    "profile": "http://iiif.io/api/image/2/profiles/level0.json"
+                                }
+                            },
+						"on": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif/full/full/0/default.jpg"
+						}
+                    ],
+                    "thumbnail": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif/full/full/0/default.jpg"
+                },
+                {
+                    "@id":"https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/sala_panoramica.png/info.json",
+                    "@type":"sc:Canvas",
+                    "label":"Sala 360",
+                    "width":18000,
+                    "height":9000,
+                    "images":[
+                       {
+                          "@id":"https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/sala_panoramica.png/info.json",
+                          "@type":"oa:Annotation",
+                          "motivation":"sc:foto360",
+                          "on":"https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/sala_panoramica.png/info.json",
+                          "resource":{
+                             "@id":"https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/sala_panoramica.png/",
+                             "@type":"dctypes:Image",
+                             "format":"image/png",
+                             "service":{
+                                "@context":"http://iiif.io/api/image/2/context.json",
+                                "@id":"https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/sala_panoramica.png/",
+                                "profile":"http://iiif.io/api/image/2/profiles/level1.json"
+                             },
+                             "width":18000,
+                             "height":9000
+                          }
+                       }
+                    ],
+                    "thumbnail":"https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/sala_panoramica.png/full/full/0/default.jpg"
+                 }
+            ]
+        }
+    ],
+    "license": "https://galleriaborghese.beniculturali.it/info/foto-e-video/",
+    "related": "https://www.collezionegalleriaborghese.it/opere/statua-di-fanciullo-ammantato-2"
+}

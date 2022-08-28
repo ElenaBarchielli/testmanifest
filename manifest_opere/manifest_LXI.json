@@ -1,0 +1,167 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://raw.githubusercontent.com/ElenaBarchielli/testmanifest/main/manifest_opere/arte_antica.json",
+    "@type": "sc:Manifest",
+    "label": "Sarcofago con il mito di Pasifae: Minosse che sacrifica a Poseidone, 150-160 d. C.",
+    "description": "La lastra raffigura il sacrificio del re cretese Minosse, seguito da una figura femminile, dinanzi al tempio di Poseidone. Si tratta del lato destro di un sarcofago, oggi in parte conservato al museo del Louvre, rappresentante il mito di Pasifae. Moglie del re di Creta Minosse, Pasifae fu colta da folle passione per il toro, dono di Poseidone, a causa della vendetta del dio contro il re. Chiese a Dedalo di costruirle un simulacro ligneo di una giovenca, cavo all’interno, nel quale nascondersi; frutto della unione tra la regina e il toro fu il Minotauro. Alla metà del Cinquecento, il sarcofago si ritrova testimoniato, da un disegno attribuito a Girolamo Ferrari o Antonio Dosio, nel Belvedere in Vaticano. Secondo le testimonianze, la scultura fu tagliata nel 1615 in tre lastre destinate a ornare la Villa Borghese, da poco ultimata.",
+    "metadata": 
+    [
+        {
+            "label": "Title",
+            "value": "Sarcofago con il mito di Pasifae: Minosse che sacrifica a Poseidone"
+        },
+        {
+            "label": "Artist / Maker",
+            "value": "-"
+        },
+        {
+            "label": "Date",
+            "value": "150-160 d. C."
+        },
+        {
+            "label": "Culture",
+            "value": "-"
+        },
+        {
+            "label": "Medium / Technique",
+            "value": "marmo di Luni"
+        },
+        {
+            "label": "Dimensions",
+            "value": "altezza cm 78; larghezza cm 80"
+        },
+        {
+            "label": "Number of Inventory",
+            "value": "LXI"
+        },
+        {
+            "label": "Location",
+            "value": "<a href='https://galleriaborghese.beniculturali.it/il-museo/la-villa/sala-1-sala-della-paolina/' target='_blank'>Sala I - Sala della Paolina<\/a> | <a href='https://raw.githubusercontent.com/ElenaBarchielli/testmanifest/main/manifest_panoramica/manifest_sala1.json' target='_blank'>manifest<\/a>"
+        },
+        {
+            "label": "Place Created",
+            "value": "-"
+        },
+        {
+            "label": "Signature(s)",
+            "value": "-"
+        },
+        {
+            "label": "Mark(s)",
+            "value": "-"
+        },
+        {
+            "label": "Classification",
+            "value": "<a href='https://www.collezionegalleriaborghese.it/collezione/arte-antica' target='_blank'>Arte antica<\/a>"
+        },
+        {
+            "label": "Object Type",
+            "value": "-"
+        },
+        {
+            "label": "Collection",
+            "value": "<a href=’https://galleriaborghese.beniculturali.it/' target='_blank'>Galleria Borghese<\/a>"
+        },
+        {
+            "label": "Rights Statement",
+            "value": "-"
+        },
+        {
+            "label": "Full Artwork Details",
+            "value": "“Per lui d’amore adultero riarse/Pasife allora, ed invidiosa odiava/Le giovenche formose”. (Ovid. Ars Amandi I, 437.439) Il rilievo costituiva il lato corto destro di un sarcofago raffigurante il mito di Pasifae, del quale si conservano al museo del Louvre il lato lungo e quello corto sinistro (Martinez 2004, nn. 0815, 0681; Papadopoulos 1994, p. 197, pl. 131, n. 23). Il primo raffigura i vari atti del mito: la commissione del simulacro ligneo a Dedalo, la realizzazione e la consegna a Pasifae; il lato breve sinistro mostra tre figure maschili interpretate come i figli di Minosse e Pasifae (Charbonneaux 1963, p. 229, n. 1933); quello destro, presso la Galleria Borghese, il sacrificio offerto da Minosse a Poseidone. Euripide, per primo, narra nel IV secolo a.C. la storia di Pasifae nella tragedia I Cretesi, della quale rimangono, purtroppo, solo due frammenti. Apollodoro di Damasco, tra la metà del I e gli inizi del II secolo d.C. spiega in maniera compiuta il mito. Minosse, aspirando al regno di Creta, dichiara di avere dalla sua parte il volere degli dei e a dimostrazione di questo domanda a Poseidone un toro in dono, con la promessa che lo avrebbe sacrificato. Poseidone esaudisce la preghiera facendo emergere dalle onde un bellissimo animale ma Minosse non adempie il suo voto. Il dio, adirato, punisce quindi la casa reale infondendo in Pasifae una folle brama per il toro. Per riuscire a soddisfare tale passione la regina incarica l’architetto ateniese Dedalo di costruirle un simulacro dalle sembianze di giovenca capace di ospitarla. Dall’unione nasce il terribile Minotauro (Apollodoro, Biblioteca III, 1). Il rilievo Borghese, delimitato da una cornice moderna, raffigura il sacrificio di Minosse che precede l’avvenimento rappresentato nella faccia principale. La scena si svolge dinanzi al tempio di Poseidone, evocato nella decorazione del timpano dalla figura di un Tritone, verso il quale il re di Creta si volge, seguito da una figura femminile dal capo velato recante un piatto con della frutta. L’uomo, barbuto e a capo scoperto, indossa una lunga veste. Il braccio sinistro è piegato; il destro, dal quale è scivolata la tunica, è sollevato in segno di saluto o in giuramento. Sei gradini portano al tempio affiancato da una colonna decorata da una piccola statua di Eros fanciullo, posta all’entrata. La figura sorregge nella mano destra un ramoscello di palma. Un alto pino chiude la scena sul lato destro. Alla metà del Cinquecento il sarcofago, integro, si trova nel Belvedere in Vaticano: “detto pilo fu messo giù in belvedere da Pio IIII. è di bella maniera. dicono gli antiquarj essere la storia di Pasife, quando fece fabricare la vacca per volersi congiugnere col toro” (Robert 1890, p. 8). La testimonianza, corredata da illustrazioni, si ritrova nel Codex Berolinensis conservato presso il Kupferstichkabinett di Berlino, volume curato da Antonio Dosio e contenente disegni di soggetto archeologico a opera dell’architetto e di altri autori. Carl Robert, che nel 1890 svolge un ampio studio dell’opera, sostiene che tali illustrazioni siano da attribuire al pittore genovese Girolamo Ferrari, operante sotto il pontificato di papa Pio IV. Tra il 1572 e il 1577 il sarcofago è riprodotto in un disegno di Pierre Jacques con l'indicazione 'in Trastevere' (Reinach 1902, p. 114, pl. 6). Secondo il Robert e il Reinach la scultura viene suddivisa in lastre nel 1615, in occasione della costruzione della Villa Borghese, dove i rilievi sono visti da Iacomo Manilli nel 1650. Il Manilli individua nelle scene che decorano il lato lungo, murato nel quinto arco del portico, la rappresentazione dell’Abbondanza e nel lato corto sinistro, posto nel giardino privato, una divinità assisa con due soldati (Manilli 1650, pp. 33-34, 49). Il lato corto destro compare in un disegno del XVII secolo a decorazione della fontana laterale del giardino interno (Moreno 2003, p. 70, fig. 7). Secondo il Robert la raffigurazione di sacrificio, del lato destro, non sembra potersi identificare con nessuno dei rilievi descritti da Manilli. Egli ipotizza, invece, che esso fosse riposto nei magazzini della villa e per questa ragione sia sfuggito all’appropriazione napoleonica del 1806 (Robert 1890, p. 14). Nella testimonianza del Nibby, del 1832, il rilievo compare murato nella sua attuale collocazione, nella sala I (Nibby 1832, pp. 59-60, n. 5, tav. 16b). Nel trasferimento alla Villa, agli inizi del XVII secolo, il sarcofago è smembrato e i lati fortemente rimaneggiati. Per la lastra in questione, nel confronto con i disegni Cinquecenteschi, è visibile l’obliterazione della figura di un secondo Erote posto su una seconda colonna del tempio e la modifica della testa della piccola figura rimanente, ora volta verso sinistra. Tali interventi ne hanno reso difficile nel tempo la corretta lettura. Emil Braun nel 1854 interpreta la figura maschile come il poeta Esiodo, sacrificante dinanzi al tempio di Eros a Tespia (Braun 1854, pp. 535-536). Mentre il Nibby ipotizza che si tratti del filosofo Apollonio di Tiana, nell’atto di sacrificare presso il tempio di Poseidone all’Istmo, seguito dalla personificazione della filosofia pitagorica. In virtù di tale credo l’autore asserisce che Apollonio non potesse eseguire un sacrificio animale: “sembra che con questa figura siasi voluta indicare Ia origine, del filosofo nato in Tyana, rappresentando una donna in costume di Cappadocia, e la filosofia da lui professata, che non ammetteva sagrificii cruenti” (Nibby 1832, pp. 59-60, n. 5, tav. 16b). Nonostante l’errata interpretazione del soggetto, l'individuazione topografica appare plausibile se si tiene conto di quanto riportato da Pausania circa tale santuario, al quale si giungeva lungo un allineamento di pini, “la maggior parte dei quali svettano dritti” e che l’edificio era decorato negli acroteri da figure di Tritoni. In questo caso trasportati, per l’evidente spazio ridotto, nel frontone (Pausania, Periegesi della Grecia, 2, 1, 7). Il Robert infine, che vede nella figura maschile il re Minosse, avanza l’ipotesi che la donna, posta dietro di lui, sia l’anziana madre Europa (Robert 1890, p. 23). La realizzazione del sarcofago è inquadrabile nella metà del II secolo d.C. Giulia Ciccarello"
+        },
+        {
+            "label": "Frame",
+            "value": "-"
+        },
+        {
+            "label": "Exhibitions",
+            "value": "-"
+        },
+        {
+            "label": "Restauration",
+            "value": "1996, Consorzio Capitolino"
+        },
+        {
+            "label": "Bibliography",
+            "value": "-"
+        },
+        {
+            "label": "Provenance",
+            "value": "Presente a metà del Cinquecento nel Belvedere in Vaticano (Robert 1890, p. 8); Collezione Borghese, citato per la prima volta probabilmente da Manilli (1650, pp. 33-34, 49). Inventario Fidecommissario Borghese, 1833, C., p. 44, n. 49. Acquisto dello Stato, 1902."
+        }
+    ],
+    "thumbnail": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif/full/full/0/default.jpg",
+    "viewDirection": "right-to-left",
+    "attribution": "Digital image courtesy of the <a href='https://galleriaborghese.beniculturali.it/info/foto-e-video/' target='_blank'>Galleria Borghese<\/a>.",
+    "logo": "https://galleriaborghese.beniculturali.it/wp-content/uploads/logo.svg",
+    "within": "-",
+    "sequences": [
+        {
+            "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share#sequencePaolina",
+            "@type": "sc:Sequence",
+            "label": "Object",
+            "viewingDirection": "left-to-right",
+            "viewingHint": "paged",
+            "startCanvas": "-",
+            "canvases": [
+                {
+                    "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif",
+                    "@type": "sc:Canvas",
+                    "label": "Main Image",
+                    "width": 5299,
+                    "height": 4189,
+                    "images": [
+                        {
+                            "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/tif",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif",
+                                    "profile": "http://iiif.io/api/image/2/profiles/level0.json"
+                                }
+                            },
+						"on": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif/full/full/0/default.jpg"
+						}
+                    ],
+                    "thumbnail": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif/full/full/0/default.jpg"
+                },
+                {
+                    "@id":"https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/sala_panoramica.png/info.json",
+                    "@type":"sc:Canvas",
+                    "label":"Sala 360",
+                    "width":18000,
+                    "height":9000,
+                    "images":[
+                       {
+                          "@id":"https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/sala_panoramica.png/info.json",
+                          "@type":"oa:Annotation",
+                          "motivation":"sc:foto360",
+                          "on":"https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/sala_panoramica.png/info.json",
+                          "resource":{
+                             "@id":"https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/sala_panoramica.png/",
+                             "@type":"dctypes:Image",
+                             "format":"image/png",
+                             "service":{
+                                "@context":"http://iiif.io/api/image/2/context.json",
+                                "@id":"https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/sala_panoramica.png/",
+                                "profile":"http://iiif.io/api/image/2/profiles/level1.json"
+                             },
+                             "width":18000,
+                             "height":9000
+                          }
+                       }
+                    ],
+                    "thumbnail":"https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/sala_panoramica.png/full/full/0/default.jpg"
+                 }
+            ]
+        }
+    ],
+    "license": "https://galleriaborghese.beniculturali.it/info/foto-e-video/",
+    "related": "https://www.collezionegalleriaborghese.it/opere/sarcofago-con-il-mito-di-pasifae-minosse-che-sacrifica-a-poseidone"
+}

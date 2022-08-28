@@ -1,0 +1,167 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://raw.githubusercontent.com/ElenaBarchielli/testmanifest/main/manifest_opere/arte_antica.json",
+    "@type": "sc:Manifest",
+    "label": "Cista con maschera di satiro, frammenti eterogenei composti arbitrariamente in età moderna, I sec. d.C.",
+    "description": "La scultura, composta dall’accostamento di frammenti eterogenei, è assemblata probabilmente intorno al 1828, e posta, in occasione del nuovo allestimento museale della sala I, al lato del Gruppo di Leda Giacente con il cigno, a pendant con una seconda composizione analoga. È costituita da elementi a carattere dionisiaco: una maschera di satiro, una pelle di capro e una cista mistica, quest’ultima utilizzata nei riti sacri in onore del dio.",
+    "metadata": 
+    [
+        {
+            "label": "Title",
+            "value": "Cista con maschera di satiro, frammenti eterogenei composti arbitrariamente in età moderna"
+        },
+        {
+            "label": "Artist / Maker",
+            "value": "-"
+        },
+        {
+            "label": "Date",
+            "value": "I sec. d.C."
+        },
+        {
+            "label": "Culture",
+            "value": "-"
+        },
+        {
+            "label": "Medium / Technique",
+            "value": "marmo bianco"
+        },
+        {
+            "label": "Dimensions",
+            "value": "altezza cm 86"
+        },
+        {
+            "label": "Number of Inventory",
+            "value": "LXIIb"
+        },
+        {
+            "label": "Location",
+            "value": "<a href='https://galleriaborghese.beniculturali.it/il-museo/la-villa/sala-1-sala-della-paolina/' target='_blank'>Sala I - Sala della Paolina<\/a> | <a href='https://raw.githubusercontent.com/ElenaBarchielli/testmanifest/main/manifest_panoramica/manifest_sala1.json' target='_blank'>manifest<\/a>"
+        },
+        {
+            "label": "Place Created",
+            "value": "-"
+        },
+        {
+            "label": "Signature(s)",
+            "value": "-"
+        },
+        {
+            "label": "Mark(s)",
+            "value": "-"
+        },
+        {
+            "label": "Classification",
+            "value": "<a href='https://www.collezionegalleriaborghese.it/collezione/arte-antica' target='_blank'>Arte antica<\/a>"
+        },
+        {
+            "label": "Object Type",
+            "value": "-"
+        },
+        {
+            "label": "Collection",
+            "value": "<a href=’https://galleriaborghese.beniculturali.it/' target='_blank'>Galleria Borghese<\/a>"
+        },
+        {
+            "label": "Rights Statement",
+            "value": "-"
+        },
+        {
+            "label": "Full Artwork Details",
+            "value": "La composizione compare, insieme a una analoga, nella Nomenclatura degli oggetti di antica scultura del 1828 nella sala I, vicino al Gruppo di Leda Giacente con il cigno: “alli due lati della medesima due frammenti di ornato uno con Erma, l’altro con cista mistica” e ancora “Sostegno di trapezoforo; Erma doppia con maschere; cista mistica” (Archivio Apostolico Vaticano, Archivio Borghese, b. 348, fasc. 33: Moreno 1997, pp. 91-92, 112). La scultura è costituita dall’unione di frammenti eterogenei assemblati in epoca moderna, probabilmente in occasione dell’allestimento della sala. Si compone, a partire dal basso, di un basamento circolare ornato da una corona di foglie di acanto su cui è posta la riproduzione di un cumulo di sassi coperto da una pelle di capro. Su di essa è adagiata una cista di vimini con sopra una maschera di satiro. La struttura termina con una pigna decorata da elementi vegetali poggianti su foglie di acanto. La maschera è posata sul piano, rivolta verso l’alto. Il volto del satiro è raffigurato con bocca spalancata contornata da lunghi baffi e folta barba i cui riccioli arrivano a celare parte del coperchio della cista. I capelli, trattati in lunghe ciocche scomposte che giungono a coprire il collo, sono adornati da una corona di pampini. Tra i ciuffi spuntano le vistose orecchie a punta. Il naso è piccolo e gli occhi, così come la bocca, sono cavi. I frammenti appaiono legati dal tema comune dionisiaco, evocato principalmente dalla figura del satiro, dalla pelle caprina - abbigliamento tipico dei partecipanti ai cortei comastici - e dalla cista mistica, oggetto rituale riferito alle liturgie di iniziazione in onore di Dioniso. La decontestualizzazione degli elementi e la sistemazione moderna permettono solo di formulare ipotesi circa l’originaria funzione delle sculture. Riguardo la maschera, la particolare inclinazione e le cavità suggeriscono un’immagine dal simbolismo apotropaico che era uso esporre, soprattutto in ambito domestico, a scopo scaramantico ed esorcizzante. Potrebbe altresì essere verisimile un legame con i costumi scenici del mondo teatrale. Una maschera di satiro, dalle peculiarità animalesche molto marcate, raffigurata in una staticità simile a quella Borghese, è conservata presso la sala del Fauno dei Musei Capitolini (inv. MC 716). La cista mistica appare nei repertori iconografici classici in connessione con il mito di Erittonio, così come ricordato da Apollodoro. Il racconto narra come le figlie di Cecrope, alle quali Atena aveva affidato una cista con il divieto di guardare cosa ci fosse dentro, vinte dalla curiosità avessero aperto il contenitore provocando l’apparizione di Erittonio, il serpente figlio di Efesto e Atena (Apollodoro, Biblioteca, 3.14.6). Nelle fonti letterarie il termine κίστη riferito a riti misterici è presente in un passo di Demostene nel quale, a proposito della partecipazione di Eschine ai misteri di Dioniso Sabazio, menziona le funzioni del κιστοφόρος, “portatore di cista” (Demostene, Per Ctesifonte, sulla corona, 260). Claudio Eliano, infine, riporta il mito secondo cui Dioniso, irato con le figlie di Minia di Orcomeno che si rifiutavano di riconoscere e seguire il culto orgiastico a lui consacrato, dedicandosi invece alle occupazioni del tessere e del filare, avrebbe sostituito la lana nelle loro ceste con serpenti e attorcigliato viticci ed edere ai loro telai. Prese da bacchico furore le fanciulle si sarebbero unite alle Menadi sulle montagne (Aelianus, Varia Historia, 3.42). Riguardo la cista Borghese, confronti nella plastica a tutto tondo si ritrovano in una serie di cinerari conservati ad Aquileia, di epoca giulio claudia (Buora 1982, pp. 189-208) e in alcuni frammenti pertinenti al coperchio e al corpo di un contenitore di vimini intrecciati, rinvenuti in un ambiente della Domus Tiberiana (Abbondanza 2019, pp. 91-107).Infine, i tre soggetti iconografici, maschera, pelle di capro e cista, si ritrovano rappresentati sulla fronte di un sarcofago raffigurante un tiaso dionisiaco custodito presso il Museo Nazionale Romano, Terme di Diocleziano (inv. 1303: Matz 1968, II, pp. 180-182, n. 73, tav. 81). La scultura, di natura ornamentale, richiama le composizioni definite “chimeriche”, composte dall’accostamento di elementi tra loro dissonanti. La raffinata e particolareggiata ricerca della resa plastica, individuabile soprattutto nella lavorazione della cista e nei tratti fisionomici della maschera, induce a indicare per i frammenti antichi un inquadramento cronologico nel I secolo d.C. Giulia Ciccarello"
+        },
+        {
+            "label": "Frame",
+            "value": "-"
+        },
+        {
+            "label": "Exhibitions",
+            "value": "-"
+        },
+        {
+            "label": "Restauration",
+            "value": "ante 1828 ricomposizione delle parti. 1996-97 Consorzio Capitolino di Elisabetta Zatti ed Elisabetta Caracciolo"
+        },
+        {
+            "label": "Bibliography",
+            "value": "-"
+        },
+        {
+            "label": "Provenance",
+            "value": "Collezione Borghese, ricordato nella Nomenclatura del 1828 (Archivio Apostolico Vaticano, Archivio Borghese, b. 348, fasc. 33: Moreno 1997, pp. 91, 112); Inventario Fidecommissario Borghese, 1833, C., p. 44, n. 40. Acquisto dello Stato, 1902."
+        }
+    ],
+    "thumbnail": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif/full/full/0/default.jpg",
+    "viewDirection": "right-to-left",
+    "attribution": "Digital image courtesy of the <a href='https://galleriaborghese.beniculturali.it/info/foto-e-video/' target='_blank'>Galleria Borghese<\/a>.",
+    "logo": "https://galleriaborghese.beniculturali.it/wp-content/uploads/logo.svg",
+    "within": "-",
+    "sequences": [
+        {
+            "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share#sequencePaolina",
+            "@type": "sc:Sequence",
+            "label": "Object",
+            "viewingDirection": "left-to-right",
+            "viewingHint": "paged",
+            "startCanvas": "-",
+            "canvases": [
+                {
+                    "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif",
+                    "@type": "sc:Canvas",
+                    "label": "Main Image",
+                    "width": 5299,
+                    "height": 4189,
+                    "images": [
+                        {
+                            "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/tif",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif",
+                                    "profile": "http://iiif.io/api/image/2/profiles/level0.json"
+                                }
+                            },
+						"on": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif/full/full/0/default.jpg"
+						}
+                    ],
+                    "thumbnail": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif/full/full/0/default.jpg"
+                },
+                {
+                    "@id":"https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/sala_panoramica.png/info.json",
+                    "@type":"sc:Canvas",
+                    "label":"Sala 360",
+                    "width":18000,
+                    "height":9000,
+                    "images":[
+                       {
+                          "@id":"https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/sala_panoramica.png/info.json",
+                          "@type":"oa:Annotation",
+                          "motivation":"sc:foto360",
+                          "on":"https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/sala_panoramica.png/info.json",
+                          "resource":{
+                             "@id":"https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/sala_panoramica.png/",
+                             "@type":"dctypes:Image",
+                             "format":"image/png",
+                             "service":{
+                                "@context":"http://iiif.io/api/image/2/context.json",
+                                "@id":"https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/sala_panoramica.png/",
+                                "profile":"http://iiif.io/api/image/2/profiles/level1.json"
+                             },
+                             "width":18000,
+                             "height":9000
+                          }
+                       }
+                    ],
+                    "thumbnail":"https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/sala_panoramica.png/full/full/0/default.jpg"
+                 }
+            ]
+        }
+    ],
+    "license": "https://galleriaborghese.beniculturali.it/info/foto-e-video/",
+    "related": "https://www.collezionegalleriaborghese.it/opere/cista-con-maschera-di-satiro-frammenti-eterogenei-composti-arbitrariamente-in-eta-moderna"
+}

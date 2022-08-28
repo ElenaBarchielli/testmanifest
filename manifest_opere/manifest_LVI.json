@@ -1,0 +1,167 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://raw.githubusercontent.com/ElenaBarchielli/testmanifest/main/manifest_opere/arte_antica.json",
+    "@type": "sc:Manifest",
+    "label": "Ara con soggetto dionisiaco, II sec. d.C.",
+    "description": "L’altare di forma circolare, integrato nella parte superiore e inferiore, è decorato da un rilievo figurato con personaggi del corteggio di Dioniso, dio dei misteri e dell’ebrezza: un Fauno barbuto, dal corpo villoso e arti inferiori simili a quelli di un caprone, con indosso una nebride e nelle mani un bastone corto e un corno potorio; una Menade, sacerdotessa di Dioniso, un Satiro retrospiciente in corsa e una seconda Menade che danza suonando i crotali. Gli strumenti di culto bacchico appesi al bordo superiore del campo figurato richiamano l’ambientazione rurale tipica delle pratiche sacrali rustiche. Sull’orlo inferiore sono incise le iniziali di una iscrizione dedicatoria, non autentica, d(e) s(ua) p(ecunia) f(aciendum) c(uravit). L’esemplare Borghese, di ignota provenienza, è il prodotto di una officina italica di età imperiale che riprende un repertorio di modelli che spazia dall’età arcaica fino a quella ellenistica.",
+    "metadata": 
+    [
+        {
+            "label": "Title",
+            "value": "Ara con soggetto dionisiaco"
+        },
+        {
+            "label": "Artist / Maker",
+            "value": "-"
+        },
+        {
+            "label": "Date",
+            "value": "II sec. d.C."
+        },
+        {
+            "label": "Culture",
+            "value": "-"
+        },
+        {
+            "label": "Medium / Technique",
+            "value": "marmo bianco"
+        },
+        {
+            "label": "Dimensions",
+            "value": "altezza cm 90 (con integrazioni), diametro cm 50"
+        },
+        {
+            "label": "Number of Inventory",
+            "value": "LVI"
+        },
+        {
+            "label": "Location",
+            "value": "<a href='https://galleriaborghese.beniculturali.it/il-museo/la-villa/sala-1-sala-della-paolina/' target='_blank'>Sala I - Sala della Paolina<\/a> | <a href='https://raw.githubusercontent.com/ElenaBarchielli/testmanifest/main/manifest_panoramica/manifest_sala1.json' target='_blank'>manifest<\/a>"
+        },
+        {
+            "label": "Place Created",
+            "value": "-"
+        },
+        {
+            "label": "Signature(s)",
+            "value": "-"
+        },
+        {
+            "label": "Mark(s)",
+            "value": "-"
+        },
+        {
+            "label": "Classification",
+            "value": "<a href='https://www.collezionegalleriaborghese.it/collezione/arte-antica' target='_blank'>Arte antica<\/a>"
+        },
+        {
+            "label": "Object Type",
+            "value": "-"
+        },
+        {
+            "label": "Collection",
+            "value": "<a href=’https://galleriaborghese.beniculturali.it/' target='_blank'>Galleria Borghese<\/a>"
+        },
+        {
+            "label": "Rights Statement",
+            "value": "-"
+        },
+        {
+            "label": "Full Artwork Details",
+            "value": "L’ara Borghese, di forma circolare, è integrata nella parte superiore e inferiore. È ignota la provenienza del monumento, presente nella collezione Borghese già dal XVI sec. e menzionato da Iacomo Manilli e Domenico Montelatici quale supporto di una statua di Eros esposta in sala II e oggi al Louvre. In occasione del nuovo allestimento della collezione voluto da Camillo Borghese fra 1819 e 1832 nel Casino depauperato dalla vendita delle opere antiche al cognato Napoleone Bonaparte, l’ara fu collocata nella sala I come base per la statua di muliebre di Afrodite restaurata come Urania. Il rilievo figurato presenta una teoria di personaggi del tiaso di Dioniso, dio dei misteri e della campagna, legato al vino e alla vigna. Un Fauno barbuto, divinità della campagna e dei greggi, col mento prominente, due lunghe corna, il corpo villoso e gli arti inferiori simili a quelli di un caprone, è rappresentato di profilo a destra, con indosso una nebride a guisa di mantello, un pedum (bastone corto e ricurvo) nella destra e un rhython (corno potorio) nella sinistra sollevata. Seguono una Menade, sacerdotessa di Dioniso, vestita di chitone e avvolta nell’himation svolazzante, un Satiro, personificazione delle energie naturali dell’acqua, dei venti e delle foreste, retrospiciente in corsa verso destra che reca nella sinistra una fiaccola e una seconda Menade che danza suonando i crotali. Sospesi negli spazi tra i personaggi vi sono i consueti strumenti di culto bacchico (siringa, timpano e cimbali) appesi tramite nastri al bordo superiore del campo figurato, allo scopo di richiamare una ambientazione rurale tipica delle pratiche sacrali rustiche (Dräger 1994; Bacchetta 2005). Sull’orlo inferiore sono incise le iniziali di una formula dedicatoria, non autentica, d(e) s(ua) p(ecunia) f(aciendum) c(uravit). In età imperiale la rappresentazione del thiasos dionisiaco, con i suoi molteplici elementi simbolici e l’ambientazione naturale, diviene un tema figurativo particolarmente apprezzato per supporti diversi, dai puteali, ai rilievi di sarcofagi, agli altari e poteva inoltre inserirsi nella decorazione di spazi aperti come giardini, divenendo presto soggetto di genere, allusione alla gioia della festa danzante che prepara al rito sacrificale e al piacere di vivere donati da Dioniso. L’esemplare Borghese, fortemente integrato dal restauro moderno, riprende un repertorio di modelli che spazia dall’età arcaica fino a quella ellenistica; considerazioni di carattere stilistico e, in particolare il trattamento dei corpi e dei mantelli rigonfi, confrontabili con soluzioni ricorrenti su sarcofagi a tema dionisiaco, prodotti standardizzati delle botteghe di II sec. d.C. (vd. frammento del coperchio di un sarcofago nella collezione Farnese, Napoli, MANN inv.6606; Lista 2010, pp. 113-114, n. 42), permettono di iscrivere l’altare in questo orizzonte cronologico. Jessica Clementi"
+        },
+        {
+            "label": "Frame",
+            "value": "-"
+        },
+        {
+            "label": "Exhibitions",
+            "value": "-"
+        },
+        {
+            "label": "Restauration",
+            "value": "1996, Consorzio Capitolino"
+        },
+        {
+            "label": "Bibliography",
+            "value": "-"
+        },
+        {
+            "label": "Provenance",
+            "value": "Collezione Borghese, dagli scavi di Mentana (1830-1832). Acquisto dello Stato, 1902."
+        }
+    ],
+    "thumbnail": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif/full/full/0/default.jpg",
+    "viewDirection": "right-to-left",
+    "attribution": "Digital image courtesy of the <a href='https://galleriaborghese.beniculturali.it/info/foto-e-video/' target='_blank'>Galleria Borghese<\/a>.",
+    "logo": "https://galleriaborghese.beniculturali.it/wp-content/uploads/logo.svg",
+    "within": "-",
+    "sequences": [
+        {
+            "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share#sequencePaolina",
+            "@type": "sc:Sequence",
+            "label": "Object",
+            "viewingDirection": "left-to-right",
+            "viewingHint": "paged",
+            "startCanvas": "-",
+            "canvases": [
+                {
+                    "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif",
+                    "@type": "sc:Canvas",
+                    "label": "Main Image",
+                    "width": 5299,
+                    "height": 4189,
+                    "images": [
+                        {
+                            "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/tif",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif",
+                                    "profile": "http://iiif.io/api/image/2/profiles/level0.json"
+                                }
+                            },
+						"on": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif/full/full/0/default.jpg"
+						}
+                    ],
+                    "thumbnail": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif/full/full/0/default.jpg"
+                },
+                {
+                    "@id":"https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/sala_panoramica.png/info.json",
+                    "@type":"sc:Canvas",
+                    "label":"Sala 360",
+                    "width":18000,
+                    "height":9000,
+                    "images":[
+                       {
+                          "@id":"https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/sala_panoramica.png/info.json",
+                          "@type":"oa:Annotation",
+                          "motivation":"sc:foto360",
+                          "on":"https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/sala_panoramica.png/info.json",
+                          "resource":{
+                             "@id":"https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/sala_panoramica.png/",
+                             "@type":"dctypes:Image",
+                             "format":"image/png",
+                             "service":{
+                                "@context":"http://iiif.io/api/image/2/context.json",
+                                "@id":"https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/sala_panoramica.png/",
+                                "profile":"http://iiif.io/api/image/2/profiles/level1.json"
+                             },
+                             "width":18000,
+                             "height":9000
+                          }
+                       }
+                    ],
+                    "thumbnail":"https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/sala_panoramica.png/full/full/0/default.jpg"
+                 }
+            ]
+        }
+    ],
+    "license": "https://galleriaborghese.beniculturali.it/info/foto-e-video/",
+    "related": "https://www.collezionegalleriaborghese.it/opere/ara-con-soggetto-dionisiaco"
+}

@@ -1,0 +1,167 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://raw.githubusercontent.com/ElenaBarchielli/testmanifest/main/manifest_opere/arte_antica.json",
+    "@type": "sc:Manifest",
+    "label": "Rilievo con Artemide, prima metà II sec. d.C.",
+    "description": "Due figure femminili con panneggio sono raffigurate una di fronte all’altra: la donna a sinistra è seduta su una sedia e poggia i piedi su uno sgabello di dimensioni ridotte, è volta verso un bimbo in fasce sorretto dalla donna stante. Sotto la sedia è visibile una cerva accovacciata. Sullo sfondo, un florido albero incornicia e delimita la scena, evocando un'ambientazione agreste. Un'interpretazione identifica nella figura seduta la dea Artemide nella sua funzione di Kourotrophos, nutrice degli infanti, raffigurata mentre osserva un neonato che una donna le tende. Una diversa interpretazione vi individua il mito di Telefo, figlio di Eracle e di Auge, sacerdotessa di Atena, presentato da un'ancella alla madre. Il rilievo, inserito in una cornice moderna, fu scoperto nel 1766 nella tenuta Borghese di Torrenova sulla via Labicana.",
+    "metadata": 
+    [
+        {
+            "label": "Title",
+            "value": "Rilievo con Artemide"
+        },
+        {
+            "label": "Artist / Maker",
+            "value": "-"
+        },
+        {
+            "label": "Date",
+            "value": "prima metà II sec. d.C."
+        },
+        {
+            "label": "Culture",
+            "value": "-"
+        },
+        {
+            "label": "Medium / Technique",
+            "value": "marmo di Luni"
+        },
+        {
+            "label": "Dimensions",
+            "value": "cm. 86 x75"
+        },
+        {
+            "label": "Number of Inventory",
+            "value": "LXXI"
+        },
+        {
+            "label": "Location",
+            "value": "<a href='https://galleriaborghese.beniculturali.it/il-museo/la-villa/sala-1-sala-della-paolina/' target='_blank'>Sala I - Sala della Paolina<\/a> | <a href='https://raw.githubusercontent.com/ElenaBarchielli/testmanifest/main/manifest_panoramica/manifest_sala1.json' target='_blank'>manifest<\/a>"
+        },
+        {
+            "label": "Place Created",
+            "value": "-"
+        },
+        {
+            "label": "Signature(s)",
+            "value": "-"
+        },
+        {
+            "label": "Mark(s)",
+            "value": "-"
+        },
+        {
+            "label": "Classification",
+            "value": "<a href='https://www.collezionegalleriaborghese.it/collezione/arte-antica' target='_blank'>Arte antica<\/a>"
+        },
+        {
+            "label": "Object Type",
+            "value": "-"
+        },
+        {
+            "label": "Collection",
+            "value": "<a href=’https://galleriaborghese.beniculturali.it/' target='_blank'>Galleria Borghese<\/a>"
+        },
+        {
+            "label": "Rights Statement",
+            "value": "-"
+        },
+        {
+            "label": "Full Artwork Details",
+            "value": "L’opera fu rinvenuta nel 1766, negli scavi eseguiti nella tenuta di Torrenova sulla via Labicana, proprietà della famiglia Borghese dal 1683 alla fine della prima guerra mondiale. Il rinvenimento è testimoniato da Johann Joachim Winckelmann nel 1767 (Winckelmann 1767, p.96, tav.71) e successivamente ripreso da Antonio Nibby nel 1832 (Nibby 1832, pp.63-65, n.8; p. 67, tav.18). Il rilievo è stato utilizzato per la decorazione parietale della sala, inserito in una cornice moderna. La composizione è raffigurata in un ambiente agreste, evocato da un rigoglioso albero sullo sfondo che chiude il piano visivo e funge da copertura alla scena, suddividendo al tempo stesso lo spazio in due metà dedicate alle due figure principali, riunite nel punto focale creato dall’infante sorretto da entrambe. Le due figure femminili panneggiate sono rappresentate affrontate: quella di sinistra, seduta su una sedia con i piedi su un piccolo sgabello, ha lo sguardo rivolto verso il bimbo in fasce che la donna in piedi le sta porgendo. Sotto la sedia è presente una cerva accovacciata. Un'interpretazione individua nella figura seduta la dea Artemide, munita di bandoliera che le attraversa il petto, nella sua funzione di Kourotrophos, nutrice degli infanti, raffigurata mentre osserva un neonato che una donna le sta porgendo per ottenere la protezione della dea: lo sguardo della figura stante è, infatti, rivolto verso quella seduta, la quale si concentra sul piccolo che sta per accogliere. La figura di Artemide, legata alle fasi della maternità, era diffusa soprattutto in Asia Minore e a Sparta con l’appellativo di Lochia, “protettrice dei parti”, e Kourotrophos. Più in generale la dea era portatrice di luce: “Dea che porti la fiaccola, Dictinna, protettrice del parto, soccorritrice nelle doglie e non iniziata alle doglie, sciogli le cinture (…) Orthia, acceleri i parti, demone che nutri i figli dei mortali” (Inno Orfico ad Artemide, 36). In un rilievo, proveniente dall’Esquilino e ora al Museo Nuovo Capitolino, del quale si conserva solo la parte inferiore, è raffigurata Artemide seduta, con indosso chitone e himation, nell’atto di porgere la mano verso una cerva posta ai suoi piedi (Mustilli, 1939, p.86, n. 6, pl.50, n. 207; Kahil, 1984, p.672, n. 672). Un secondo rilievo, al Museo Nazionale di Atene, presenta una composizione scenica affine a quella Borghese, con la dea su trono e un albero a chiudere la scena (Svorōnos, 1908, pp.336-340, n. 87, pl. 55; Kahil, 1984, p.679, n. 740). Una diversa interpretazione della scultura vi riconosce il mito di Telefo, figlio di Eracle e di Auge, sacerdotessa di Atena, amata dall’eroe, presentato da un'ancella alla madre. In questo caso la cerva potrebbe identificarsi con l'animale che aveva allevato Telefo dopo la sua esposizione nella foresta per ordine del re Aleo, padre di Auge e re di Arcadia. Diodoro Siculo ci racconta, nel I secolo a.C., il mito di Auge sedotta di nascosto da Eracle e cacciata da suo padre, in quanto sacerdotessa di Atena votata alla castità. La donna, risparmiata da chi aveva avuto l’incarico di ucciderla, fu portata in Asia Minore dove andò in sposa al re di Misia. Il bambino, abbandonato tra i cespugli, fu nutrito da una cerva e salvato da alcuni pastori che lo consegnarono al re Corinto il quale lo adottò (Diod. Bibliotheca historica, IV, 33.7). La composizione rimanda all’iconografia delle stele funerarie attiche nelle quali sono rappresentate scene di ambientazione familiare e ricche di pathos, che seguono schemi iconografici ben precisi e identificabili. La raffigurazione del rilievo Borghese evoca il momento in cui una figura ausiliaria, un’ancella o una parente, porge per un ultimo saluto di commiato il figlio alla defunta seduta. Due stele, una conservata al Shelby Whiteand Leon Lévy Collection, di New York, ed una seconda a Londra, databili al V-IV secolo d.C., presentano una struttura scenica molto simile (Catoni, 2005, pp.31-33, figg.3-4).       Giulia Ciccarello"
+        },
+        {
+            "label": "Frame",
+            "value": "-"
+        },
+        {
+            "label": "Exhibitions",
+            "value": "2015, Parma"
+        },
+        {
+            "label": "Restauration",
+            "value": "1996-1997, Consorzio Capitolino"
+        },
+        {
+            "label": "Bibliography",
+            "value": "-"
+        },
+        {
+            "label": "Provenance",
+            "value": "Rinvenuto nella tenuta Borghese di Torrenova sulla via Labicana nel 1766. Inventario Fidecommissario Borghese, 1833, C., p.45, n.51 (?). Acquisto dello Stato, 1902."
+        }
+    ],
+    "thumbnail": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif/full/full/0/default.jpg",
+    "viewDirection": "right-to-left",
+    "attribution": "Digital image courtesy of the <a href='https://galleriaborghese.beniculturali.it/info/foto-e-video/' target='_blank'>Galleria Borghese<\/a>.",
+    "logo": "https://galleriaborghese.beniculturali.it/wp-content/uploads/logo.svg",
+    "within": "-",
+    "sequences": [
+        {
+            "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share#sequencePaolina",
+            "@type": "sc:Sequence",
+            "label": "Object",
+            "viewingDirection": "left-to-right",
+            "viewingHint": "paged",
+            "startCanvas": "-",
+            "canvases": [
+                {
+                    "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif",
+                    "@type": "sc:Canvas",
+                    "label": "Main Image",
+                    "width": 5299,
+                    "height": 4189,
+                    "images": [
+                        {
+                            "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/tif",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif",
+                                    "profile": "http://iiif.io/api/image/2/profiles/level0.json"
+                                }
+                            },
+						"on": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif/full/full/0/default.jpg"
+						}
+                    ],
+                    "thumbnail": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif/full/full/0/default.jpg"
+                },
+                {
+                    "@id":"https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/sala_panoramica.png/info.json",
+                    "@type":"sc:Canvas",
+                    "label":"Sala 360",
+                    "width":18000,
+                    "height":9000,
+                    "images":[
+                       {
+                          "@id":"https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/sala_panoramica.png/info.json",
+                          "@type":"oa:Annotation",
+                          "motivation":"sc:foto360",
+                          "on":"https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/sala_panoramica.png/info.json",
+                          "resource":{
+                             "@id":"https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/sala_panoramica.png/",
+                             "@type":"dctypes:Image",
+                             "format":"image/png",
+                             "service":{
+                                "@context":"http://iiif.io/api/image/2/context.json",
+                                "@id":"https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/sala_panoramica.png/",
+                                "profile":"http://iiif.io/api/image/2/profiles/level1.json"
+                             },
+                             "width":18000,
+                             "height":9000
+                          }
+                       }
+                    ],
+                    "thumbnail":"https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/sala_panoramica.png/full/full/0/default.jpg"
+                 }
+            ]
+        }
+    ],
+    "license": "https://galleriaborghese.beniculturali.it/info/foto-e-video/",
+    "related": "https://www.collezionegalleriaborghese.it/opere/rilievo-con-artemide"
+}

@@ -1,0 +1,171 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://raw.githubusercontent.com/ElenaBarchielli/testmanifest/main/manifest_opere/arte_antica.json",
+    "@type": "sc:Manifest",
+    "label": "Ara sepolcrale di Spendonte, prima metà I secolo d.C., Arte Romana",
+    "description": "L’ara è ricordata nel Portico dal Nibby nel 1832 a sostegno del frammento di una statua di Leda (inv. IV). La scultura quadrangolare conserva una modanatura nell’estremità inferiore; sui fianchi sono raffigurati gli utensili dei sacrifici rituali, una patera e una piccola brocca. Gli angoli della faccia anteriore sono decorati da due bucrani che sostengono dalle corna dei nastri avviluppati in un ricco festone. L’iscrizione è dedicata al liberto Spendon.La scultura è inquadrabile cronologicamente agli inizi del I d.C.",
+    "metadata": 
+    [
+        {
+            "label": "Title",
+            "value": "Ara sepolcrale di Spendonte"
+        },
+        {
+            "label": "Artist / Maker",
+            "value": "-"
+        },
+        {
+            "label": "Date",
+            "value": "prima metà I secolo d.C."
+        },
+        {
+            "label": "Culture",
+            "value": "-"
+        },
+        {
+            "label": "Medium / Technique",
+            "value": "marmo bianco"
+        },
+        {
+            "label": "Dimensions",
+            "value": "67 x 73 x 46 cm, altezza lettere cm 2,5-5,5"
+        },
+        {
+            "label": "Number of Inventory",
+            "value": "IVa"
+        },
+        {
+            "label": "Location",
+            "value": "<a href='https://galleriaborghese.beniculturali.it/il-museo/la-villa/sala-1-sala-della-paolina/' target='_blank'>Sala I - Sala della Paolina<\/a> | <a href='https://raw.githubusercontent.com/ElenaBarchielli/testmanifest/main/manifest_panoramica/manifest_sala1.json' target='_blank'>manifest<\/a>"
+        },
+        {
+            "label": "Place Created",
+            "value": "-"
+        },
+        {
+            "label": "Signature(s)",
+            "value": "-"
+        },
+        {
+            "label": "Mark(s)",
+            "value": "-"
+        },
+        {
+            "label": "Classification",
+            "value": "<a href='https://www.collezionegalleriaborghese.it/collezione/arte-antica' target='_blank'>Arte antica<\/a>"
+        },
+        {
+            "label": "Object Type",
+            "value": "-"
+        },
+        {
+            "label": "Collection",
+            "value": "<a href=’https://galleriaborghese.beniculturali.it/' target='_blank'>Galleria Borghese<\/a>"
+        },
+        {
+            "label": "Rights Statement",
+            "value": "-"
+        },
+        {
+            "label": "Full Artwork Details",
+            "value": "L’ara, quadrangolare, presenta un basamento modanato composto inferiormente da un listello, una gola rovescia e un secondo listello. Gli spigoli anteriori sono decorati da due bucrani dalle cui corna pendono delle tenie, che sorreggono, sulla faccia anteriore, una ricca ghirlanda di fiori, frutti e pigne. I nastri, svolazzanti, terminano in un motivo a foglietta bilobata. Nella faccia anteriore, l’iscrizione, delimitata solo inferiormente dalla ghirlanda, si svolge in cinque righe ed è dedicata a Spendon, liberto di Augusto: DIS MANIBUS SPENDONTIS AUGUSTI ET AUGUSTAE LIBERTI Sui fianchi destro e sinistro si conservano i simboli rituali, la patera, una tazza per le libagioni, e un urceus, una piccola brocca. Il Nibby ricorda l’ara nel Portico a sostegno di un frammento di statua di Leda e ritiene l’iscrizione, eccetto la parola DIS, di esecuzione moderna, definendola “una di quelle imposture del declinare del XV secolo” (1832, pp. 13-14). Venturi conferma l’ubicazione e la ritiene antica (1893, p. 9). Nel corso del XX secolo fu posta nella cappella, mentre alla fine degli anni Novanta si trovava nel salone, come base per un frammento scultoreo moderno, una testa di Cristo (inv. XXX), dove la ricorda Paolo Moreno nel 2003 (pp. 132-133, n. 98). Dal 2021 è esposta in sala I. Gli studi inquadrano la scultura agli inizi del primo secolo d.C. Giulia Ciccarello"
+        },
+        {
+            "label":"Iscrizioni",
+            "value": "DIS MANIBUS SPENDONTIS AUGUSTI ET AUGUSTAE LIBERTI"
+        },
+        {
+            "label": "Frame",
+            "value": "-"
+        },
+        {
+            "label": "Exhibitions",
+            "value": "-"
+        },
+        {
+            "label": "Restauration",
+            "value": "1997 M. G. Mascetti"
+        },
+        {
+            "label": "Bibliography",
+            "value": "-"
+        },
+        {
+            "label": "Provenance",
+            "value": "Collezione Borghese, citata per la prima volta dal Nibby nel Portico (1832, pp. 13-14). Inventario Fidecommissario Borghese, 1833, C., p. 42, n. 13. Acquisto dello Stato, 1902."
+        }
+    ],
+    "thumbnail": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif/full/full/0/default.jpg",
+    "viewDirection": "right-to-left",
+    "attribution": "Digital image courtesy of the <a href='https://galleriaborghese.beniculturali.it/info/foto-e-video/' target='_blank'>Galleria Borghese<\/a>.",
+    "logo": "https://galleriaborghese.beniculturali.it/wp-content/uploads/logo.svg",
+    "within": "-",
+    "sequences": [
+        {
+            "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share#sequencePaolina",
+            "@type": "sc:Sequence",
+            "label": "Object",
+            "viewingDirection": "left-to-right",
+            "viewingHint": "paged",
+            "startCanvas": "-",
+            "canvases": [
+                {
+                    "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif",
+                    "@type": "sc:Canvas",
+                    "label": "Main Image",
+                    "width": 5299,
+                    "height": 4189,
+                    "images": [
+                        {
+                            "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/tif",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif",
+                                    "profile": "http://iiif.io/api/image/2/profiles/level0.json"
+                                }
+                            },
+						"on": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif/full/full/0/default.jpg"
+						}
+                    ],
+                    "thumbnail": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif/full/full/0/default.jpg"
+                },
+                {
+                    "@id":"https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/sala_panoramica.png/info.json",
+                    "@type":"sc:Canvas",
+                    "label":"Sala 360",
+                    "width":18000,
+                    "height":9000,
+                    "images":[
+                       {
+                          "@id":"https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/sala_panoramica.png/info.json",
+                          "@type":"oa:Annotation",
+                          "motivation":"sc:foto360",
+                          "on":"https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/sala_panoramica.png/info.json",
+                          "resource":{
+                             "@id":"https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/sala_panoramica.png/",
+                             "@type":"dctypes:Image",
+                             "format":"image/png",
+                             "service":{
+                                "@context":"http://iiif.io/api/image/2/context.json",
+                                "@id":"https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/sala_panoramica.png/",
+                                "profile":"http://iiif.io/api/image/2/profiles/level1.json"
+                             },
+                             "width":18000,
+                             "height":9000
+                          }
+                       }
+                    ],
+                    "thumbnail":"https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/sala_panoramica.png/full/full/0/default.jpg"
+                 }
+            ]
+        }
+    ],
+    "license": "https://galleriaborghese.beniculturali.it/info/foto-e-video/",
+    "related": "https://www.collezionegalleriaborghese.it/opere/ara-sepolcrale-di-spendonte"
+}

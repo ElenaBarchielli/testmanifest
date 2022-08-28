@@ -1,0 +1,167 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://raw.githubusercontent.com/ElenaBarchielli/testmanifest/main/manifest_opere/arte_antica.json",
+    "@type": "sc:Manifest",
+    "label": "Testa femminile, restaurata quale Iside, su busto non pertinente, circa metà II secolo d.C.",
+    "description": "Il busto ritrae una figura femminile provvista di un panneggio che lascia scoperto il seno destro. Dalla critica la scultura è interpretata come la raffigurazione di Tellus o della dea Iside. Nella direzione di quest'ultima ipotesi sembrano essere stati realizzati gli interventi di restauro eseguiti nel XIX secolo. Menzionata per la prima volta nella camera VII (Egizia) nel 1854, si ritrova nel 1893 collocata nella seconda stanza, e quindi nel 1998 posta definitivamente nella sala prima. Le caratteristiche dell’acconciatura e della morbida resa delle superfici sembrano suggerire un’ispirazione a modelli del V secolo a.C. dei quali la scultura Borghese è da considerare una replica eseguita nel II secolo d.C.",
+    "metadata": 
+    [
+        {
+            "label": "Title",
+            "value": "Testa femminile, restaurata quale Iside, su busto non pertinente"
+        },
+        {
+            "label": "Artist / Maker",
+            "value": "-"
+        },
+        {
+            "label": "Date",
+            "value": "circa metà II secolo d.C."
+        },
+        {
+            "label": "Culture",
+            "value": "-"
+        },
+        {
+            "label": "Medium / Technique",
+            "value": "marmo bianco (testa); grigio con venature scure (busto)"
+        },
+        {
+            "label": "Dimensions",
+            "value": "altezza con busto cm 50; altezza testa con collo cm 29; larghezza cm 48"
+        },
+        {
+            "label": "Number of Inventory",
+            "value": "IXC"
+        },
+        {
+            "label": "Location",
+            "value": "<a href='https://galleriaborghese.beniculturali.it/il-museo/la-villa/sala-1-sala-della-paolina/' target='_blank'>Sala I - Sala della Paolina<\/a> | <a href='https://raw.githubusercontent.com/ElenaBarchielli/testmanifest/main/manifest_panoramica/manifest_sala1.json' target='_blank'>manifest<\/a>"
+        },
+        {
+            "label": "Place Created",
+            "value": "-"
+        },
+        {
+            "label": "Signature(s)",
+            "value": "-"
+        },
+        {
+            "label": "Mark(s)",
+            "value": "-"
+        },
+        {
+            "label": "Classification",
+            "value": "<a href='https://www.collezionegalleriaborghese.it/collezione/arte-antica' target='_blank'>Arte antica<\/a>"
+        },
+        {
+            "label": "Object Type",
+            "value": "-"
+        },
+        {
+            "label": "Collection",
+            "value": "<a href=’https://galleriaborghese.beniculturali.it/' target='_blank'>Galleria Borghese<\/a>"
+        },
+        {
+            "label": "Rights Statement",
+            "value": "-"
+        },
+        {
+            "label": "Full Artwork Details",
+            "value": "Nell’Indicazione del 1854 la scultura è registrata nella camera VII, detta Egizia, citata alla p. 26, con il numero 12; il Venturi, nel 1893, la menziona nella II stanza come “Busto di donna, sopra cippo di Claudio Felici. Vi sono aggiunti gli attributi di Iside” (p. 27). In occasione degli interventi di restauro del 1998 è collocata, definitivamente, nella sala I. Il busto poggia su una base circolare decorata sulla fronte da un rilievo raffigurante due tori affrontati a un canestro ricolmo di frutti e poggiante su girali vegetali. La figura femminile, tagliata sotto il petto, indossa un panneggio che lascia scoperto il seno destro, fermato sulla spalla destra da una fibula circolare. Le spalle sono abbassate e il capo è leggermente rivolto verso destra. Nel volto, dai tratti duri e asciutti, gli occhi sono di forma allungata con palpebre spesse, sormontati da arcate sopraccigliari profondamente arcuate che si ricongiungono nella linea del naso. La bocca, semiaperta, ha labbra piccole e carnose. I capelli, scriminati centralmente, sono cinti da un diadema dal quale fuoriescono in lunghe ciocche ondulate che incorniciano sul davanti la fronte e sul retro seguono la linea del collo. Il Lippold, nel 1926, ritiene il busto di fattura antica interpretandolo come la personificazione di Tellus in virtù della raffigurazione dei frutti e degli animali nel rilievo della base (1926, p. 8, n. 2731). Nel 1957 la Calza, che ne suppone la medesima interpretazione, considera la base una rielaborazione rinascimentale del XV-XVI secolo (p. 10, n. 63). L’identificazione con Iside appare avvalorata dal confronto con un busto della dea, conservato nel museo di Göttingen, risalente al periodo tardo-adrianeo. Il Kruse nel confronto tra le due opere osserva per la replica Borghese un maggiore dinamismo nella resa della capigliatura, una maggiore ricchezza di dettagli ma di qualità inferiore. L’autore suppone, altresì, che il ciuffo di capelli sopra la fronte, aggiunto in un intervento di restauro, possa aver preso il posto del kalathos, un canestro stretto alla base, presente nella replica tedesca. Le sculture sarebbero entrambe da considerare delle repliche neo-classiche inquadrabili nel II secolo d.C. e derivanti da modelli di V secolo a.C. (1967, pp. 568-579, figg. 3-4). Tale inquadramento cronologico è condiviso dal Moreno che individua inoltre un legame dei due tori affrontati nel rilievo con l’insegna gentilizia della famiglia Borgia (2003 p. 141, n. 105). Giulia Ciccarello"
+        },
+        {
+            "label": "Frame",
+            "value": "-"
+        },
+        {
+            "label": "Exhibitions",
+            "value": "-"
+        },
+        {
+            "label": "Restauration",
+            "value": "XIX secolo - Interventi di restauro nel ciuffo di capelli, sulla fronte, nei riccioli che cadono sul davanti, in parte delle labbra, nel mento e sulla punta del naso e nei capelli sopra l’occhio destro, nel collo e in una parte della coda di capelli sulla nuca. 1996-97 - Liana Persichelli"
+        },
+        {
+            "label": "Bibliography",
+            "value": "-"
+        },
+        {
+            "label": "Provenance",
+            "value": "Collezione Borghese, ricordato Nell’Indicazione del 1854 nella camera VII, detta Egizia, (p. 26, con il numero 12); Inventario Fidecommissario Borghese, 1833, C., p. 42, n. 22. Acquisto dello Stato, 1902."
+        }
+    ],
+    "thumbnail": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif/full/full/0/default.jpg",
+    "viewDirection": "right-to-left",
+    "attribution": "Digital image courtesy of the <a href='https://galleriaborghese.beniculturali.it/info/foto-e-video/' target='_blank'>Galleria Borghese<\/a>.",
+    "logo": "https://galleriaborghese.beniculturali.it/wp-content/uploads/logo.svg",
+    "within": "-",
+    "sequences": [
+        {
+            "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share#sequenceTestaFemminile",
+            "@type": "sc:Sequence",
+            "label": "Object",
+            "viewingDirection": "left-to-right",
+            "viewingHint": "paged",
+            "startCanvas": "-",
+            "canvases": [
+                {
+                    "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif",
+                    "@type": "sc:Canvas",
+                    "label": "Main Image",
+                    "width": 5299,
+                    "height": 4189,
+                    "images": [
+                        {
+                            "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/tif",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif",
+                                    "profile": "http://iiif.io/api/image/2/profiles/level0.json"
+                                }
+                            },
+						"on": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif/full/full/0/default.jpg"
+						}
+                    ],
+                    "thumbnail": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif/full/full/0/default.jpg"
+                },
+                {
+                    "@id":"https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/sala_panoramica.png/info.json",
+                    "@type":"sc:Canvas",
+                    "label":"Sala 360",
+                    "width":18000,
+                    "height":9000,
+                    "images":[
+                       {
+                          "@id":"https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/sala_panoramica.png/info.json",
+                          "@type":"oa:Annotation",
+                          "motivation":"sc:foto360",
+                          "on":"https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/sala_panoramica.png/info.json",
+                          "resource":{
+                             "@id":"https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/sala_panoramica.png/",
+                             "@type":"dctypes:Image",
+                             "format":"image/png",
+                             "service":{
+                                "@context":"http://iiif.io/api/image/2/context.json",
+                                "@id":"https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/sala_panoramica.png/",
+                                "profile":"http://iiif.io/api/image/2/profiles/level1.json"
+                             },
+                             "width":18000,
+                             "height":9000
+                          }
+                       }
+                    ],
+                    "thumbnail":"https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/sala_panoramica.png/full/full/0/default.jpg"
+                 }
+            ]
+        }
+    ],
+    "license": "https://galleriaborghese.beniculturali.it/info/foto-e-video/",
+    "related": "https://www.collezionegalleriaborghese.it/opere/testa-femminile-restaurata-quale-iside-su-busto-non-pertinente"
+}

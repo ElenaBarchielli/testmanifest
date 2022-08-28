@@ -1,0 +1,167 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://raw.githubusercontent.com/ElenaBarchielli/testmanifest/main/manifest_opere/arte_antica.json",
+    "@type": "sc:Manifest",
+    "label": "Ara circolare con bucrani e ghirlande, I sec. d.C.",
+    "description": "La scultura è scelta nel 1619 come basamento per il gruppo scultoreo di Enea e Anchise presso la Palazzina Pinciana e quindi lavorata dallo scalpellino Giuseppe di Giacomo, che ne dimezza, secondo gli studi di Italo Faldi, di un quinto il volume per permettere una migliore aderenza alla parete. L’ara circolare è decorata da tre bucrani e due festoni di foglie di quercia e ghiande intrecciati a bende pendenti. La delicata plasticità e l’accuratezza nella resa degli elementi vegetali portano a collocare la scultura all’età augustea.",
+    "metadata": 
+    [
+        {
+            "label": "Title",
+            "value": "Ara circolare con bucrani e ghirlande"
+        },
+        {
+            "label": "Artist / Maker",
+            "value": "-"
+        },
+        {
+            "label": "Date",
+            "value": "I sec. d.C."
+        },
+        {
+            "label": "Culture",
+            "value": "-"
+        },
+        {
+            "label": "Medium / Technique",
+            "value": "marmo bianco"
+        },
+        {
+            "label": "Dimensions",
+            "value": "cm 90 "
+        },
+        {
+            "label": "Number of Inventory",
+            "value": "LXVI"
+        },
+        {
+            "label": "Location",
+            "value": "<a href='https://galleriaborghese.beniculturali.it/il-museo/la-villa/sala-1-sala-della-paolina/' target='_blank'>Sala I - Sala della Paolina<\/a> | <a href='https://raw.githubusercontent.com/ElenaBarchielli/testmanifest/main/manifest_panoramica/manifest_sala1.json' target='_blank'>manifest<\/a>"
+        },
+        {
+            "label": "Place Created",
+            "value": "-"
+        },
+        {
+            "label": "Signature(s)",
+            "value": "-"
+        },
+        {
+            "label": "Mark(s)",
+            "value": "-"
+        },
+        {
+            "label": "Classification",
+            "value": "<a href='https://www.collezionegalleriaborghese.it/collezione/arte-antica' target='_blank'>Arte antica<\/a>"
+        },
+        {
+            "label": "Object Type",
+            "value": "-"
+        },
+        {
+            "label": "Collection",
+            "value": "<a href=’https://galleriaborghese.beniculturali.it/' target='_blank'>Galleria Borghese<\/a>"
+        },
+        {
+            "label": "Rights Statement",
+            "value": "-"
+        },
+        {
+            "label": "Full Artwork Details",
+            "value": "L’ara circolare, poggiante su un plinto e su una cornice di foglie lanceolate, presenta sul fusto una decorazione a festoni di foglie di quercia e ghiande sostenuti da bucrani. Gli elementi vegetali, plasticamente rilevati, sono intrecciati a nastri pendenti, vittae, che partono da fiocchi posti sopra la testa dell’animale, tra le cui corna si trova una catenina di grossi grani che decorano la fronte bovina e scendono paralleli. Un documento del 1619 rinvenuto da Italo Faldi riporta che l’ara fu scelta come basamento del gruppo scultoreo berniniano dell’Enea e Anchise per la sua collocazione presso la Palazzina Pinciana (ASV, Archivio Borghese 4174, anno 1619: Faldi 1953, p. 146, doc. V). In occasione della sistemazione della statua l’ara fu rilavorata dallo scalpellino Giuseppe di Giacomo al quale sembrerebbe da attribuire il taglio verticale che privò la scultura di un quinto del suo volume e ne permise una maggiore aderenza alla parete. La studiosa Herrmann-Fiore sostiene invece che l’intervento sia da collocare nell’Ottocento poiché in un disegno tardo-settecentesco di C. Percier l’ara sembrerebbe ancora perfettamente cilindrica (Percier, Parigi, Bibliothéque de l’Institut, ms. 1008, f.32, n.60). Manilli, nel 1650, ricorda la scultura nell’attuale stanza III (stanza di Apollo e Dafne) in corrispondenza della parete sud-est: “il piedistallo tondo, su’l quale posa il gruppo, è antico, di marmo bianco, con due festoni e tre teste di toro”. Montelatici nel 1700 e gli inventari settecenteschi (ASV, Archivio Borghese 421, p.76, 1725; ASV, Archivio Borghese 1007, p. 67, 1762) confermano tale sistemazione dell’opera fino all’allestimento tardo settecentesco realizzato da Antonio Asprucci, quando il gruppo di Enea e Anchise viene spostato, privo del basamento, entro la nicchia sulla parete adiacente la cappella, mentre l’ara, rimasta nella sua collocazione originaria, viene utilizzata come base della scultura dei Tre putti dormienti (inv. CLXXXIV), come testimoniato dal disegno di C. Percier, databile al 1786-91. Antonio Nibby, infine, riporta nel 1832 lo spostamento dell’ara nella sala I, come basamento della Statua-ritratto di donna (inv. LXVI), durante la risistemazione ottocentesca. Dal punto di vista stilistico, la resa delicata e particolareggiata degli elementi vegetali porta a istituire un confronto dell’opera con le decorazioni dell’ornamento interno del recinto dell’Ara Pacis e a indicare quindi una datazione all’età augustea. Giulia Ciccarello"
+        },
+        {
+            "label": "Frame",
+            "value": "-"
+        },
+        {
+            "label": "Exhibitions",
+            "value": "-"
+        },
+        {
+            "label": "Restauration",
+            "value": "1619, Giuseppe di Giacomo. 1996-1997, Consorzio Capitolino"
+        },
+        {
+            "label": "Bibliography",
+            "value": "-"
+        },
+        {
+            "label": "Provenance",
+            "value": "Collezione Borghese, documentata nel 1619 (Faldi 1953, p. 146, doc. V); Inventario Fidecommissario Borghese, 1833, C., p. 44, n. 41. Acquisto dello Stato, 1902."
+        }
+    ],
+    "thumbnail": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif/full/full/0/default.jpg",
+    "viewDirection": "right-to-left",
+    "attribution": "Digital image courtesy of the <a href='https://galleriaborghese.beniculturali.it/info/foto-e-video/' target='_blank'>Galleria Borghese<\/a>.",
+    "logo": "https://galleriaborghese.beniculturali.it/wp-content/uploads/logo.svg",
+    "within": "-",
+    "sequences": [
+        {
+            "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share#sequencePaolina",
+            "@type": "sc:Sequence",
+            "label": "Object",
+            "viewingDirection": "left-to-right",
+            "viewingHint": "paged",
+            "startCanvas": "-",
+            "canvases": [
+                {
+                    "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif",
+                    "@type": "sc:Canvas",
+                    "label": "Main Image",
+                    "width": 5299,
+                    "height": 4189,
+                    "images": [
+                        {
+                            "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/tif",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif",
+                                    "profile": "http://iiif.io/api/image/2/profiles/level0.json"
+                                }
+                            },
+						"on": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif/full/full/0/default.jpg"
+						}
+                    ],
+                    "thumbnail": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif/full/full/0/default.jpg"
+                },
+                {
+                    "@id":"https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/sala_panoramica.png/info.json",
+                    "@type":"sc:Canvas",
+                    "label":"Sala 360",
+                    "width":18000,
+                    "height":9000,
+                    "images":[
+                       {
+                          "@id":"https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/sala_panoramica.png/info.json",
+                          "@type":"oa:Annotation",
+                          "motivation":"sc:foto360",
+                          "on":"https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/sala_panoramica.png/info.json",
+                          "resource":{
+                             "@id":"https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/sala_panoramica.png/",
+                             "@type":"dctypes:Image",
+                             "format":"image/png",
+                             "service":{
+                                "@context":"http://iiif.io/api/image/2/context.json",
+                                "@id":"https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/sala_panoramica.png/",
+                                "profile":"http://iiif.io/api/image/2/profiles/level1.json"
+                             },
+                             "width":18000,
+                             "height":9000
+                          }
+                       }
+                    ],
+                    "thumbnail":"https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/sala_panoramica.png/full/full/0/default.jpg"
+                 }
+            ]
+        }
+    ],
+    "license": "https://galleriaborghese.beniculturali.it/info/foto-e-video/",
+    "related": "https://www.collezionegalleriaborghese.it/opere/ara-circolare-con-bucrani-e-ghirlande"
+}
