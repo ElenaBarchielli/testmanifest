@@ -1,0 +1,167 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://raw.githubusercontent.com/ElenaBarchielli/testmanifest/main/manifest_opere/arte_antica/manifest_LXXII.json",
+    "@type": "sc:Manifest",
+    "label": "Statua femminile seduta e statua di Eros seduto, II secolo d.C.",
+    "description": "La scultura ritrae una donna seduta, nuda, con un piede poggiato su una pietra. Davanti a lei è un Eros alato, anch’esso seduto, intento a guardarla. Le due figure dovevano appartenere a monumenti differenti, ricomposte insieme per far da pendant al gruppo della Leda con cigno posto sulla parete di fronte. Ai piedi della donna sono presenti anche una ranocchia e un delfino, quest’ultimo forse appartenente in origine ad un terzo monumento. La figura femminile si ritrova menzionata nel 1650 nel II Recinto del Giardino del Lago mentre il piccolo Erote, nel 1700, è ricordato nella camera delle Tre Grazie al secondo piano. Le sculture sono da inquadrare, indicativamente, nel II secolo d.C.",
+    "metadata": 
+    [
+        {
+            "label": "Title",
+            "value": "Statua femminile seduta e statua di Eros seduto"
+        },
+        {
+            "label": "Artist / Maker",
+            "value": "-"
+        },
+        {
+            "label": "Date",
+            "value": "II secolo d.C."
+        },
+        {
+            "label": "Culture",
+            "value": "-"
+        },
+        {
+            "label": "Medium / Technique",
+            "value": "marmo di Paro (gruppo); marmo di Luni (testa)"
+        },
+        {
+            "label": "Dimensions",
+            "value": "altezza cm 120; larghezza cm 158; testa cm 30"
+        },
+        {
+            "label": "Number of Inventory",
+            "value": "LXXII"
+        },
+        {
+            "label": "Location",
+            "value": "<a href='https://galleriaborghese.beniculturali.it/il-museo/la-villa/sala-1-sala-della-paolina/' target='_blank'>Sala I - Sala della Paolina<\/a> | <a href='https://raw.githubusercontent.com/ElenaBarchielli/testmanifest/main/manifest_panoramica/manifest_sala1.json' target='_blank'>manifest<\/a>"
+        },
+        {
+            "label": "Place Created",
+            "value": "-"
+        },
+        {
+            "label": "Signature(s)",
+            "value": "-"
+        },
+        {
+            "label": "Mark(s)",
+            "value": "-"
+        },
+        {
+            "label": "Classification",
+            "value": "<a href='https://www.collezionegalleriaborghese.it/collezione/arte-antica' target='_blank'>Arte antica<\/a>"
+        },
+        {
+            "label": "Object Type",
+            "value": "-"
+        },
+        {
+            "label": "Collection",
+            "value": "<a href=’https://galleriaborghese.beniculturali.it/' target='_blank'>Galleria Borghese<\/a>"
+        },
+        {
+            "label": "Rights Statement",
+            "value": "-"
+        },
+        {
+            "label": "Full Artwork Details",
+            "value": "La scultura è composta da elementi di differente provenienza, assemblati probabilmente con l’intenzione di creare un pendant al gruppo della Leda con cigno presente nella parete opposta della sala (Inv. LXII). Il Manilli nel 1650 ricorda “nell’ordine di sopra della facciata”, nel II Recinto del Giardino del Lago, un gruppo in cima a una colonna, costituito da una “Venere à sedere, con la mano sopra una gamba, che tiene alzata”, nella quale è probabilmente da identificare l’opera in esame (p. 153). Anche il Montelatici nel 1700 parla di una “venere con una gamba alzata sopr’un ginocchio”, posta nella medesima collocazione; inoltre, fa menzione, nella camera delle Tre Grazie al secondo piano, di una “piccola statua d’un Amorino sedente” (p. 301). Il Nibby nel 1832 indica il gruppo già composto nella sua odierna sistemazione, la sala I, definendolo: una “statua di Venere in marmo pario, assisa, nella mossa di asciugarsi”, ritenendola un “lavoro non ispregevole”. Nota, inoltre che “l’amorino che con occhio furbo la guarda ha molta espressione” (p. 65). Nello studio del 1841 cita, in più, la presenza di una ranocchia (p. 915). Il Venturi e il Giusti utilizzano per la descrizione della scultura la stessa espressione: “gruppo rappresentante Venere in atto di acconciarsi e Amore assistente” (1893 p. 21; 1904 p. 21). Il Moreno ritiene l’opera una rielaborazione moderna, composta da elementi inquadrabili nella prima metà del II secolo d.C., elaborati su modelli ellenistici di periodi diversi (2003, p. 159, n. 128). Il gruppo è composto da una figura femminile assisa su una roccia, nuda ad eccezione di un panneggio adagiato sulla gamba destra. Le gambe sono flesse, quella destra avanzata e quella sinistra nascosta dietro la roccia. Il capo è rivolto frontalmente, diretto, nella composizione moderna, ad una figura di Erote alato, seduto davanti a lei. La giovane figura, nuda, poggia entrambe le mani sul ginocchio sinistro portato al petto e indirizza il capo, di restauro, verso la donna. Nel basamento è presente una piccola ranocchia al di sotto del piede della donna e un delfino nascosto tra le gambe. L’elegante posizione della donna sembra richiamare la ninfa dell’invito alla danza in un gruppo con satiro intento a suonare uno strumento, rinvenuti nel 1830 nell’area della Villa di Sette Bassi, oggi conservati nella collezione Torlonia (MT 21; MT 162: Settis, Gasparri 2020, pp. 192-195). Le sculture Borghese appaiono fortemente rilavorate e la disposizione moderna non permette l’individuazione dell’originario contesto. In base esclusivamente ad osservazioni stilistiche appare verisimile confermare la datazione proposta dal Moreno al II secolo d.C. Giulia Ciccarello"
+        },
+        {
+            "label": "Frame",
+            "value": "-"
+        },
+        {
+            "label": "Exhibitions",
+            "value": "-"
+        },
+        {
+            "label": "Restauration",
+            "value": "1906 - Romeo Lazzari: 'Attaccata un'anfora (..) Approfondito il buco e attaccato con un perno di (..)', 1913 - Cesare Fossi: 'Vasetto della Venere al bagno 'riattaccatura', 1922 - Cesare Fossi : 'Vasetto in una Venere riattaccato nella sala della Venere del Canova', 1996 - Consorzio Capitolino"
+        },
+        {
+            "label": "Bibliography",
+            "value": "-"
+        },
+        {
+            "label": "Provenance",
+            "value": "Collezione Borghese, la figura femminile è citata per la prima volta nel II Recinto del Giardino del Lago, nel 1650 (Manilli, p. 153); l’Eros alato è menzionato nel 1700 nella camera delle Tre Grazie al secondo piano (Montelatici, p. 301). All’interno delle sale il gruppo si ritrova ricomposto nel 1832 nella sala I (Nibby, p. 65); Inventario Fidecommissario Borghese, 1833, C., p. 43, n. 36. Acquisto dello Stato, 1902."
+        }
+    ],
+    "thumbnail": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif/full/full/0/default.jpg",
+    "viewDirection": "right-to-left",
+    "attribution": "Digital image courtesy of the <a href='https://galleriaborghese.beniculturali.it/info/foto-e-video/' target='_blank'>Galleria Borghese<\/a>.",
+    "logo": "https://galleriaborghese.beniculturali.it/wp-content/uploads/logo.svg",
+    "within": "-",
+    "sequences": [
+        {
+            "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share#sequencePaolina",
+            "@type": "sc:Sequence",
+            "label": "Object",
+            "viewingDirection": "left-to-right",
+            "viewingHint": "paged",
+            "startCanvas": "-",
+            "canvases": [
+                {
+                    "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif",
+                    "@type": "sc:Canvas",
+                    "label": "Main Image",
+                    "width": 5299,
+                    "height": 4189,
+                    "images": [
+                        {
+                            "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/tif",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif",
+                                    "profile": "http://iiif.io/api/image/2/profiles/level0.json"
+                                }
+                            },
+						"on": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif/full/full/0/default.jpg"
+						}
+                    ],
+                    "thumbnail": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif/full/full/0/default.jpg"
+                },
+                {
+                    "@id":"https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/sala_panoramica.png/info.json",
+                    "@type":"sc:Canvas",
+                    "label":"Sala 360",
+                    "width":18000,
+                    "height":9000,
+                    "images":[
+                       {
+                          "@id":"https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/sala_panoramica.png/info.json",
+                          "@type":"oa:Annotation",
+                          "motivation":"sc:foto360",
+                          "on":"https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/sala_panoramica.png/info.json",
+                          "resource":{
+                             "@id":"https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/sala_panoramica.png/",
+                             "@type":"dctypes:Image",
+                             "format":"image/png",
+                             "service":{
+                                "@context":"http://iiif.io/api/image/2/context.json",
+                                "@id":"https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/sala_panoramica.png/",
+                                "profile":"http://iiif.io/api/image/2/profiles/level1.json"
+                             },
+                             "width":18000,
+                             "height":9000
+                          }
+                       }
+                    ],
+                    "thumbnail":"https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/sala_panoramica.png/full/full/0/default.jpg"
+                 }
+            ]
+        }
+    ],
+    "license": "https://galleriaborghese.beniculturali.it/info/foto-e-video/",
+    "related": "https://www.collezionegalleriaborghese.it/opere/statua-femminile-seduta-e-statua-di-eros-seduto"
+}

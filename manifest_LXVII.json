@@ -1,0 +1,167 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://raw.githubusercontent.com/ElenaBarchielli/testmanifest/main/manifest_opere/arte_antica/manifest_LXVII.json",
+    "@type": "sc:Manifest",
+    "label": "Ritratto di uomo, su busto moderno, II secolo d.C.",
+    "description": "La scultura ritrae il volto di un uomo in età matura posto su di un busto moderno. La fronte è incorniciata a triangolo da lunghi capelli che discendono in due onde simmetriche dalla scriminatura centrale e sono raccolti sulla sommità del capo in uno chignon. La barba, che ricopre la parte inferiore delle guance, è resa da brevi riccioli, dal forte chiaroscuro. L’interpretazione della figura è stata a lungo dibattuta soprattutto per la capigliatura insolita all’iconografia romana, che è stata ritenuta attinente piuttosto al mondo celtico o indiano e che si trova riprodotta in una serie di opere analoghe. La scultura sembra potersi identificare in una testa di “Annibale” ricordata nell’acquisto da parte della famiglia Borghese della collezione Della Porta nel 1609 e successivamente, nel 1650, in una menzionata nel Primo Recinto della Villa Borghese, nei Viali di Mezzogiorno. La linearità della capigliatura al sommo della fronte e i marcati riccioli della barba lavorati a trapano sembrano suggerire un inquadramento cronologico al II secolo d.C.",
+    "metadata": 
+    [
+        {
+            "label": "Title",
+            "value": "Ritratto di uomo, su busto moderno"
+        },
+        {
+            "label": "Artist / Maker",
+            "value": "-"
+        },
+        {
+            "label": "Date",
+            "value": "II secolo d.C."
+        },
+        {
+            "label": "Culture",
+            "value": "-"
+        },
+        {
+            "label": "Medium / Technique",
+            "value": "marmo bigio morato"
+        },
+        {
+            "label": "Dimensions",
+            "value": "altezza con busto cm 73; altezza della testa cm 73"
+        },
+        {
+            "label": "Number of Inventory",
+            "value": "LXVII"
+        },
+        {
+            "label": "Location",
+            "value": "<a href='https://galleriaborghese.beniculturali.it/il-museo/la-villa/sala-1-sala-della-paolina/' target='_blank'>Sala I - Sala della Paolina<\/a> | <a href='https://raw.githubusercontent.com/ElenaBarchielli/testmanifest/main/manifest_panoramica/manifest_sala1.json' target='_blank'>manifest<\/a>"
+        },
+        {
+            "label": "Place Created",
+            "value": "-"
+        },
+        {
+            "label": "Signature(s)",
+            "value": "-"
+        },
+        {
+            "label": "Mark(s)",
+            "value": "-"
+        },
+        {
+            "label": "Classification",
+            "value": "<a href='https://www.collezionegalleriaborghese.it/collezione/arte-antica' target='_blank'>Arte antica<\/a>"
+        },
+        {
+            "label": "Object Type",
+            "value": "-"
+        },
+        {
+            "label": "Collection",
+            "value": "<a href=’https://galleriaborghese.beniculturali.it/' target='_blank'>Galleria Borghese<\/a>"
+        },
+        {
+            "label": "Rights Statement",
+            "value": "-"
+        },
+        {
+            "label": "Full Artwork Details",
+            "value": "La scultura potrebbe identificarsi con una “testa antica, assai grande, che alla legatura de’ capegli in mezzo, mostra d’essere opera Greca”, ricordata nei Viali di Mezzogiorno nel Primo Recinto della Villa Borghese nel 1650 e nel 1700 (Manilli 1650, p. 10; Montelatici 1700, p. 19). L’opera è altresì accostabile a una analoga acquistata dalla famiglia Borghese da Giovanni Paolo Della Porta nel 1609. L’elenco che accompagna la vendita riporta infatti: “Una testa di Anibale Cartaginesi di marmo nero con petto moderno biancho alt. p. 4½ (AB 456, tomo 59, mazzo F, n. 303: de Lachenal 1982, p. 90). La testa raffigura un uomo in età matura con lunghi capelli ordinati in ciocche, scriminate sulla fronte e raccolte elegantemente nella parte posteriore in uno chignon. Il capo è leggermente rivolto verso sinistra e inclinato; il volto mostra un’espressione malinconica e pensierosa, sottolineata dalla fronte corrucciata, segnata da un lungo solco orizzontale e dalle arcate sopraccigliari contratte. Gli occhi, di forma allungata, sono sormontati da palpebre pesanti. La barba, composta da corti riccioli, fortemente incisi con il trapano, lascia scoperti gli zigomi e parte delle guance. L’interpretazione della figura appare ampiamente dibattuta. Il Venturi, che per primo la ricorda all’interno della Palazzina nella camera prima, la definisce “testa di un barbaro”, mentre la Calza la ritiene un personaggio di origine celtica, posto su un busto moderno (1893, p. 20; 1957, p. 14, n. 138). Il Bienkowski che nel 1928 dedica uno studio ai ritratti forniti di un “cirrus sulla sommità del capo” considera l’esemplare Borghese il ritratto di un funzionario indiano, riferendo la testimonianza di Cassio Dione circa un’ambasceria indiana a Roma al tempo di Traiano (Cassio Dione, Storia Romana, LXVIII, 15,1). L’autore confuta il pensiero dello Arndt, che individuava nella figura un sacerdote eunuco di Cibele e lo inseriva nel tipo del cosiddetto Aphroditos, tipico degli adepti di una divinità orientale che offrivano sacrifici in abiti femminili. Bienkowski seguita individuando un legame con la figura del Buddha fornito di un simile chignon, ritenuto dai seguaci sede della sua saggezza. (Bienkowski 1928, p. 228; Arndt 1894, cc. 2794-2795). Il Taddei si discosta da un’origine orientale di tale iconografia, riferendola piuttosto a modelli importati in India dalla Grecia classica (1962, pp. 288-310). Il Moreno, in ultimo, la giudica, in un primo momento, una produzione di II secolo d.C. sulla base di un confronto con un ritratto analogo, conservato al Museo Nazionale Romano e ritenuto dalla Bracco una replica di un originale ellenistico di influenza alessandrina. Successivamente, invece, l’autore ne mette in dubbio l’antichità avanzando l’ipotesi che possa trattarsi di un’opera moderna, da inquadrare nel XVI secolo (Moreno 2000, p. 73, n. 13; 2003, pp. 155-156, n. 122). Il ritratto Borghese sembra potersi accostare, come già osservato dal Bienkowski, a una serie di ritratti analoghi che presentano, seppure con alcune varianti, forti affinità nella capigliatura sollevata sulle tempie, nel taglio degli occhi allungato e nell’espressione crucciata. Tra queste un particolare confronto si individua con una testa conservata a Madrid nel Museo del Prado, una presente nella collezione Albani, un’altra conservata a Palazzo Corsini a Roma e un’ultima al Museo Nazionale Romano (Schröder 2004, pp. 451-454; Schneider 1998, pp. 542-543, n. 1000; Matz, Duhn 1881, p. 351, n. 1198; Bracco 1966, pp. 73-74, n. 1000). La linearità della capigliatura e il forte contrasto chiaroscurale dei riccioli della barba inducono a suggerire per l’opera un inquadramento cronologico nel II secolo d.C., nonostante si rilevino forti interventi di restauro. Giulia Ciccarello"
+        },
+        {
+            "label": "Frame",
+            "value": "-"
+        },
+        {
+            "label": "Exhibitions",
+            "value": "-"
+        },
+        {
+            "label": "Restauration",
+            "value": "1996- 97 - Consorzio Capitolino di Elisabetta Zatti ed Elibetta Caracciolo"
+        },
+        {
+            "label": "Bibliography",
+            "value": "-"
+        },
+        {
+            "label": "Provenance",
+            "value": "Collezione Borghese, forse proveniente dalla collezione della Porta (de Lachenal, p.90); nel Parco della Villa da riconoscere, probabilmente, con uno ricordato nel 1650 nel Primo Recinto nei Viali di Mezzogiorno (Manilli, p. 10) e nella Villa nel 1893 nella prima camera (Venturi, p. 20). Inventario Fidecommissario Borghese, 1833, C., p. 46, n. 79. Acquisto dello Stato, 1902."
+        }
+    ],
+    "thumbnail": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif/full/full/0/default.jpg",
+    "viewDirection": "right-to-left",
+    "attribution": "Digital image courtesy of the <a href='https://galleriaborghese.beniculturali.it/info/foto-e-video/' target='_blank'>Galleria Borghese<\/a>.",
+    "logo": "https://galleriaborghese.beniculturali.it/wp-content/uploads/logo.svg",
+    "within": "-",
+    "sequences": [
+        {
+            "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share#sequencePaolina",
+            "@type": "sc:Sequence",
+            "label": "Object",
+            "viewingDirection": "left-to-right",
+            "viewingHint": "paged",
+            "startCanvas": "-",
+            "canvases": [
+                {
+                    "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif",
+                    "@type": "sc:Canvas",
+                    "label": "Main Image",
+                    "width": 5299,
+                    "height": 4189,
+                    "images": [
+                        {
+                            "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/tif",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif",
+                                    "profile": "http://iiif.io/api/image/2/profiles/level0.json"
+                                }
+                            },
+						"on": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif/full/full/0/default.jpg"
+						}
+                    ],
+                    "thumbnail": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif/full/full/0/default.jpg"
+                },
+                {
+                    "@id":"https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/sala_panoramica.png/info.json",
+                    "@type":"sc:Canvas",
+                    "label":"Sala 360",
+                    "width":18000,
+                    "height":9000,
+                    "images":[
+                       {
+                          "@id":"https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/sala_panoramica.png/info.json",
+                          "@type":"oa:Annotation",
+                          "motivation":"sc:foto360",
+                          "on":"https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/sala_panoramica.png/info.json",
+                          "resource":{
+                             "@id":"https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/sala_panoramica.png/",
+                             "@type":"dctypes:Image",
+                             "format":"image/png",
+                             "service":{
+                                "@context":"http://iiif.io/api/image/2/context.json",
+                                "@id":"https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/sala_panoramica.png/",
+                                "profile":"http://iiif.io/api/image/2/profiles/level1.json"
+                             },
+                             "width":18000,
+                             "height":9000
+                          }
+                       }
+                    ],
+                    "thumbnail":"https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/sala_panoramica.png/full/full/0/default.jpg"
+                 }
+            ]
+        }
+    ],
+    "license": "https://galleriaborghese.beniculturali.it/info/foto-e-video/",
+    "related": "https://www.collezionegalleriaborghese.it/opere/ritratto-di-uomo-su-busto-moderno"
+}
