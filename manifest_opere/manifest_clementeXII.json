@@ -39,6 +39,10 @@
             "value": "<a href='https://galleriaborghese.beniculturali.it/il-museo/la-villa/sala-1-sala-della-paolina/' target='_blank'>Sala I - Sala della Paolina<\/a> | <a href='https://raw.githubusercontent.com/ElenaBarchielli/testmanifest/main/manifest_panoramica/manifest_sala1.json' target='_blank'>manifest<\/a>"
         },
         {
+            "label": "Currently exhibited",
+            "value": "No"
+        },
+        {
             "label": "Place Created",
             "value": "-"
         },
