@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://raw.githubusercontent.com/ElenaBarchielli/testmanifest/main/manifest_opere/arte_antica/manifest_LXV.json",
+    "@id": "https://raw.githubusercontent.com/ElenaBarchielli/testmanifest/main/manifest_opere/arte_antica.json",
     "@type": "sc:Manifest",
     "label": "Statua di fanciullo ammantato, metà II sec. d.C.",
     "description": "Ennio Quirino Visconti, nel 1796, ricorda che la statua, assieme ad altre due di aspetto simile (inv. LXIX, inv. CVIC) poste oggi nella medesima sala I, decorava il giardino della Villa Pinciana. All’epoca della ricostituzione della collezione, successiva alla vendita napoleonica, le sculture sono trasferite all’interno delle sale della Galleria Borghese. Nel 1893, la piccola statua è testimoniata da Adolfo Venturi, insieme ad una seconda (inv. LXIX), nell’attuale collocazione. Il giovane fanciullo, ritratto stante e con il capo sollevato, volto leggermente verso destra, è coperto da un ampio mantello che ne lascia scoperti i piedi e una parte della gamba sinistra. Le braccia si individuano al di sotto del panneggio, la destra attraversa il petto verso la spalla sinistra e la sinistra è piegata in avanti, a sostenere la veste. Il capo è coperto da un berretto cupoliforme, aderente alla fronte mediante una fascia di rinforzo. Il volto infantile mostra un’espressione lieta, con la bocca semi aperta in un sorriso, le gote sono paffute e il naso pronunciato. La particolare cura nella resa dei lineamenti e nella definizione della pupilla mediante l’utilizzo del trapano autorizzano ad ipotizzare una datazione alla metà del II secolo d.C.",
@@ -15,80 +15,56 @@
             "value": "-"
         },
         {
+            "label": "Number of Inventory",
+            "value": "LXV"
+        },
+        {
+            "label": "Location",
+            "value": "<a href='https://galleriaborghese.beniculturali.it/il-museo/la-villa/sala-1-sala-della-paolina/' target='_blank'>Sala I - Sala della Paolina<\/a> | <a href='https://raw.githubusercontent.com/ElenaBarchielli/testmanifest/main/manifest_panoramica/manifest_sala1.json' target='_blank'>manifest<\/a> | <a href='link al virtual tour' target='_blank'>Virtual Tour<\/a>"
+        },
+        {
             "label": "Date",
             "value": "metà II sec. d.C."
-        },
-        {
-            "label": "Culture",
-            "value": "-"
-        },
-        {
-            "label": "Medium / Technique",
-            "value": "marmo di Luni"
         },
         {
             "label": "Dimensions",
             "value": "altezza 70 cm"
         },
         {
-            "label": "Number of Inventory",
-            "value": "LXV"
-        },
-        {
-            "label": "Location",
-            "value": "<a href='https://galleriaborghese.beniculturali.it/il-museo/la-villa/sala-1-sala-della-paolina/' target='_blank'>Sala I - Sala della Paolina<\/a> | <a href='https://raw.githubusercontent.com/ElenaBarchielli/testmanifest/main/manifest_panoramica/manifest_sala1.json' target='_blank'>manifest<\/a>"
-        },
-        {
-            "label": "Place Created",
-            "value": "-"
-        },
-        {
-            "label": "Signature(s)",
-            "value": "-"
-        },
-        {
-            "label": "Mark(s)",
-            "value": "-"
-        },
-        {
             "label": "Classification",
             "value": "<a href='https://www.collezionegalleriaborghese.it/collezione/arte-antica' target='_blank'>Arte antica<\/a>"
         },
         {
-            "label": "Object Type",
-            "value": "-"
+            "label": "Medium / Technique",
+            "value": "marmo di Luni"
         },
         {
-            "label": "Collection",
-            "value": "<a href=’https://galleriaborghese.beniculturali.it/' target='_blank'>Galleria Borghese<\/a>"
-        },
-        {
-            "label": "Rights Statement",
-            "value": "-"
-        },
-        {
-            "label": "Full Artwork Details",
-            "value": "Il giovane, di dimensioni ridotte, è raffigurato in posizione frontale e con il capo lievemente indirizzato verso l’alto e volto verso il fianco destro. Indossa un ampio mantello che ne nasconde le braccia,il sinistro è flesso in avanti, mentre il destro è ripiegato sul petto. Nella parte inferiore del panneggio sono visibili i piedi nudi, privi di calzari, e parte della gamba sinistra. Il capo è coperto da un berretto ben calzato di forma cupoliforme, definito da un bordo di rinforzo lungo la fronte che trattiene i capelli. La testa, inserita, è pertinente. La foggia del copricapo è identificabile con quella dei pilei, particolarmente diffusi nel mondo romano con molteplici valenze. Il pilleus viene descritto come un “berretto di feltro rotondo, ben aderente alle tempie, della forma di mezzo uovo” (Georges, Calonghi 1939, s.v. pileus) in uso presso “i pontefici, i flamini, i Salii e che si dava agli schiavi in segno d'affrancamento” (Ernout, Meillet 1959, s.v. pilleus). Tito Livio ricorda, infatti, l’espressione servi ad pileum vocati per indicare la liberazione degli schiavi (Tito Livio, Historiae, XXIV, 32, 9), mentre Dionigi di Alicarnasso specifica che la parola greca πῖλος/pílos corrispondeva all’apex dei flamini, cioè la verghetta che si trovava sulla punta del loro berretto bianco (Dionigi di Alicarnasso, Antiquitates Romanae, 2, 64). Le caratteristiche fisionomiche della scultura Borghese e il suo abbigliamento richiamano la tipologia iconografica di Telesforo, figlio o aiutante di Asclepio, che si ritrova anche in un altro gruppo della stessa Galleria (sala VI, inv. CIC). Waldemar Deonna, che dedica un ampio studio a tale figura, precisa che “ha la statura e l'età di un fanciullo in piedi, dall'apparenza piacevole e gaia. Un mantello con cappuccio, spesso senza pieghe o solo con alcune, lo ricopre interamente, non lascia libere che raramente le braccia e gli giunge fino ai piedi, che sono nudi” (Deonna 1955, pp.44-46). Le attribuzioni di Telesforo, etimologicamente “colui che porta a compimento” (Rühfel 1994, p.870), sono caratterizzate da una doppia valenza, benefica, quando legata alla fine di una malattia, nefasta, quando indica la fine della vita. Il piccolo dio viene spesso associato alla figura del genius cucullatus, entità ctonia di aspetto molto simile, portatore di fertilità e prosperità. La statuetta Borghese è collocata nella sala I assieme ad altre due, poste negli angoli, molto simili di aspetto, con le quali si distingue solo per lievi varianti (inv. CVIC, inv. LXIX). Ennio Quirino Visconti, nel 1796, descrive nell’attuale sala V, una statuetta di Telesforo coperta da un pileo e avvolta in un mantello e aggiunge che “Molte altre statuette simili sono sparse nel bosco della Villa Pinciana” (Visconti, Lamberti 1796, pp.40-41). La statua indicata da Visconti giunse nel Museo del Louvre, mentre quelle ricordate nel giardino corrisponderebbero alle sculture presenti nella sala I. Durante la ricostituzione della raccolta nella palazzina, tra il 1819 e il 1832, dopo la massiccia vendita delle opere della collezione antica da parte di Camillo Borghese al cognato Napoleone Bonaparte, le sculture furono infatti poste, prima, ad ornare le colonne del Portico e, successivamente, collocate su rocchi di marmo cipollino nella sala III (Moreno, Viacava 2003, p. 145, n. 110). Nel 1893, Adolfo Venturi ricorda la statua Borghese in esame situata, insieme ad una seconda (inv. LXIX) nella sua collocazione definitiva nella sala I (Venturi 1893, p. 20). Le tre statuette ammantate, conservate presso la Galleria Borghese, si possono legare ad un modello iconografico molto diffuso e riprodotto nel tempo con una funzione apotropaica. La consuetudine di esporre sculture nei giardini privati, in segno di buon auspicio e benevolenza, è riscontrabile anche in età moderna. Nel particolare caso della statua in esame, l’uso del trapano riscontrabile nella definizione dei lineamenti e della pupilla induce a proporre un inquadramento cronologico alla metà del II d.C. Giulia Ciccarello "
-        },
-        {
-            "label": "Frame",
-            "value": "-"
+            "label": "Provenance",
+            "value": "Collezione Borghese (citato per la prima volta nei giardini con altre simili da Lamberti, Visconti 1796, pp. 40-41); Inventario Fidecommissario Borghese, 1833, C., p.47, n.91. Acquisto dello Stato, 1902."
         },
         {
             "label": "Exhibitions",
             "value": "-"
         },
         {
-            "label": "Restauration",
+            "label": "Conservation and Diagnostic",
             "value": "1827 Antonio d’Este"
+        },
+        {
+            "label": "Status",
+            "value": "on view"
+        },
+        {
+            "label": "Full Artwork Details",
+            "value": "Il giovane, di dimensioni ridotte, è raffigurato in posizione frontale e con il capo lievemente indirizzato verso l’alto e volto verso il fianco destro. Indossa un ampio mantello che ne nasconde le braccia,il sinistro è flesso in avanti, mentre il destro è ripiegato sul petto. Nella parte inferiore del panneggio sono visibili i piedi nudi, privi di calzari, e parte della gamba sinistra. Il capo è coperto da un berretto ben calzato di forma cupoliforme, definito da un bordo di rinforzo lungo la fronte che trattiene i capelli. La testa, inserita, è pertinente. La foggia del copricapo è identificabile con quella dei pilei, particolarmente diffusi nel mondo romano con molteplici valenze. Il pilleus viene descritto come un “berretto di feltro rotondo, ben aderente alle tempie, della forma di mezzo uovo” (Georges, Calonghi 1939, s.v. pileus) in uso presso “i pontefici, i flamini, i Salii e che si dava agli schiavi in segno d'affrancamento” (Ernout, Meillet 1959, s.v. pilleus). Tito Livio ricorda, infatti, l’espressione servi ad pileum vocati per indicare la liberazione degli schiavi (Tito Livio, Historiae, XXIV, 32, 9), mentre Dionigi di Alicarnasso specifica che la parola greca πῖλος/pílos corrispondeva all’apex dei flamini, cioè la verghetta che si trovava sulla punta del loro berretto bianco (Dionigi di Alicarnasso, Antiquitates Romanae, 2, 64). Le caratteristiche fisionomiche della scultura Borghese e il suo abbigliamento richiamano la tipologia iconografica di Telesforo, figlio o aiutante di Asclepio, che si ritrova anche in un altro gruppo della stessa Galleria (sala VI, inv. CIC). Waldemar Deonna, che dedica un ampio studio a tale figura, precisa che “ha la statura e l'età di un fanciullo in piedi, dall'apparenza piacevole e gaia. Un mantello con cappuccio, spesso senza pieghe o solo con alcune, lo ricopre interamente, non lascia libere che raramente le braccia e gli giunge fino ai piedi, che sono nudi” (Deonna 1955, pp.44-46). Le attribuzioni di Telesforo, etimologicamente “colui che porta a compimento” (Rühfel 1994, p.870), sono caratterizzate da una doppia valenza, benefica, quando legata alla fine di una malattia, nefasta, quando indica la fine della vita. Il piccolo dio viene spesso associato alla figura del genius cucullatus, entità ctonia di aspetto molto simile, portatore di fertilità e prosperità. La statuetta Borghese è collocata nella sala I assieme ad altre due, poste negli angoli, molto simili di aspetto, con le quali si distingue solo per lievi varianti (inv. CVIC, inv. LXIX). Ennio Quirino Visconti, nel 1796, descrive nell’attuale sala V, una statuetta di Telesforo coperta da un pileo e avvolta in un mantello e aggiunge che “Molte altre statuette simili sono sparse nel bosco della Villa Pinciana” (Visconti, Lamberti 1796, pp.40-41). La statua indicata da Visconti giunse nel Museo del Louvre, mentre quelle ricordate nel giardino corrisponderebbero alle sculture presenti nella sala I. Durante la ricostituzione della raccolta nella palazzina, tra il 1819 e il 1832, dopo la massiccia vendita delle opere della collezione antica da parte di Camillo Borghese al cognato Napoleone Bonaparte, le sculture furono infatti poste, prima, ad ornare le colonne del Portico e, successivamente, collocate su rocchi di marmo cipollino nella sala III (Moreno, Viacava 2003, p. 145, n. 110). Nel 1893, Adolfo Venturi ricorda la statua Borghese in esame situata, insieme ad una seconda (inv. LXIX) nella sua collocazione definitiva nella sala I (Venturi 1893, p. 20). Le tre statuette ammantate, conservate presso la Galleria Borghese, si possono legare ad un modello iconografico molto diffuso e riprodotto nel tempo con una funzione apotropaica. La consuetudine di esporre sculture nei giardini privati, in segno di buon auspicio e benevolenza, è riscontrabile anche in età moderna. Nel particolare caso della statua in esame, l’uso del trapano riscontrabile nella definizione dei lineamenti e della pupilla induce a proporre un inquadramento cronologico alla metà del II d.C. Giulia Ciccarello "
         },
         {
             "label": "Bibliography",
             "value": "-"
         },
         {
-            "label": "Provenance",
-            "value": "Collezione Borghese (citato per la prima volta nei giardini con altre simili da Lamberti, Visconti 1796, pp. 40-41); Inventario Fidecommissario Borghese, 1833, C., p.47, n.91. Acquisto dello Stato, 1902."
+            "label": "Rights Statement",
+            "value": "-"
         }
     ],
     "thumbnail": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif/full/full/0/default.jpg",
@@ -163,5 +139,6 @@
         }
     ],
     "license": "https://galleriaborghese.beniculturali.it/info/foto-e-video/",
-    "related": "https://www.collezionegalleriaborghese.it/opere/statua-di-fanciullo-ammantato-3"
+    "related": "https://www.collezionegalleriaborghese.it/opere/statua-di-fanciullo-ammantato-3",
+    "collection": "<a href=’https://galleriaborghese.beniculturali.it/' target='_blank'>Galleria Borghese<\/a>"
 }

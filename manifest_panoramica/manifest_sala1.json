@@ -1,221 +1,227 @@
 {
-   "@context": "http://iiif.io/api/presentation/2/context.json",
-   "@id": "https://raw.githubusercontent.com/ElenaBarchielli/testmanifest/main/manifest_panoramica/manifest_sala1.json",
-   "@type": "sc:Manifest",
-   "label": "Sala 1 - Sala della Paolina",
-   "service": {
-       "profile": "http://iiif.io/api/search/0/search",
-       "@id": "http://54.38.189.118:8081/search-api/d7e49f4e57528fab5a41bba8d7059ba3/search",
-       "@context": "http://iiif.io/api/search/0/context.json"
-   },
-   "description":"La Sala I  ospita una delle sculture più celebri della collezione Borghese, la Statua-ritratto di Paolina Borghese Bonaparte nelle vesti di Venere vincitrice di Antonio Canova (1757-1822). L’opera, collocata in questo ambiente solo dal 1889, trova corrispondenza con i dipinti della volta dedicati alle Storie di Venere e di Enea, eseguiti da Domenico de Angelis (1735-1804) nel 1779. Le cinque tele ( al centro Il giudizio di Paride e ai lati Minerva chiede alla Parca Atropos di tagliare il filo della vita di Troia, Venere convince Giove a salvare Enea, Enea fugge da Troia col padre Anchise e il figlioletto Ascanio, Giunone chiede a Eolo di scatenare tempeste contro Enea) sono inserite nella quadratura prospettica dipinta da Giovanni Battista Marchetti (1730-1800). La sala, che  un tempo era detta “del Vaso”, per la presenza dell’antico cratere neoattico oggi al Louvre, ha conservato solo in minima parte l’aspetto settecentesco, concepito da Antonio Asprucci. Depredata delle sculture più preziose al tempo della vendita napoleonica, ha ricevuto un nuovo assetto espositivo nel secondo decennio dell’Ottocento, sotto la direzione dell’architetto Luigi Canina (1795-1856). Analogamente al precedente allestimento tardo-settecentesco, le sculture si ergono su are antiche e colonne di marmo,  mentre le pareti sono decorate da rilievi antichi e moderni scanditi con rigore geometrico. Tra le opere esposte sono la preziosa Erma di Bacco (1773), di Luigi Valadier (1726-1785); il Gruppo di Leda col cigno ed Eros, opera romana del III secolo d.C. (con testa di Antonina minore non pertinente del I d. C.); le due fronti di Sarcofago in marmo asiatico a colonne con Apollo e le Muse del III secolo d.C.; il rilievo con Aiace e Cassandra del I secolo a.C., in marmo di Paro e il Ritratto d’uomo dalla singolare pettinatura esotica, in marmo bigio, risalente al XVI secolo.",
-   "metadata": 
-   [
-       {
-           "label":"Virtual tour",
-           "value":"<a href='https://www.lucavascon.net/test/galleriaborghese/sala1/paolina.html' target='_blank'>Virtual Tour Sala 1 - Sala della Paolina<\/a>"
-       },
-       {
-           "label":"Opere in sala",
-           "value":"<a href='https://galleriaborghese.beniculturali.it/opere/paolina-borghese-bonaparte-come-venere-vincitrice/' target='_blank'>Paolina Borghese Bonaparte come Venere vincitrice - Canova Antonio<\/a> | <a href='https://raw.githubusercontent.com/ElenaBarchielli/testmanifest/main/manifest_opere/manifest_canova_paolina.json' target='_blank'>manifest<\/a>"
-       },
-       {
-           "label":"Opere in sala",
-           "value":"<a href='https://galleriaborghese.beniculturali.it/opere/erma-di-bacco/' target='_blank'>Erma di Bacco - Valadier Luigi<\/a> | <a href='https://raw.githubusercontent.com/ElenaBarchielli/testmanifest/main/manifest_opere/manifest_valadier_erma.json' target='_blank'>manifest<\/a>"
-       },
-       {
-           "label":"Opere in sala",
-           "value":"<a href='https://www.collezionegalleriaborghese.it/opere/amore-vincitore' target='_blank'>Amore Vincitore - Attribuito a Bernini Pietro<\/a> | <a href='https://raw.githubusercontent.com/ElenaBarchielli/testmanifest/main/manifest_opere/manifest_bernini_amore_vincitore.json' target='_blank'>manifest<\/a>"
-       },
-       {
-           "label":"Opere in sala",
-           "value":"<a href='https://www.collezionegalleriaborghese.it/opere/busto-di-scipione-lafricano' target='_blank'>Busto di Scipione l'Africano - Ambito Romano<\/a> | <a href='https://raw.githubusercontent.com/ElenaBarchielli/testmanifest/main/manifest_opere/manifest_busto_scipione.json' target='_blank'>manifest<\/a>"
-       },
-       {
-           "label":"Opere in sala",
-           "value":"<a href='https://www.collezionegalleriaborghese.it/opere/busto-di-clemente-xii' target='_blank'>Busto di Clemente XII - Bracci Pietro<\/a> | <a href='https://raw.githubusercontent.com/ElenaBarchielli/testmanifest/main/manifest_opere/manifest_clementeXII.json' target='_blank'>manifest<\/a>"
-       }
-   ],
-   "thumbnail": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif/full/full/0/default.jpg",
-   "viewDirection": "right-to-left",
-   "attribution": "Digital image courtesy of the <a href='https://galleriaborghese.beniculturali.it/info/foto-e-video/' target='_blank'>Galleria Borghese<\/a>.",
-   "logo": "https://galleriaborghese.beniculturali.it/wp-content/uploads/logo.svg",
-   "within": "-",
-   "sequences": [
-       {
-           "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share#sequence1",
-           "@type": "sc:Sequence",
-           "label": "Object",
-           "viewingDirection": "left-to-right",
-           "viewingHint": "paged",
-           "startCanvas": "-",
-           "canvases": [
-               {
-                   "@id":"https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/sala_panoramica.png/info.json",
-                   "@type":"sc:Canvas",
-                   "label":"Sala 360",
-                   "width":18000,
-                   "height":9000,
-                   "images":[
-                      {
-                         "@id":"https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/sala_panoramica.png/info.json",
-                         "@type":"oa:Annotation",
-                         "motivation":"sc:foto360",
-                         "on":"https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/sala_panoramica.png/info.json",
-                         "resource":{
-                            "@id":"https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/sala_panoramica.png/",
-                            "@type":"dctypes:Image",
-                            "format":"image/png",
-                            "service":{
-                               "@context":"http://iiif.io/api/image/2/context.json",
-                               "@id":"https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/sala_panoramica.png/",
-                               "profile":"http://iiif.io/api/image/2/profiles/level1.json"
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://raw.githubusercontent.com/ElenaBarchielli/testmanifest/main/manifest_panoramica/manifest_sala1.json",
+    "@type": "sc:Manifest",
+    "label": "Sala 1 - Sala della Paolina",
+    "service": {
+        "profile": "http://iiif.io/api/search/0/search",
+        "@id": "http://54.38.189.118:8081/search-api/d7e49f4e57528fab5a41bba8d7059ba3/search",
+        "@context": "http://iiif.io/api/search/0/context.json"
+    },
+    "description":"La Sala I  ospita una delle sculture più celebri della collezione Borghese, la Statua-ritratto di Paolina Borghese Bonaparte nelle vesti di Venere vincitrice di Antonio Canova (1757-1822). L’opera, collocata in questo ambiente solo dal 1889, trova corrispondenza con i dipinti della volta dedicati alle Storie di Venere e di Enea, eseguiti da Domenico de Angelis (1735-1804) nel 1779. Le cinque tele ( al centro Il giudizio di Paride e ai lati Minerva chiede alla Parca Atropos di tagliare il filo della vita di Troia, Venere convince Giove a salvare Enea, Enea fugge da Troia col padre Anchise e il figlioletto Ascanio, Giunone chiede a Eolo di scatenare tempeste contro Enea) sono inserite nella quadratura prospettica dipinta da Giovanni Battista Marchetti (1730-1800). La sala, che  un tempo era detta “del Vaso”, per la presenza dell’antico cratere neoattico oggi al Louvre, ha conservato solo in minima parte l’aspetto settecentesco, concepito da Antonio Asprucci. Depredata delle sculture più preziose al tempo della vendita napoleonica, ha ricevuto un nuovo assetto espositivo nel secondo decennio dell’Ottocento, sotto la direzione dell’architetto Luigi Canina (1795-1856). Analogamente al precedente allestimento tardo-settecentesco, le sculture si ergono su are antiche e colonne di marmo,  mentre le pareti sono decorate da rilievi antichi e moderni scanditi con rigore geometrico. Tra le opere esposte sono la preziosa Erma di Bacco (1773), di Luigi Valadier (1726-1785); il Gruppo di Leda col cigno ed Eros, opera romana del III secolo d.C. (con testa di Antonina minore non pertinente del I d. C.); le due fronti di Sarcofago in marmo asiatico a colonne con Apollo e le Muse del III secolo d.C.; il rilievo con Aiace e Cassandra del I secolo a.C., in marmo di Paro e il Ritratto d’uomo dalla singolare pettinatura esotica, in marmo bigio, risalente al XVI secolo.",
+    "metadata": 
+    [
+        {
+            "label":"Virtual tour",
+            "value":"<a href='https://www.lucavascon.net/test/galleriaborghese/sala1/paolina.html' target='_blank'>Virtual Tour Sala 1 - Sala della Paolina<\/a>"
+        },
+        {
+            "label":"Opere in sala",
+            "value":"<a href='https://galleriaborghese.beniculturali.it/opere/paolina-borghese-bonaparte-come-venere-vincitrice/' target='_blank'>Paolina Borghese Bonaparte come Venere vincitrice - Canova Antonio<\/a> | <a href='https://raw.githubusercontent.com/ElenaBarchielli/testmanifest/main/manifest_opere/manifest_canova_paolina.json' target='_blank'>manifest<\/a>"
+        },
+        {
+            "label":"Opere in sala",
+            "value":"<a href='https://galleriaborghese.beniculturali.it/opere/erma-di-bacco/' target='_blank'>Erma di Bacco - Valadier Luigi<\/a> | <a href='https://raw.githubusercontent.com/ElenaBarchielli/testmanifest/main/manifest_opere/manifest_valadier_erma.json' target='_blank'>manifest<\/a>"
+        },
+        {
+            "label":"Opere in sala",
+            "value":"<a href='https://www.collezionegalleriaborghese.it/opere/amore-vincitore' target='_blank'>Amore Vincitore - Attribuito a Bernini Pietro<\/a> | <a href='https://raw.githubusercontent.com/ElenaBarchielli/testmanifest/main/manifest_opere/manifest_bernini_amore_vincitore.json' target='_blank'>manifest<\/a>"
+        },
+        {
+            "label":"Opere in sala",
+            "value":"<a href='https://www.collezionegalleriaborghese.it/opere/busto-di-scipione-lafricano' target='_blank'>Busto di Scipione l'Africano - Ambito Romano<\/a> | <a href='https://raw.githubusercontent.com/ElenaBarchielli/testmanifest/main/manifest_opere/manifest_busto_scipione.json' target='_blank'>manifest<\/a>"
+        },
+        {
+            "label":"Opere in sala",
+            "value":"<a href='https://www.collezionegalleriaborghese.it/opere/busto-di-clemente-xii' target='_blank'>Busto di Clemente XII - Bracci Pietro<\/a> | <a href='https://raw.githubusercontent.com/ElenaBarchielli/testmanifest/main/manifest_opere/manifest_clementeXII.json' target='_blank'>manifest<\/a>"
+        },
+        {
+         "label": "Rights Statement",
+         "value": "-"
+     }
+    ],
+    "thumbnail": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif/full/full/0/default.jpg",
+    "viewDirection": "right-to-left",
+    "attribution": "Digital image courtesy of the <a href='https://galleriaborghese.beniculturali.it/info/foto-e-video/' target='_blank'>Galleria Borghese<\/a>.",
+    "logo": "https://galleriaborghese.beniculturali.it/wp-content/uploads/logo.svg",
+    "within": "-",
+    "sequences": [
+        {
+            "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share#sequence1",
+            "@type": "sc:Sequence",
+            "label": "Object",
+            "viewingDirection": "left-to-right",
+            "viewingHint": "paged",
+            "startCanvas": "-",
+            "canvases": [
+                {
+                    "@id":"https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/sala_panoramica.png/info.json",
+                    "@type":"sc:Canvas",
+                    "label":"Sala 360",
+                    "width":18000,
+                    "height":9000,
+                    "images":[
+                       {
+                          "@id":"https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/sala_panoramica.png/info.json",
+                          "@type":"oa:Annotation",
+                          "motivation":"sc:foto360",
+                          "on":"https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/sala_panoramica.png/info.json",
+                          "resource":{
+                             "@id":"https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/sala_panoramica.png/",
+                             "@type":"dctypes:Image",
+                             "format":"image/png",
+                             "service":{
+                                "@context":"http://iiif.io/api/image/2/context.json",
+                                "@id":"https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/sala_panoramica.png/",
+                                "profile":"http://iiif.io/api/image/2/profiles/level1.json"
+                             },
+                             "width":18000,
+                             "height":9000
+                          }
+                       }
+                    ],
+                    "thumbnail":"https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/sala_panoramica.png/full/full/0/default.jpg",
+                    "otherContent": [ {
+                        "@id": "http://54.38.189.118:8081/annotation/list/485692b588835a3fdc3e2483fefe74fd.json",
+                        "@type": "sc:AnnotationList",
+                        "label": "My fantastic annotations"
+                    }]
+                },
+                {
+                    "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif",
+                    "@type": "sc:Canvas",
+                    "label": "Paolina Borghese Bonaparte come Venere vincitrice, 1804-1808, Canova Antonio",
+                    "width": 5299,
+                    "height": 4189,
+                    "images": [
+                        {
+                            "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/tif",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif",
+                                    "profile": "http://iiif.io/api/image/2/profiles/level0.json"
+                                }
                             },
-                            "width":18000,
-                            "height":9000
-                         }
-                      }
-                   ],
-                   "thumbnail":"https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/sala_panoramica.png/full/full/0/default.jpg",
-                   "otherContent": [ {
-                       "@id": "http://54.38.189.118:8081/annotation/list/485692b588835a3fdc3e2483fefe74fd.json",
-                       "@type": "sc:AnnotationList",
-                       "label": "My fantastic annotations"
-                   }]
-               },
-               {
-                   "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif",
+                  "on": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif/full/full/0/default.jpg"
+                  }
+                    ],
+                    "thumbnail": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif/full/full/0/default.jpg"
+                },
+                {
+                   "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Valadier-Erma-Bacco.tif",
                    "@type": "sc:Canvas",
-                   "label": "Paolina Borghese Bonaparte come Venere vincitrice, 1804-1808, Canova Antonio",
-                   "width": 5299,
-                   "height": 4189,
+                   "label": "Erma di Bacco, 1773, Valadier Luigi",
+                   "width": 12264,
+                   "height": 16352,
                    "images": [
                        {
-                           "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif",
+                           "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Valadier-Erma-Bacco.tif",
                            "@type": "oa:Annotation",
                            "motivation": "sc:painting",
                            "resource": {
-                               "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif/full/full/0/default.jpg",
+                               "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Valadier-Erma-Bacco.tif/full/full/0/default.jpg",
                                "@type": "dctypes:Image",
                                "format": "image/tif",
                                "service": {
                                    "@context": "http://iiif.io/api/image/2/context.json",
-                                   "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif",
+                                   "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Valadier-Erma-Bacco.tif",
                                    "profile": "http://iiif.io/api/image/2/profiles/level0.json"
                                }
                            },
-                 "on": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif/full/full/0/default.jpg"
+                 "on": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Valadier-Erma-Bacco.tif/full/full/0/default.jpg"
                  }
                    ],
-                   "thumbnail": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif/full/full/0/default.jpg"
+                   "thumbnail": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Valadier-Erma-Bacco.tif/full/full/0/default.jpg"
                },
                {
-                  "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Valadier-Erma-Bacco.tif",
-                  "@type": "sc:Canvas",
-                  "label": "Erma di Bacco, 1773, Valadier Luigi",
-                  "width": 12264,
-                  "height": 16352,
-                  "images": [
+                   "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/bernini-amore.tif",
+                   "@type": "sc:Canvas",
+                   "label": "Amore Vincitore, 1617 ca., Attribuito a Bernini Pietro",
+                   "width": 3817,
+                   "height": 4237,
+                   "images": [
                       {
-                          "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Valadier-Erma-Bacco.tiff",
-                          "@type": "oa:Annotation",
-                          "motivation": "sc:painting",
-                          "resource": {
-                              "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Valadier-Erma-Bacco.tif/full/full/0/default.jpg",
-                              "@type": "dctypes:Image",
-                              "format": "image/tif",
-                              "service": {
+                         "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/bernini-amore.tif",
+                         "@type": "oa:Annotation",
+                         "motivation": "sc:painting",
+                         "resource": {
+                               "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/bernini-amore.tif/full/full/0/default.jpg",
+                               "@type": "dctypes:Image",
+                               "format": "image/tif",
+                               "service": {
                                   "@context": "http://iiif.io/api/image/2/context.json",
-                                  "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Valadier-Erma-Bacco.tif",
+                                  "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/bernini-amore.tif",
                                   "profile": "http://iiif.io/api/image/2/profiles/level0.json"
-                              }
-                          },
-                "on": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Valadier-Erma-Bacco.tif/full/full/0/default.jpg"
+                               }
+                         },
+                 "on": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/bernini-amore.tif/full/full/0/default.jpg"
+                 }
+                   ],
+                   "thumbnail": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/bernini-amore.tif/full/full/0/default.jpg"
+                },
+                {
+                   "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/scipione-africano.tif",
+                   "@type": "sc:Canvas",
+                   "label": "Busto di Scipione l'Africano, XVII secolo, Ambito Romano",
+                   "width": 4032,
+                   "height": 6048,
+                   "images": [
+                      {
+                         "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/scipione-africano.tif",
+                         "@type": "oa:Annotation",
+                         "motivation": "sc:painting",
+                         "resource": {
+                               "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/scipione-africano.tif/full/full/0/default.jpg",
+                               "@type": "dctypes:Image",
+                               "format": "image/tif",
+                               "service": {
+                                  "@context": "http://iiif.io/api/image/2/context.json",
+                                  "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/scipione-africano.tif",
+                                  "profile": "http://iiif.io/api/image/2/profiles/level0.json"
+                               }
+                         },
+                 "on": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/scipione-africano.tif/full/full/0/default.jpg"
+                 }
+                   ],
+                   "thumbnail": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/scipione-africano.tif/full/full/0/default.jpg"
+                },
+                {
+                   "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/bracci-clemente.tif",
+                   "@type": "sc:Canvas",
+                   "label": "Busto di Clemente XII, Bracci Pietro",
+                   "width": 8700,
+                   "height": 11600,
+                   "images": [
+                      {
+                         "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/bracci-clemente.tif",
+                         "@type": "oa:Annotation",
+                         "motivation": "sc:painting",
+                         "resource": {
+                               "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/bracci-clemente.tif/full/full/0/default.jpg",
+                               "@type": "dctypes:Image",
+                               "format": "image/tif",
+                               "service": {
+                                  "@context": "http://iiif.io/api/image/2/context.json",
+                                  "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/bracci-clemente.tif",
+                                  "profile": "http://iiif.io/api/image/2/profiles/level0.json"
+                               }
+                         },
+                 "on": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/bracci-clemente.tif/full/full/0/default.jpg"
+                 }
+                   ],
+                   "thumbnail": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/bracci-clemente.tif/full/full/0/default.jpg"
                 }
-                  ],
-                  "thumbnail": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Valadier-Erma-Bacco.tif/full/full/0/default.jpg"
-              },
-              {
-                  "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/bernini-amore.png",
-                  "@type": "sc:Canvas",
-                  "label": "Amore Vincitore, 1617 ca., Attribuito a Bernini Pietro",
-                  "width": 3817,
-                  "height": 4237,
-                  "images": [
-                     {
-                        "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/bernini-amore.png",
-                        "@type": "oa:Annotation",
-                        "motivation": "sc:painting",
-                        "resource": {
-                              "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/bernini-amore.png/full/full/0/default.jpg",
-                              "@type": "dctypes:Image",
-                              "format": "image/png",
-                              "service": {
-                                 "@context": "http://iiif.io/api/image/2/context.json",
-                                 "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/bernini-amore.png",
-                                 "profile": "http://iiif.io/api/image/2/profiles/level0.json"
-                              }
-                        },
-                "on": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/bernini-amore.png/full/full/0/default.jpg"
-                }
-                  ],
-                  "thumbnail": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/bernini-amore.png/full/full/0/default.jpg"
-               },
-               {
-                  "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/scipione-africano.png",
-                  "@type": "sc:Canvas",
-                  "label": "Busto di Scipione l'Africano, XVII secolo, Ambito Romano",
-                  "width": 4032,
-                  "height": 6048,
-                  "images": [
-                     {
-                        "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/scipione-africano.png",
-                        "@type": "oa:Annotation",
-                        "motivation": "sc:painting",
-                        "resource": {
-                              "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/scipione-africano.png/full/full/0/default.jpg",
-                              "@type": "dctypes:Image",
-                              "format": "image/png",
-                              "service": {
-                                 "@context": "http://iiif.io/api/image/2/context.json",
-                                 "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/scipione-africano.png",
-                                 "profile": "http://iiif.io/api/image/2/profiles/level0.json"
-                              }
-                        },
-                "on": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/scipione-africano.png/full/full/0/default.jpg"
-                }
-                  ],
-                  "thumbnail": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/scipione-africano.png/full/full/0/default.jpg"
-               },
-               {
-                  "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/bracci-clemente.tif",
-                  "@type": "sc:Canvas",
-                  "label": "Busto di Clemente XII, Bracci Pietro",
-                  "width": 8700,
-                  "height": 11600,
-                  "images": [
-                     {
-                        "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/bracci-clemente.tif",
-                        "@type": "oa:Annotation",
-                        "motivation": "sc:painting",
-                        "resource": {
-                              "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/bracci-clemente.tif/full/full/0/default.jpg",
-                              "@type": "dctypes:Image",
-                              "format": "image/tif",
-                              "service": {
-                                 "@context": "http://iiif.io/api/image/2/context.json",
-                                 "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/bracci-clemente.tif",
-                                 "profile": "http://iiif.io/api/image/2/profiles/level0.json"
-                              }
-                        },
-                "on": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/bracci-clemente.tif/full/full/0/default.jpg"
-                }
-                  ],
-                  "thumbnail": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/bracci-clemente.tif/full/full/0/default.jpg"
-               }
-           ]
-       }
-   ],
-   "license": "https://galleriaborghese.beniculturali.it/info/foto-e-video/",
-   "related": "https://galleriaborghese.beniculturali.it/il-museo/la-villa/sala-1-sala-della-paolina/"
-}
+            ]
+        }
+    ],
+    "license": "https://galleriaborghese.beniculturali.it/info/foto-e-video/",
+    "related": "https://galleriaborghese.beniculturali.it/il-museo/la-villa/sala-1-sala-della-paolina/",
+    "collection": "<a href=’https://galleriaborghese.beniculturali.it/' target='_blank'>Galleria Borghese<\/a>"
+ }
+ 

@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://raw.githubusercontent.com/ElenaBarchielli/testmanifest/main/manifest_opere/arte_antica/manifest_IXCa.json",
+    "@id": "https://raw.githubusercontent.com/ElenaBarchielli/testmanifest/main/manifest_opere/arte_antica.json",
     "@type": "sc:Manifest",
     "label": "Ara funeraria di Claudio Felice, II sec. d.C.",
     "description": "L’ara marmorea proviene dagli scavi condotti per volontà del Principe Camillo Borghese fra 1830 e1832 a Mentana (Roma). L’altare è privo del coronamento originario e poggia su una base modanata. La faccia anteriore è occupata dall’iscrizione, in cui si ricorda che la sepoltura di Claudio Felice è stata allestita dall’erede Messalla Rutiliano. Felix è nome augurale molto diffuso, in particolare tra schiavi e liberti, ed è pressoché esclusivo degli uomini. Ai lati del monumento troviamo una patera e un urceus, una brocca, due strumenti rituali che hanno una posizione fissa nei cippi e negli altari e che rinviano simbolicamente alla posizione occupata dal sacerdote con la ciotola e dal camillo, il giovane assistente, con la brocca dinnanzi all’altare durante il sacrificio.",
@@ -15,80 +15,56 @@
             "value": "-"
         },
         {
+            "label": "Number of Inventory",
+            "value": "IXCa"
+        },
+        {
+            "label": "Location",
+            "value": "<a href='https://galleriaborghese.beniculturali.it/il-museo/la-villa/sala-1-sala-della-paolina/' target='_blank'>Sala I - Sala della Paolina<\/a> | <a href='https://raw.githubusercontent.com/ElenaBarchielli/testmanifest/main/manifest_panoramica/manifest_sala1.json' target='_blank'>manifest<\/a> | <a href='link al virtual tour' target='_blank'>Virtual Tour<\/a>"
+        },
+        {
             "label": "Date",
             "value": "II sec. d.C."
-        },
-        {
-            "label": "Culture",
-            "value": "-"
-        },
-        {
-            "label": "Medium / Technique",
-            "value": "marmo di Luni"
         },
         {
             "label": "Dimensions",
             "value": "altezza cm 76, larghezza cm 53; profondità cm 37 (campo epigrafico); cm 4,2-4,5 lettere"
         },
         {
-            "label": "Number of Inventory",
-            "value": "IXCa"
-        },
-        {
-            "label": "Location",
-            "value": "<a href='https://galleriaborghese.beniculturali.it/il-museo/la-villa/sala-1-sala-della-paolina/' target='_blank'>Sala I - Sala della Paolina<\/a> | <a href='https://raw.githubusercontent.com/ElenaBarchielli/testmanifest/main/manifest_panoramica/manifest_sala1.json' target='_blank'>manifest<\/a>"
-        },
-        {
-            "label": "Place Created",
-            "value": "-"
-        },
-        {
-            "label": "Signature(s)",
-            "value": "-"
-        },
-        {
-            "label": "Mark(s)",
-            "value": "-"
-        },
-        {
             "label": "Classification",
             "value": "<a href='https://www.collezionegalleriaborghese.it/collezione/arte-antica' target='_blank'>Arte antica<\/a>"
         },
         {
-            "label": "Object Type",
-            "value": "-"
+            "label": "Medium / Technique",
+            "value": "marmo di Luni"
         },
         {
-            "label": "Collection",
-            "value": "<a href=’https://galleriaborghese.beniculturali.it/' target='_blank'>Galleria Borghese<\/a>"
-        },
-        {
-            "label": "Rights Statement",
-            "value": "-"
-        },
-        {
-            "label": "Full Artwork Details",
-            "value": "L’ara marmorea fu rinvenuta in occasione delle campagne di scavo condotte per volontà del principe Camillo Borghese a Mentana fra 1830 e 1832, “sotto il vocabolo di Monte dell’Oro” ed affidate allo scavatore Spagna. Nella guida alla collezione del 1832, Antonio Nibby ne segnala la presenza in sala II, quale basamento del busto con testa di Iside, laddove l’ara e il busto rimasero fino al restauro del 1997, per poi essere collocati in sala I, dove attualmente sono esposti. L’ara, a corpo parallelepipedo, è priva del coronamento originario e poggia su una base modanata. La faccia anteriore è occupata dal campo epigrafico, definito da una cornice a doppio listello. Il testo D(is) M(anibus) / Cl(audo) Felici bene / merenti Messal / la Rutilianus / heres fecit indica che la sepoltura di Claudio Felice è stata allestita dall’erede Messalla Rutiliano. Felix è nome augurale molto diffuso, in particolare tra schiavi e liberti, ed è pressoché esclusivo degli uomini (vd. Greggi 2007). Ai lati del monumento troviamo rispettivamente a sinistra un urceus, a destra una patera. La posizione di tali strumenti rituali è fissa nei cippi e negli altari e deriva dalla collocazione che il sacerdote con la patera e il camillo, il giovane che assiste il sacerdote durante il sacrificio, con l’urceus tengono davanti agli altari durante il sacrificio (Bowerman 1913, p. 87). Nel tempo, poi, la dimensione simbolica di tali attributi scompare, mentre urceus e patera diventano motivi comuni di repertorio sui lati minori di cippi e altari (Von Schaewen 1940, pp. 17-14). Considerazioni stilistiche e paleografiche permettono di inquadrare l’ara genericamente nel II sec. d.C. Jessica Clementi"
-        },
-        {
-            "label": "Frame",
-            "value": "-"
+            "label": "Provenance",
+            "value": "Collezione Borghese, dagli scavi di Mentana (1830-1832). Acquisto dello Stato, 1902."
         },
         {
             "label": "Exhibitions",
             "value": "-"
         },
         {
-            "label": "Restauration",
+            "label": "Conservation and Diagnostic",
             "value": "XIX sec - Cornice superiore e spigolo sinistro nella parte inferiore. 1996/97 - Liana Persichelli"
+        },
+        {
+            "label": "Status",
+            "value": "on view"
+        },
+        {
+            "label": "Full Artwork Details",
+            "value": "L’ara marmorea fu rinvenuta in occasione delle campagne di scavo condotte per volontà del principe Camillo Borghese a Mentana fra 1830 e 1832, “sotto il vocabolo di Monte dell’Oro” ed affidate allo scavatore Spagna. Nella guida alla collezione del 1832, Antonio Nibby ne segnala la presenza in sala II, quale basamento del busto con testa di Iside, laddove l’ara e il busto rimasero fino al restauro del 1997, per poi essere collocati in sala I, dove attualmente sono esposti. L’ara, a corpo parallelepipedo, è priva del coronamento originario e poggia su una base modanata. La faccia anteriore è occupata dal campo epigrafico, definito da una cornice a doppio listello. Il testo D(is) M(anibus) / Cl(audo) Felici bene / merenti Messal / la Rutilianus / heres fecit indica che la sepoltura di Claudio Felice è stata allestita dall’erede Messalla Rutiliano. Felix è nome augurale molto diffuso, in particolare tra schiavi e liberti, ed è pressoché esclusivo degli uomini (vd. Greggi 2007). Ai lati del monumento troviamo rispettivamente a sinistra un urceus, a destra una patera. La posizione di tali strumenti rituali è fissa nei cippi e negli altari e deriva dalla collocazione che il sacerdote con la patera e il camillo, il giovane che assiste il sacerdote durante il sacrificio, con l’urceus tengono davanti agli altari durante il sacrificio (Bowerman 1913, p. 87). Nel tempo, poi, la dimensione simbolica di tali attributi scompare, mentre urceus e patera diventano motivi comuni di repertorio sui lati minori di cippi e altari (Von Schaewen 1940, pp. 17-14). Considerazioni stilistiche e paleografiche permettono di inquadrare l’ara genericamente nel II sec. d.C. Jessica Clementi"
         },
         {
             "label": "Bibliography",
             "value": "-"
         },
         {
-            "label": "Provenance",
-            "value": "Collezione Borghese, dagli scavi di Mentana (1830-1832). Acquisto dello Stato, 1902."
+            "label": "Rights Statement",
+            "value": "-"
         }
     ],
     "thumbnail": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif/full/full/0/default.jpg",
@@ -163,5 +139,6 @@
         }
     ],
     "license": "https://galleriaborghese.beniculturali.it/info/foto-e-video/",
-    "related": "https://www.collezionegalleriaborghese.it/opere/ara-funeraria-di-claudio-felice"
+    "related": "https://www.collezionegalleriaborghese.it/opere/ara-funeraria-di-claudio-felice",
+    "collection": "<a href=’https://galleriaborghese.beniculturali.it/' target='_blank'>Galleria Borghese<\/a>"
 }

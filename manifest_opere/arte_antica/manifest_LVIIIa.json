@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://raw.githubusercontent.com/ElenaBarchielli/testmanifest/main/manifest_opere/arte_antica/manifest_LVIIIa.json",
+    "@id": "https://raw.githubusercontent.com/ElenaBarchielli/testmanifest/main/manifest_opere/arte_antica.json",
     "@type": "sc:Manifest",
     "label": "Ara con soggetto dionisiaco, fine I sec. a.C.- inizio I sec. d.C.",
     "description": "L’altare circolare, molto corroso e di ignota provenienza, è decorato da un rilievo con una teoria di tre Menadi, o Baccanti, adepte del corteo di Dioniso, dio del vino e dei misteri, intente a danzare con in mano gli attributi tipici, il cembalo e il tirso, precedute da una pantera. Il tema iconografico, noto da almeno sessanta riproduzioni datate fra gli inizi del I secolo a.C. e il III secolo d.C. su supporti eterogenei, è tradizionalmente attribuito allo scultore greco Callimaco (fine V sec. a.C.). I motivi decorativi adottati nella cornice inferiore dell’ara richiamano la trabeazione del Tempio della Concordia nel Foro romano, restaurato da Tiberio fra 7 a.C. e 10 d.C., suggerendo una datazione in tale orizzonte cronologico.",
@@ -15,80 +15,56 @@
             "value": "-"
         },
         {
+            "label": "Number of Inventory",
+            "value": "LVIIIa"
+        },
+        {
+            "label": "Location",
+            "value": "<a href='https://galleriaborghese.beniculturali.it/il-museo/la-villa/sala-1-sala-della-paolina/' target='_blank'>Sala I - Sala della Paolina<\/a> | <a href='https://raw.githubusercontent.com/ElenaBarchielli/testmanifest/main/manifest_panoramica/manifest_sala1.json' target='_blank'>manifest<\/a> | <a href='link al virtual tour' target='_blank'>Virtual Tour<\/a>"
+        },
+        {
             "label": "Date",
             "value": "fine I sec. a.C.- inizio I sec. d.C."
-        },
-        {
-            "label": "Culture",
-            "value": "-"
-        },
-        {
-            "label": "Medium / Technique",
-            "value": "marmo bianco"
         },
         {
             "label": "Dimensions",
             "value": "altezza cm 92 (con integrazioni), diametro cm 45"
         },
         {
-            "label": "Number of Inventory",
-            "value": "LVIIIa"
-        },
-        {
-            "label": "Location",
-            "value": "<a href='https://galleriaborghese.beniculturali.it/il-museo/la-villa/sala-1-sala-della-paolina/' target='_blank'>Sala I - Sala della Paolina<\/a> | <a href='https://raw.githubusercontent.com/ElenaBarchielli/testmanifest/main/manifest_panoramica/manifest_sala1.json' target='_blank'>manifest<\/a>"
-        },
-        {
-            "label": "Place Created",
-            "value": "-"
-        },
-        {
-            "label": "Signature(s)",
-            "value": "-"
-        },
-        {
-            "label": "Mark(s)",
-            "value": "-"
-        },
-        {
             "label": "Classification",
             "value": "<a href='https://www.collezionegalleriaborghese.it/collezione/arte-antica' target='_blank'>Arte antica<\/a>"
         },
         {
-            "label": "Object Type",
-            "value": "-"
+            "label": "Medium / Technique",
+            "value": "marmo bianco"
         },
         {
-            "label": "Collection",
-            "value": "<a href=’https://galleriaborghese.beniculturali.it/' target='_blank'>Galleria Borghese<\/a>"
-        },
-        {
-            "label": "Rights Statement",
-            "value": "-"
-        },
-        {
-            "label": "Full Artwork Details",
-            "value": "L’ara circolare, molto corrosa e integrata nella parte superiore, è di ignota provenienza; in occasione del nuovo allestimento della collezione, voluto da Camillo Borghese fra 1819 e 1832 nel Casino depauperato dalla vendita delle opere antiche al cognato Napoleone Bonaparte, fu collocata nella sala I come base per la statua di Afrodite tipo Louvre-Napoli. Il rilievo figurato presenta una teoria di tre Menadi, o Baccanti, adepte del corteo di Dioniso, dio del vino e dei misteri, vestite di chitone e avvolte nel mantello svolazzante, intente a danzare con in mano gli attributi tipici, il cembalo e il tirso, precedute da una pantera. L’ara Borghese offre una significativa attestazione di come le botteghe operanti nel solco della tradizione classicistica in Grecia e poi a Roma rielaborino con gusto eclettico un tema iconografico noto da almeno sessanta riproduzioni, datate fra gli inizi del I secolo a.C. e il III secolo d.C. su supporti eterogenei, dagli altari, ai candelabri, ai rilievi, ai sarcofagi, ai vasi (Touchette 1995, pp. 65-85, Touchette 1998; Dyczek 2007; Paolucci 2020, pp. 26-32).Tale ampia diffusione del modello ha indotto gli studiosi a riconoscervi l’opera di un artista celebre, tradizionalmente riconosciuto nello scultore greco Callimaco, attivo ad Atene sul finire del V sec. a.C.: la resa del panneggio trova, infatti, diretti confronti nei rilievi del parapetto del tempio di Atena Nike. A prescindere, tuttavia, dall’autore gli studiosi concordano nel riconoscere la dipendenza da un modello ad altorilievo, dal momento che le Menadi sono sempre raffigurate di profilo, mentre vi sono dubbi sulla materia usata nell’archetipo. Secondo W. Fuchs i rilievi erano appliques in metallo e decoravano la base circolare di un monumento coregico celebrativo della vittoria delle “Baccanti” di Euripide avvenuta nel 406-405 a.C. (Fuchs 1959, pp. 87-88), mentre L. A. Touchette ipotizza che si disponessero ai lati della scena di nascita di Dioniso sul podio della statua del dio, opera di Alkamenes, eretta nel santuario di Dioniso Eleutereo alle pendici meridionali dell'Acropoli di Atene (Touchette 1995, pp. 25-30). I motivi decorativi adottati nella cornice inferiore dell’ara, richiamanti la trabeazione del Tempio della Concordia nel Foro romano, restaurato da Tiberio fra 7 a.C. e 10 d.C., suggeriscono una datazione in tale orizzonte cronologico. Jessica Clementi"
-        },
-        {
-            "label": "Frame",
-            "value": "-"
+            "label": "Provenance",
+            "value": "Collezione Borghese, citato per la prima volta da Nibby (1832, p. 56); Inventario Fidecommissario Borghese, 1833, C, p. 43, n. 39. Acquisto dello Stato, 1902."
         },
         {
             "label": "Exhibitions",
             "value": "-"
         },
         {
-            "label": "Restauration",
+            "label": "Conservation and Diagnostic",
             "value": "1996, Consorzio Capitolino"
+        },
+        {
+            "label": "Status",
+            "value": "on view"
+        },
+        {
+            "label": "Full Artwork Details",
+            "value": "L’ara circolare, molto corrosa e integrata nella parte superiore, è di ignota provenienza; in occasione del nuovo allestimento della collezione, voluto da Camillo Borghese fra 1819 e 1832 nel Casino depauperato dalla vendita delle opere antiche al cognato Napoleone Bonaparte, fu collocata nella sala I come base per la statua di Afrodite tipo Louvre-Napoli. Il rilievo figurato presenta una teoria di tre Menadi, o Baccanti, adepte del corteo di Dioniso, dio del vino e dei misteri, vestite di chitone e avvolte nel mantello svolazzante, intente a danzare con in mano gli attributi tipici, il cembalo e il tirso, precedute da una pantera. L’ara Borghese offre una significativa attestazione di come le botteghe operanti nel solco della tradizione classicistica in Grecia e poi a Roma rielaborino con gusto eclettico un tema iconografico noto da almeno sessanta riproduzioni, datate fra gli inizi del I secolo a.C. e il III secolo d.C. su supporti eterogenei, dagli altari, ai candelabri, ai rilievi, ai sarcofagi, ai vasi (Touchette 1995, pp. 65-85, Touchette 1998; Dyczek 2007; Paolucci 2020, pp. 26-32).Tale ampia diffusione del modello ha indotto gli studiosi a riconoscervi l’opera di un artista celebre, tradizionalmente riconosciuto nello scultore greco Callimaco, attivo ad Atene sul finire del V sec. a.C.: la resa del panneggio trova, infatti, diretti confronti nei rilievi del parapetto del tempio di Atena Nike. A prescindere, tuttavia, dall’autore gli studiosi concordano nel riconoscere la dipendenza da un modello ad altorilievo, dal momento che le Menadi sono sempre raffigurate di profilo, mentre vi sono dubbi sulla materia usata nell’archetipo. Secondo W. Fuchs i rilievi erano appliques in metallo e decoravano la base circolare di un monumento coregico celebrativo della vittoria delle “Baccanti” di Euripide avvenuta nel 406-405 a.C. (Fuchs 1959, pp. 87-88), mentre L. A. Touchette ipotizza che si disponessero ai lati della scena di nascita di Dioniso sul podio della statua del dio, opera di Alkamenes, eretta nel santuario di Dioniso Eleutereo alle pendici meridionali dell'Acropoli di Atene (Touchette 1995, pp. 25-30). I motivi decorativi adottati nella cornice inferiore dell’ara, richiamanti la trabeazione del Tempio della Concordia nel Foro romano, restaurato da Tiberio fra 7 a.C. e 10 d.C., suggeriscono una datazione in tale orizzonte cronologico. Jessica Clementi"
         },
         {
             "label": "Bibliography",
             "value": "-"
         },
         {
-            "label": "Provenance",
-            "value": "Collezione Borghese, citato per la prima volta da Nibby (1832, p. 56); Inventario Fidecommissario Borghese, 1833, C, p. 43, n. 39. Acquisto dello Stato, 1902."
+            "label": "Rights Statement",
+            "value": "-"
         }
     ],
     "thumbnail": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif/full/full/0/default.jpg",
@@ -163,5 +139,6 @@
         }
     ],
     "license": "https://galleriaborghese.beniculturali.it/info/foto-e-video/",
-    "related": "https://www.collezionegalleriaborghese.it/opere/ara-con-soggetto-dionisiaco-2"
+    "related": "https://www.collezionegalleriaborghese.it/opere/ara-con-soggetto-dionisiaco-2",
+    "collection": "<a href=’https://galleriaborghese.beniculturali.it/' target='_blank'>Galleria Borghese<\/a>"
 }

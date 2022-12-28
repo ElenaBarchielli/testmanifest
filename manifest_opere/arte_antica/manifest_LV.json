@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://raw.githubusercontent.com/ElenaBarchielli/testmanifest/main/manifest_opere/arte_antica/manifest_LV.json",
+    "@id": "https://raw.githubusercontent.com/ElenaBarchielli/testmanifest/main/manifest_opere/arte_antica.json",
     "@type": "sc:Manifest",
     "label": "Statua di Apollo, II sec. d.C.",
     "description": "Statua maschile, nuda, di dimensioni minori del vero, allestita su un plinto. Ritrae una figura apollinea restaurata come eroe o Alessandro Magno. Il torso, con l’attaccatura delle braccia e delle cosce, è antico, mentre il resto del corpo è di restauro. La testa, moderna e inserita alla base del collo, presenta a sua volta rimaneggiamenti successivi. Per ragioni iconografiche e stilistiche, la porzione originale della scultura può essere attribuita all’opera di officine urbane di età imperiale che riprendono modelli statuari del primo ellenismo.",
@@ -15,80 +15,56 @@
             "value": "-"
         },
         {
+            "label": "Number of Inventory",
+            "value": "LV"
+        },
+        {
+            "label": "Location",
+            "value": "<a href='https://galleriaborghese.beniculturali.it/il-museo/la-villa/sala-1-sala-della-paolina/' target='_blank'>Sala I - Sala della Paolina<\/a> | <a href='https://raw.githubusercontent.com/ElenaBarchielli/testmanifest/main/manifest_panoramica/manifest_sala1.json' target='_blank'>manifest<\/a> | <a href='link al virtual tour' target='_blank'>Virtual Tour<\/a>"
+        },
+        {
             "label": "Date",
             "value": "II sec. d.C."
-        },
-        {
-            "label": "Culture",
-            "value": "-"
-        },
-        {
-            "label": "Medium / Technique",
-            "value": "marmo bianco"
         },
         {
             "label": "Dimensions",
             "value": "altezza totale (con plinto) cm 88,5; statua cm 81; parte antica conservata per cm 33; testa cm 11"
         },
         {
-            "label": "Number of Inventory",
-            "value": "LV"
-        },
-        {
-            "label": "Location",
-            "value": "<a href='https://galleriaborghese.beniculturali.it/il-museo/la-villa/sala-1-sala-della-paolina/' target='_blank'>Sala I - Sala della Paolina<\/a> | <a href='https://raw.githubusercontent.com/ElenaBarchielli/testmanifest/main/manifest_panoramica/manifest_sala1.json' target='_blank'>manifest<\/a>"
-        },
-        {
-            "label": "Place Created",
-            "value": "-"
-        },
-        {
-            "label": "Signature(s)",
-            "value": "-"
-        },
-        {
-            "label": "Mark(s)",
-            "value": "-"
-        },
-        {
             "label": "Classification",
             "value": "<a href='https://www.collezionegalleriaborghese.it/collezione/arte-antica' target='_blank'>Arte antica<\/a>"
         },
         {
-            "label": "Object Type",
-            "value": "-"
+            "label": "Medium / Technique",
+            "value": "marmo bianco"
         },
         {
-            "label": "Collection",
-            "value": "<a href=’https://galleriaborghese.beniculturali.it/' target='_blank'>Galleria Borghese<\/a>"
-        },
-        {
-            "label": "Rights Statement",
-            "value": "-"
-        },
-        {
-            "label": "Full Artwork Details",
-            "value": "In questo Apollo, restaurato come giovane eroe o Alessandro Magno, molto probabilmente può identificarsi uno dei due “Gladiatori” che Iacopo Manilli e Domenico Montelatici ricordano esposti nella stanza del Seneca. Nell’allestimento seicentesco, conservato tra l’età di Scipione e Marcantonio Borghese, queste figure erano collocate in cima a due colonne in marmo nero, poste sulla parete ovest ai lati della celebre scultura del Seneca morente, ora al Museo del Louvre (Manilli 1650, p. 62; Montelatici 1700, p. 256; I Borghese e l’antico, p. 159). Ancora presenti nell’Inventario del 1792, le statue, entrambe di dimensioni minori del vero, sembrano coincidere con i “Gladiatori” che Giovan Battista Borghese acquistò nel 1609, per conto di Paolo V, dallo scultore Giovanni Paolo Della Porta assieme al resto della collezione di pezzi antichi (ASV, AB 348, busta III, n. 32; AB 456, 17, nr. 2; AB 1007, nr. 270, p. 48. De Lachenal 1982, pp. 90-93). L’unione dei marmi Della Porta alle sculture Ceoli, acquisite nel 1607 da Scipione, costituiva una larga parte del nucleo originario della collezione Borghese di antichità, arricchita nel corso degli anni grazie all’ingresso di marmi e statue provenienti non solo dal mercato antiquario, ma anche dagli scavi e dalle scoperte effettuati nei possedimenti di famiglia. Da sola e come “statuetta di Giovane eroe di marmo greco” compare nella nota del quinto lotto di oggetti affidati nel 1828 da Giuseppe Gozzani, ministro del principe Camillo subentrato al padre Evasio Gozzani, ad Antonio D’Este e Francesco Massimiliano Laboureur per il restauro e la ricollocazione nelle sale della villa. In particolare, la scultura fu «…unita e riattaccata insieme. Fattoci il naso, la mano destra con la impugnatura della spada. La sottopianta per unirla alla pianta stessa. Pulita e patinata» (Moreno, Sforzini 1987, p. 363). Non è chiaro, tuttavia, a quale dei due scultori possano attribuirsi gli interventi di pulitura, patinatura, assemblaggio, così come il restauro del naso e della mano destra con l’impugnatura della spada. In merito all’inserimento delle braccia, delle gambe e della testa col collo, unito al busto con una sutura in gesso, considerando l’allestimento seicentesco possiamo immaginare che la scultura sia entrata in collezione già integrata, forse dallo stesso Della Porta. La testa, moderna e rimaneggiata, presenta segni di esposizione ad agenti atmosferici. L’unica porzione antica è costituita dal busto nudo, con l’attaccatura delle cosce e delle braccia sotto le spalle. Il balteo che attraversa il torso doveva, evidentemente, sorreggere l’attributo posto sul lato sinistro della figura, mentre la mano destra doveva stringere un oggetto. L’inclinazione delle spalle, infatti, lascia intuire come il braccio sinistro dovesse essere piegato, mentre il destro fosse proteso in avanti. Il primo restauro, dunque, ricompone un’iconografia coerente nella posizione degli arti, nella ponderazione del corpo e nel movimento. Diversa, invece, è l’interpretazione antiquaria del tipo iconografico, restituito come figura eroica che tiene la spada. La tensione del busto e la presenza del balteo lasciano pensare, piuttosto, a un Apollo in veste di citaredo, sul tipo della statua delle Terme di Leptis Magna (al Museo di Tripoli) o di una statuetta al Museo di Istanbul. In entrambi i casi la cinghia è funzionale a sostenere la cetra posta sul fianco sinistro e la mano destra tiene un plettro. I modelli di riferimento possono individuarsi in opere del tardo IV secolo (Moreno, Viacava 2003, p. 140). La resa stilistica del busto Borghese ben si adatta al lavoro di officine imperiali urbane che riprendono tipi e modelli statuari tardo-ellenistici.             Interessante nella ricomposizione iconografica è il rimaneggiamento ottocentesco della testa che si direbbe citare, in chiave antiquaria, il volto di Alessandro Magno. Ricordiamo, infatti, quanto in età napoleonica il soggetto godesse di particolare fortuna e fosse valorizzato nell’immaginario autocelebrativo dell’Impero. Sotto tali sembianze, il giovane eroe, riposizionato in un angolo della sala I, con l’ingresso nella stanza nel 1889 della Paolina come Venere Vincitrice sembra voler richiamare i giorni di gloria di Camillo (Moreno, Sforzini 1987, p. 91). L’Inventario del Fidecommesso Borghese del 1833 testimonia il passaggio dell’Eroe in sala III e l’allestimento sopra rocchi di colonna in marmo cipollino, immediatamente prima della collocazione attuale. Clara di Fazio"
-        },
-        {
-            "label": "Frame",
-            "value": "-"
+            "label": "Provenance",
+            "value": "Collezione di Giovan Battista Della Porta, acquisto di Giovan Battista Borghese da Giovanni Paolo Della Porta, 1609. Inventario Fidecommissario Borghese, 1833, n. 91. Acquisto dello Stato, 1902."
         },
         {
             "label": "Exhibitions",
             "value": "-"
         },
         {
-            "label": "Restauration",
+            "label": "Conservation and Diagnostic",
             "value": "1828. 1996 Consorzio Capitolino"
+        },
+        {
+            "label": "Status",
+            "value": "on view"
+        },
+        {
+            "label": "Full Artwork Details",
+            "value": "In questo Apollo, restaurato come giovane eroe o Alessandro Magno, molto probabilmente può identificarsi uno dei due “Gladiatori” che Iacopo Manilli e Domenico Montelatici ricordano esposti nella stanza del Seneca. Nell’allestimento seicentesco, conservato tra l’età di Scipione e Marcantonio Borghese, queste figure erano collocate in cima a due colonne in marmo nero, poste sulla parete ovest ai lati della celebre scultura del Seneca morente, ora al Museo del Louvre (Manilli 1650, p. 62; Montelatici 1700, p. 256; I Borghese e l’antico, p. 159). Ancora presenti nell’Inventario del 1792, le statue, entrambe di dimensioni minori del vero, sembrano coincidere con i “Gladiatori” che Giovan Battista Borghese acquistò nel 1609, per conto di Paolo V, dallo scultore Giovanni Paolo Della Porta assieme al resto della collezione di pezzi antichi (ASV, AB 348, busta III, n. 32; AB 456, 17, nr. 2; AB 1007, nr. 270, p. 48. De Lachenal 1982, pp. 90-93). L’unione dei marmi Della Porta alle sculture Ceoli, acquisite nel 1607 da Scipione, costituiva una larga parte del nucleo originario della collezione Borghese di antichità, arricchita nel corso degli anni grazie all’ingresso di marmi e statue provenienti non solo dal mercato antiquario, ma anche dagli scavi e dalle scoperte effettuati nei possedimenti di famiglia. Da sola e come “statuetta di Giovane eroe di marmo greco” compare nella nota del quinto lotto di oggetti affidati nel 1828 da Giuseppe Gozzani, ministro del principe Camillo subentrato al padre Evasio Gozzani, ad Antonio D’Este e Francesco Massimiliano Laboureur per il restauro e la ricollocazione nelle sale della villa. In particolare, la scultura fu «…unita e riattaccata insieme. Fattoci il naso, la mano destra con la impugnatura della spada. La sottopianta per unirla alla pianta stessa. Pulita e patinata» (Moreno, Sforzini 1987, p. 363). Non è chiaro, tuttavia, a quale dei due scultori possano attribuirsi gli interventi di pulitura, patinatura, assemblaggio, così come il restauro del naso e della mano destra con l’impugnatura della spada. In merito all’inserimento delle braccia, delle gambe e della testa col collo, unito al busto con una sutura in gesso, considerando l’allestimento seicentesco possiamo immaginare che la scultura sia entrata in collezione già integrata, forse dallo stesso Della Porta. La testa, moderna e rimaneggiata, presenta segni di esposizione ad agenti atmosferici. L’unica porzione antica è costituita dal busto nudo, con l’attaccatura delle cosce e delle braccia sotto le spalle. Il balteo che attraversa il torso doveva, evidentemente, sorreggere l’attributo posto sul lato sinistro della figura, mentre la mano destra doveva stringere un oggetto. L’inclinazione delle spalle, infatti, lascia intuire come il braccio sinistro dovesse essere piegato, mentre il destro fosse proteso in avanti. Il primo restauro, dunque, ricompone un’iconografia coerente nella posizione degli arti, nella ponderazione del corpo e nel movimento. Diversa, invece, è l’interpretazione antiquaria del tipo iconografico, restituito come figura eroica che tiene la spada. La tensione del busto e la presenza del balteo lasciano pensare, piuttosto, a un Apollo in veste di citaredo, sul tipo della statua delle Terme di Leptis Magna (al Museo di Tripoli) o di una statuetta al Museo di Istanbul. In entrambi i casi la cinghia è funzionale a sostenere la cetra posta sul fianco sinistro e la mano destra tiene un plettro. I modelli di riferimento possono individuarsi in opere del tardo IV secolo (Moreno, Viacava 2003, p. 140). La resa stilistica del busto Borghese ben si adatta al lavoro di officine imperiali urbane che riprendono tipi e modelli statuari tardo-ellenistici.             Interessante nella ricomposizione iconografica è il rimaneggiamento ottocentesco della testa che si direbbe citare, in chiave antiquaria, il volto di Alessandro Magno. Ricordiamo, infatti, quanto in età napoleonica il soggetto godesse di particolare fortuna e fosse valorizzato nell’immaginario autocelebrativo dell’Impero. Sotto tali sembianze, il giovane eroe, riposizionato in un angolo della sala I, con l’ingresso nella stanza nel 1889 della Paolina come Venere Vincitrice sembra voler richiamare i giorni di gloria di Camillo (Moreno, Sforzini 1987, p. 91). L’Inventario del Fidecommesso Borghese del 1833 testimonia il passaggio dell’Eroe in sala III e l’allestimento sopra rocchi di colonna in marmo cipollino, immediatamente prima della collocazione attuale. Clara di Fazio"
         },
         {
             "label": "Bibliography",
             "value": "-"
         },
         {
-            "label": "Provenance",
-            "value": "Collezione di Giovan Battista Della Porta, acquisto di Giovan Battista Borghese da Giovanni Paolo Della Porta, 1609. Inventario Fidecommissario Borghese, 1833, n. 91. Acquisto dello Stato, 1902."
+            "label": "Rights Statement",
+            "value": "-"
         }
     ],
     "thumbnail": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif/full/full/0/default.jpg",
@@ -163,5 +139,6 @@
         }
     ],
     "license": "https://galleriaborghese.beniculturali.it/info/foto-e-video/",
-    "related": "https://www.collezionegalleriaborghese.it/opere/statua-di-apollo"
+    "related": "https://www.collezionegalleriaborghese.it/opere/statua-di-apollo",
+    "collection": "<a href=’https://galleriaborghese.beniculturali.it/' target='_blank'>Galleria Borghese<\/a>"
 }

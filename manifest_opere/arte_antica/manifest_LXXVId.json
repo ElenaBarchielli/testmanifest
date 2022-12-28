@@ -15,80 +15,56 @@
             "value": "-"
         },
         {
+            "label": "Number of Inventory",
+            "value": "LXXVId"
+        },
+        {
+            "label": "Location",
+            "value": "<a href='https://galleriaborghese.beniculturali.it/il-museo/la-villa/sala-1-sala-della-paolina/' target='_blank'>Sala I - Sala della Paolina<\/a> | <a href='https://raw.githubusercontent.com/ElenaBarchielli/testmanifest/main/manifest_panoramica/manifest_sala1.json' target='_blank'>manifest<\/a> | <a href='link al virtual tour' target='_blank'>Virtual Tour<\/a>"
+        },
+        {
             "label": "Date",
             "value": "fine I-inizio II secolo d.C."
-        },
-        {
-            "label": "Culture",
-            "value": "-"
-        },
-        {
-            "label": "Medium / Technique",
-            "value": "marmo bianco"
         },
         {
             "label": "Dimensions",
             "value": "altezza col busto cm 47; altezza testa cm 21"
         },
         {
-            "label": "Number of Inventory",
-            "value": "LXXVId"
-        },
-        {
-            "label": "Location",
-            "value": "<a href='https://galleriaborghese.beniculturali.it/il-museo/la-villa/sala-1-sala-della-paolina/' target='_blank'>Sala I - Sala della Paolina<\/a> | <a href='https://raw.githubusercontent.com/ElenaBarchielli/testmanifest/main/manifest_panoramica/manifest_sala1.json' target='_blank'>manifest<\/a>"
-        },
-        {
-            "label": "Place Created",
-            "value": "-"
-        },
-        {
-            "label": "Signature(s)",
-            "value": "-"
-        },
-        {
-            "label": "Mark(s)",
-            "value": "-"
-        },
-        {
             "label": "Classification",
             "value": "<a href='https://www.collezionegalleriaborghese.it/collezione/arte-antica' target='_blank'>Arte antica<\/a>"
         },
         {
-            "label": "Object Type",
-            "value": "-"
+            "label": "Medium / Technique",
+            "value": "marmo bianco"
         },
         {
-            "label": "Collection",
-            "value": "<a href=’https://galleriaborghese.beniculturali.it/' target='_blank'>Galleria Borghese<\/a>"
-        },
-        {
-            "label": "Rights Statement",
-            "value": "-"
-        },
-        {
-            "label": "Full Artwork Details",
-            "value": "La testa femminile, posta su un busto moderno, è provvista di una sofisticata acconciatura, che, a partire da una scriminatura centrale, si dispone simmetricamente in tre bande ondulate che lasciano scoperte le orecchie; alla sommità del capo i capelli si raccolgono in una treccia attorcigliata sulla nuca. Due sottili riccioli ad uncino sono disposti davanti alle orecchie. Il capo, volto verso destra, presenta nel viso morbidi lineamenti: la fronte è bassa; le sopracciglia arcuate e sottili confluiscono ai lati del naso dal dorso lineare e stretto. Gli occhi, amigdaloidi, sono sovrastati da palpebre gonfie. La bocca è formata da piccole labbra sottili. Il tipo di pettinatura sembra potersi ritenere una variante semplificata e meno voluminosa dell’iconografia ufficiale di età flavia. In particolare il ritratto Borghese trova confronti tipologici, soprattutto quanto al trattamento delle ciocche anteriori, con un esemplare conservato ai Musei Capitolini e datato alla prima età traianea (Baldassarri 2010, pp. 252-253), con un ritratto ai Musei Vaticani proveniente dal sepolcro degli Haterii (Giuliano 1957, p. 48, n. 52, tavv. 32-33) e con uno conservato a Copenaghen (Johansen 1995, pp. 40-41, n. 9). Una simile resa dell’acconciatura a ciocche ondulate con scriminatura centrale si ritrova nel ritratto di una fanciulla in un gruppo scultoreo a tutto tondo, conservato a Chatsworth House e datato in età flavia o, al più tardi, in epoca traianea (Furtwängler 1901, pp. 221-224). Il particolare il ricciolo ad uncino, raffigurato davanti alle orecchie, si può accostare a un secondo ritratto conservato ai Musei Capitolini e inquadrato tra la fine dell’età traianea e il principio di quella adrianea (Fittschen, Zanker 1985, p. 61, n. 82, tavv. 102-103). La scultura compare nel 1820 in una serie di busti affidati a Felice Festa per essere restaurati: “sette busti a cui si dovranno riadattare, e fare di nuovo i piedi mancanti, ristaurare i Busti med(esim)i dove fossero mancanti, polimentarli col piombo, e spoltrino quelli che si trovano di marmo mischio, senza potersi servire l’artista di vernice, o altra composizione per darvi il lustro” (B. 1005, n. 158: Moreno, Sforzini 1987, p. 348). Nel 1828 si ritrova, insieme ad altri sei busti, nella Nomenclatura degli oggetti di antica scultura, collocata in una nicchia della sala I (Moreno 1997, p. 92); sistemazione confermata dal Nibby nel 1841 (p. 913). La Calza inquadra la testa nel 150 d.C., datazione dalla quale si discosta il Moreno che identifica nel volto un ritratto, seppure con diverse varianti, di Flavia Domitilla, moglie di Vespasiano (1957, p. 15, n. 148; Moreno, Viacava 2003, pp. 151-152, n. 118). Il rendimento stilistico dell’esemplare Borghese, caratterizzato da un modellato piuttosto morbido e da un trattamento elegante dei capelli suggerisce una datazione tra la fine dell’epoca flavia e l’inizio di quella traianea. Giulia Ciccarello"
-        },
-        {
-            "label": "Frame",
-            "value": "-"
+            "label": "Provenance",
+            "value": "Collezione Borghese, citato per la prima volta in relazione al restauro affidato a Felice Festa nel 1820, è testimoniato in una nicchia della sala I, nel 1828, insieme ad altri sei busti (Moreno, Sforzini 1987, p. 348; Nomenclatura degli oggetti di antica scultura: Moreno 1997, p. 92); Inventario Fidecommissario Borghese, 1833, C., p. 44, n. 50; Acquisto dello Stato, 1902."
         },
         {
             "label": "Exhibitions",
             "value": "-"
         },
         {
-            "label": "Restauration",
+            "label": "Conservation and Diagnostic",
             "value": "    1820 - Felice Festa, 1996 - Consorzio Capitolino"
+        },
+        {
+            "label": "Status",
+            "value": "on view"
+        },
+        {
+            "label": "Full Artwork Details",
+            "value": "La testa femminile, posta su un busto moderno, è provvista di una sofisticata acconciatura, che, a partire da una scriminatura centrale, si dispone simmetricamente in tre bande ondulate che lasciano scoperte le orecchie; alla sommità del capo i capelli si raccolgono in una treccia attorcigliata sulla nuca. Due sottili riccioli ad uncino sono disposti davanti alle orecchie. Il capo, volto verso destra, presenta nel viso morbidi lineamenti: la fronte è bassa; le sopracciglia arcuate e sottili confluiscono ai lati del naso dal dorso lineare e stretto. Gli occhi, amigdaloidi, sono sovrastati da palpebre gonfie. La bocca è formata da piccole labbra sottili. Il tipo di pettinatura sembra potersi ritenere una variante semplificata e meno voluminosa dell’iconografia ufficiale di età flavia. In particolare il ritratto Borghese trova confronti tipologici, soprattutto quanto al trattamento delle ciocche anteriori, con un esemplare conservato ai Musei Capitolini e datato alla prima età traianea (Baldassarri 2010, pp. 252-253), con un ritratto ai Musei Vaticani proveniente dal sepolcro degli Haterii (Giuliano 1957, p. 48, n. 52, tavv. 32-33) e con uno conservato a Copenaghen (Johansen 1995, pp. 40-41, n. 9). Una simile resa dell’acconciatura a ciocche ondulate con scriminatura centrale si ritrova nel ritratto di una fanciulla in un gruppo scultoreo a tutto tondo, conservato a Chatsworth House e datato in età flavia o, al più tardi, in epoca traianea (Furtwängler 1901, pp. 221-224). Il particolare il ricciolo ad uncino, raffigurato davanti alle orecchie, si può accostare a un secondo ritratto conservato ai Musei Capitolini e inquadrato tra la fine dell’età traianea e il principio di quella adrianea (Fittschen, Zanker 1985, p. 61, n. 82, tavv. 102-103). La scultura compare nel 1820 in una serie di busti affidati a Felice Festa per essere restaurati: “sette busti a cui si dovranno riadattare, e fare di nuovo i piedi mancanti, ristaurare i Busti med(esim)i dove fossero mancanti, polimentarli col piombo, e spoltrino quelli che si trovano di marmo mischio, senza potersi servire l’artista di vernice, o altra composizione per darvi il lustro” (B. 1005, n. 158: Moreno, Sforzini 1987, p. 348). Nel 1828 si ritrova, insieme ad altri sei busti, nella Nomenclatura degli oggetti di antica scultura, collocata in una nicchia della sala I (Moreno 1997, p. 92); sistemazione confermata dal Nibby nel 1841 (p. 913). La Calza inquadra la testa nel 150 d.C., datazione dalla quale si discosta il Moreno che identifica nel volto un ritratto, seppure con diverse varianti, di Flavia Domitilla, moglie di Vespasiano (1957, p. 15, n. 148; Moreno, Viacava 2003, pp. 151-152, n. 118). Il rendimento stilistico dell’esemplare Borghese, caratterizzato da un modellato piuttosto morbido e da un trattamento elegante dei capelli suggerisce una datazione tra la fine dell’epoca flavia e l’inizio di quella traianea. Giulia Ciccarello"
         },
         {
             "label": "Bibliography",
             "value": "-"
         },
         {
-            "label": "Provenance",
-            "value": "Collezione Borghese, citato per la prima volta in relazione al restauro affidato a Felice Festa nel 1820, è testimoniato in una nicchia della sala I, nel 1828, insieme ad altri sei busti (Moreno, Sforzini 1987, p. 348; Nomenclatura degli oggetti di antica scultura: Moreno 1997, p. 92); Inventario Fidecommissario Borghese, 1833, C., p. 44, n. 50; Acquisto dello Stato, 1902."
+            "label": "Rights Statement",
+            "value": "-"
         }
     ],
     "thumbnail": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif/full/full/0/default.jpg",
@@ -163,5 +139,6 @@
         }
     ],
     "license": "https://galleriaborghese.beniculturali.it/info/foto-e-video/",
-    "related": "https://www.collezionegalleriaborghese.it/opere/ritratto-di-donna-con-pettinatura-tipo-flavia-domitilla"
+    "related": "https://www.collezionegalleriaborghese.it/opere/ritratto-di-donna-con-pettinatura-tipo-flavia-domitilla",
+    "collection": "<a href=’https://galleriaborghese.beniculturali.it/' target='_blank'>Galleria Borghese<\/a>"
 }

@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://raw.githubusercontent.com/ElenaBarchielli/testmanifest/main/manifest_opere/arte_antica/manifest_LXII.json",
+    "@id": "https://raw.githubusercontent.com/ElenaBarchielli/testmanifest/main/manifest_opere/arte_antica.json",
     "@type": "sc:Manifest",
     "label": "Gruppo di Leda seduta con cigno ed Eros, ritratto di Antonia Minore, inizio III d.C. (gruppo); circa 35 d.C. (testa)",
     "description": "La scultura ritrae Leda, semisdraiata, lungo la riva del fiume Eurota. Sulla figura, coperta solo in parte da un panneggio, è adagiato un cigno che le lambisce il seno destro. Dietro di lei compare un Erote dolcemente poggiato al suo braccio sinistro. Il gruppo scultoreo è stato ritenuto moderno fino a recenti interventi di restauro che  hanno individuato l’antichità del nucleo originario, reintegrato nelle parti mancanti nel XIX secolo. La testa, non pertinente, è considerata un ritratto di Antonia Minore, sorella di Augusto e madre dell’imperatore Claudio. Nel 1826 risulta posta nel Giardino del Lago della Villa Borghese, mentre, nel 1832, appare collocata nella sua attuale sistemazione nella sala I.",
@@ -15,80 +15,56 @@
             "value": "-"
         },
         {
+            "label": "Number of Inventory",
+            "value": "LXII"
+        },
+        {
+            "label": "Location",
+            "value": "<a href='https://galleriaborghese.beniculturali.it/il-museo/la-villa/sala-1-sala-della-paolina/' target='_blank'>Sala I - Sala della Paolina<\/a> | <a href='https://raw.githubusercontent.com/ElenaBarchielli/testmanifest/main/manifest_panoramica/manifest_sala1.json' target='_blank'>manifest<\/a> | <a href='link al virtual tour' target='_blank'>Virtual Tour<\/a>"
+        },
+        {
             "label": "Date",
             "value": "inizio III d.C. (gruppo); circa 35 d.C. (testa)"
-        },
-        {
-            "label": "Culture",
-            "value": "-"
-        },
-        {
-            "label": "Medium / Technique",
-            "value": "marmo di Paro (gruppo); marmo di Luni (testa)"
         },
         {
             "label": "Dimensions",
             "value": "altezza cm 120; larghezza cm 158; testa cm 30"
         },
         {
-            "label": "Number of Inventory",
-            "value": "LXII"
-        },
-        {
-            "label": "Location",
-            "value": "<a href='https://galleriaborghese.beniculturali.it/il-museo/la-villa/sala-1-sala-della-paolina/' target='_blank'>Sala I - Sala della Paolina<\/a> | <a href='https://raw.githubusercontent.com/ElenaBarchielli/testmanifest/main/manifest_panoramica/manifest_sala1.json' target='_blank'>manifest<\/a>"
-        },
-        {
-            "label": "Place Created",
-            "value": "-"
-        },
-        {
-            "label": "Signature(s)",
-            "value": "-"
-        },
-        {
-            "label": "Mark(s)",
-            "value": "-"
-        },
-        {
             "label": "Classification",
             "value": "<a href='https://www.collezionegalleriaborghese.it/collezione/arte-antica' target='_blank'>Arte antica<\/a>"
         },
         {
-            "label": "Object Type",
-            "value": "-"
+            "label": "Medium / Technique",
+            "value": "marmo di Paro (gruppo); marmo di Luni (testa)"
         },
         {
-            "label": "Collection",
-            "value": "<a href=’https://galleriaborghese.beniculturali.it/' target='_blank'>Galleria Borghese<\/a>"
-        },
-        {
-            "label": "Rights Statement",
-            "value": "-"
-        },
-        {
-            "label": "Full Artwork Details",
-            "value": " '(Aracne) raffigura Leda mentre supina giace sotto le ali di un cigno' (Ovidio, Metamorfosi VI, v. 109) La scultura compare nel Giardino del Lago della Villa Borghese in una missiva del Ministro Evasio Gozzani al Principe Camillo Borghese del 1826. Nel regesto di Statue e Oggetti di Scultura esistenti a Villa Borghese, e giudicati degni di Ristauro è menzionata tra le opere destinate ad arricchire, nuovamente, le sale svuotate dalla depredazione napoleonica del 1809; il restauro viene stimato “225 scudi” (Archivio Segreto Vaticano, AB, b. 7457: Moreno, Sforzini 1987, pp. 350, 353). Il Nibby nel 1832 la ricorda nella sua attuale collocazione nella sala I (Nibby 1832, p. 61). La giovane Leda, semidistesa, è adagiata con il gomito sinistro ad una roccia presso le rive del fiume Eurota. La figura è nuda, fatta eccezione per un panneggio che, steso al suolo, ne riveste il braccio sinistro e la gamba destra, lievemente flessa per sorreggere il cigno su di lei. Il braccio sinistro è decorato da un’armilla, un bracciale, e nella mano trattiene una corona floreale. Alle sue spalle è presente un piccolo Erote ritratto proteso con lo sguardo rivolto verso la figura femminile che accarezza dolcemente con la mano destra. Il cigno, con ali spiegate e collo ritorto, le sfiora il seno destro con il becco. Secondo la tradizione Zeus, innamoratosi di Leda, si unì con lei sulle rive del fiume Eurota avendo preso le sembianze di un cigno. La donna, che ingenuamente lo proteggeva dall’attacco di un’aquila, nascondendolo sotto il suo mantello, depose dopo l’amplesso un uovo da cui nacquero Polluce ed Elena. Il gruppo scultoreo è stato considerato nel passato in gran parte moderno a eccezione della testa, nella quale si era individuato un ritratto di epoca imperiale (Venturi 1893, p. 20; De Rinaldis 1935, p. 8; Calza 1957, p. 11, n. 82; Moreno 1980, p. 11). Nell’intervento di restauro del 1996 sono stati riconosciuti antichi parte della roccia con le gambe, il torso, parte del panneggio, l’armilla al braccio sinistro e la corona floreale nella mano, l’inizio del puntello verticale che partiva dalla gamba destra per sorreggere il cigno e l’ala sinistra di quest’ultimo; nella figura dell’Erote, il torso (Moreno 1997, pp. 76, 85-86). Nel ritratto sembra verosimile riconoscere la figura di Antonia Minore, figlia del triumviro Marco Antonio e di Ottavia, sorella di Augusto. Andata in sposa, nel 17 a.C., a Druso Maggiore avrà da lui tre figli, Germanico, Claudia Livilla, e Claudio, il futuro imperatore. La testa Borghese, dalla superficie morbida e sfumata, poggia sul collo esile e slanciato. Il volto, di forma triangolare e con un lieve accenno di doppio mento, presenta una bocca piccola con labbra strette e guance dal delicato incarnato; gli occhi sono allungati e la fronte breve. I capelli, resi da morbide ciocche, sono scriminati al centro e trattenuti sulla fronte da una tenia. Dinanzi alle tempie e alle orecchie è presente un gruppo di riccioli chiusi ad anello, il cui foro è stato praticato dal trapano. Nella parte posteriore della nuca la lavorazione appare più semplificata con ciocche appena accennate, che, trattenute da un anello moderno, scendono lungo il collo sulle spalle. Karin Polaschek definisce due serie di repliche dei ritratti di Antonia, inquadrabili entrambe in epoca tardo Tiberiana. Uno più semplice, il Einfacher Typus, nel quale la capigliatura è suddivisa al centro della testa e riunita alla nuca in un lento nodo, assicurato da un nastro, mentre sotto la partizione centrale, i capelli formano quattro distinte onde su ciascun lato della testa. Un secondo tipo, invece, il Schäfenlöckchen Typus, differisce dal primo principalmente nel trattamento della capigliatura: due ampi riccioli coprono il filetto nei punti dove entra nei capelli, e la linea della capigliatura è decorata con pochi boccoli tra le tempie e le orecchie. Le due tipologie appaiono sulle monete coniate in memoria di Antonia Minore durante il principato di suo figlio Claudio (Polaschek 1973, pp. 25-30, tav. 9, 1; 10, 1; 14, 1). Il Fittschen inserisce il ritratto nel secondo tipo individuato dalla Polaschek e ne specifica una particolare variante con fascia. L’autore individua, inoltre, come confronto particolarmente pertinente due teste, dello stesso soggetto, conservate nel Museo di Schloss Erbach (Fittschen 1977, p. 61). Lo Small ipotizza che le due lunghe ciocche ai lati della testa, aggiunte secondo la Polaschek nell’adattamento al gruppo scultoreo nel XVIII secolo, siano in realtà presenti anche in antico. L’autore le individua, inoltre, nel tipo a larga spirale diffuso nel tardo periodo augusteo, fino al regno di Claudio (Small 1990, pp. 222-223). Per quanto riguarda l’inquadramento cronologico del gruppo scultoreo Borghese appare verisimile ritenere la testa una produzione di epoca tardo tiberiana, momento nel quale Antonia Minore godette del favore imperiale. Il resto della scultura, fortemente restaurato, sembra potersi inquadrare negli inizi del III secolo d.C. Giulia Ciccarello"
-        },
-        {
-            "label": "Frame",
-            "value": "-"
+            "label": "Provenance",
+            "value": "Collezione Borghese, citato per la prima volta nel Giardino del Lago dal Ministro Evasio Gozzani, nel 1826 (Moreno, Sforzini 1987, pp. 350, 353); Inventario Fidecommissario Borghese, 1833, C., p. 44, n. 40. Acquisto dello Stato, 1902."
         },
         {
             "label": "Exhibitions",
             "value": "-"
         },
         {
-            "label": "Restauration",
+            "label": "Conservation and Diagnostic",
             "value": "XIX secolo, Integrazioni della testa con altra antica, del braccio destro, del cigno, della parte superiore dell’erote. 1996-1997 Consorzio Capitolino di Elisabetta Zatti ed Elisabetta Caracciolo"
+        },
+        {
+            "label": "Status",
+            "value": "on view"
+        },
+        {
+            "label": "Full Artwork Details",
+            "value": " '(Aracne) raffigura Leda mentre supina giace sotto le ali di un cigno' (Ovidio, Metamorfosi VI, v. 109) La scultura compare nel Giardino del Lago della Villa Borghese in una missiva del Ministro Evasio Gozzani al Principe Camillo Borghese del 1826. Nel regesto di Statue e Oggetti di Scultura esistenti a Villa Borghese, e giudicati degni di Ristauro è menzionata tra le opere destinate ad arricchire, nuovamente, le sale svuotate dalla depredazione napoleonica del 1809; il restauro viene stimato “225 scudi” (Archivio Segreto Vaticano, AB, b. 7457: Moreno, Sforzini 1987, pp. 350, 353). Il Nibby nel 1832 la ricorda nella sua attuale collocazione nella sala I (Nibby 1832, p. 61). La giovane Leda, semidistesa, è adagiata con il gomito sinistro ad una roccia presso le rive del fiume Eurota. La figura è nuda, fatta eccezione per un panneggio che, steso al suolo, ne riveste il braccio sinistro e la gamba destra, lievemente flessa per sorreggere il cigno su di lei. Il braccio sinistro è decorato da un’armilla, un bracciale, e nella mano trattiene una corona floreale. Alle sue spalle è presente un piccolo Erote ritratto proteso con lo sguardo rivolto verso la figura femminile che accarezza dolcemente con la mano destra. Il cigno, con ali spiegate e collo ritorto, le sfiora il seno destro con il becco. Secondo la tradizione Zeus, innamoratosi di Leda, si unì con lei sulle rive del fiume Eurota avendo preso le sembianze di un cigno. La donna, che ingenuamente lo proteggeva dall’attacco di un’aquila, nascondendolo sotto il suo mantello, depose dopo l’amplesso un uovo da cui nacquero Polluce ed Elena. Il gruppo scultoreo è stato considerato nel passato in gran parte moderno a eccezione della testa, nella quale si era individuato un ritratto di epoca imperiale (Venturi 1893, p. 20; De Rinaldis 1935, p. 8; Calza 1957, p. 11, n. 82; Moreno 1980, p. 11). Nell’intervento di restauro del 1996 sono stati riconosciuti antichi parte della roccia con le gambe, il torso, parte del panneggio, l’armilla al braccio sinistro e la corona floreale nella mano, l’inizio del puntello verticale che partiva dalla gamba destra per sorreggere il cigno e l’ala sinistra di quest’ultimo; nella figura dell’Erote, il torso (Moreno 1997, pp. 76, 85-86). Nel ritratto sembra verosimile riconoscere la figura di Antonia Minore, figlia del triumviro Marco Antonio e di Ottavia, sorella di Augusto. Andata in sposa, nel 17 a.C., a Druso Maggiore avrà da lui tre figli, Germanico, Claudia Livilla, e Claudio, il futuro imperatore. La testa Borghese, dalla superficie morbida e sfumata, poggia sul collo esile e slanciato. Il volto, di forma triangolare e con un lieve accenno di doppio mento, presenta una bocca piccola con labbra strette e guance dal delicato incarnato; gli occhi sono allungati e la fronte breve. I capelli, resi da morbide ciocche, sono scriminati al centro e trattenuti sulla fronte da una tenia. Dinanzi alle tempie e alle orecchie è presente un gruppo di riccioli chiusi ad anello, il cui foro è stato praticato dal trapano. Nella parte posteriore della nuca la lavorazione appare più semplificata con ciocche appena accennate, che, trattenute da un anello moderno, scendono lungo il collo sulle spalle. Karin Polaschek definisce due serie di repliche dei ritratti di Antonia, inquadrabili entrambe in epoca tardo Tiberiana. Uno più semplice, il Einfacher Typus, nel quale la capigliatura è suddivisa al centro della testa e riunita alla nuca in un lento nodo, assicurato da un nastro, mentre sotto la partizione centrale, i capelli formano quattro distinte onde su ciascun lato della testa. Un secondo tipo, invece, il Schäfenlöckchen Typus, differisce dal primo principalmente nel trattamento della capigliatura: due ampi riccioli coprono il filetto nei punti dove entra nei capelli, e la linea della capigliatura è decorata con pochi boccoli tra le tempie e le orecchie. Le due tipologie appaiono sulle monete coniate in memoria di Antonia Minore durante il principato di suo figlio Claudio (Polaschek 1973, pp. 25-30, tav. 9, 1; 10, 1; 14, 1). Il Fittschen inserisce il ritratto nel secondo tipo individuato dalla Polaschek e ne specifica una particolare variante con fascia. L’autore individua, inoltre, come confronto particolarmente pertinente due teste, dello stesso soggetto, conservate nel Museo di Schloss Erbach (Fittschen 1977, p. 61). Lo Small ipotizza che le due lunghe ciocche ai lati della testa, aggiunte secondo la Polaschek nell’adattamento al gruppo scultoreo nel XVIII secolo, siano in realtà presenti anche in antico. L’autore le individua, inoltre, nel tipo a larga spirale diffuso nel tardo periodo augusteo, fino al regno di Claudio (Small 1990, pp. 222-223). Per quanto riguarda l’inquadramento cronologico del gruppo scultoreo Borghese appare verisimile ritenere la testa una produzione di epoca tardo tiberiana, momento nel quale Antonia Minore godette del favore imperiale. Il resto della scultura, fortemente restaurato, sembra potersi inquadrare negli inizi del III secolo d.C. Giulia Ciccarello"
         },
         {
             "label": "Bibliography",
             "value": "-"
         },
         {
-            "label": "Provenance",
-            "value": "Collezione Borghese, citato per la prima volta nel Giardino del Lago dal Ministro Evasio Gozzani, nel 1826 (Moreno, Sforzini 1987, pp. 350, 353); Inventario Fidecommissario Borghese, 1833, C., p. 44, n. 40. Acquisto dello Stato, 1902."
+            "label": "Rights Statement",
+            "value": "-"
         }
     ],
     "thumbnail": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif/full/full/0/default.jpg",
@@ -163,5 +139,6 @@
         }
     ],
     "license": "https://galleriaborghese.beniculturali.it/info/foto-e-video/",
-    "related": "https://www.collezionegalleriaborghese.it/opere/gruppo-di-leda-seduta-con-cigno-ed-eros-ritratto-di-antonia-minore"
+    "related": "https://www.collezionegalleriaborghese.it/opere/gruppo-di-leda-seduta-con-cigno-ed-eros-ritratto-di-antonia-minore",
+    "collection": "<a href=’https://galleriaborghese.beniculturali.it/' target='_blank'>Galleria Borghese<\/a>"
 }

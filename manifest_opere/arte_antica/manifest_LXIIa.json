@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://raw.githubusercontent.com/ElenaBarchielli/testmanifest/main/manifest_opere/arte_antica/manifest_LXIIa.json",
+    "@id": "https://raw.githubusercontent.com/ElenaBarchielli/testmanifest/main/manifest_opere/arte_antica.json",
     "@type": "sc:Manifest",
     "label": "Trapezoforo, erma doppia con maschere, frammenti eterogenei composti arbitrariamente in età moderna, I sec. d.C.",
     "description": "La composizione è costituita dall’accostamento di frammenti eterogenei, tra i quali appare antico solo il trapezoforo con candelabra vegetale e zampe ferine ai lati. La scultura è assemblata, probabilmente, entro il 1828, per essere posta al lato del Gruppo di Leda giacente con il cigno, durante il nuovo allestimento museale della sala I, avvenuto in occasione del ripristino della raccolta di scultura antica successivamente alla vendita della collezione archeologica da parte di Camillo Borghese al cognato Napoleone.",
@@ -15,80 +15,56 @@
             "value": "-"
         },
         {
+            "label": "Number of Inventory",
+            "value": "LXIIa"
+        },
+        {
+            "label": "Location",
+            "value": "<a href='https://galleriaborghese.beniculturali.it/il-museo/la-villa/sala-1-sala-della-paolina/' target='_blank'>Sala I - Sala della Paolina<\/a> | <a href='https://raw.githubusercontent.com/ElenaBarchielli/testmanifest/main/manifest_panoramica/manifest_sala1.json' target='_blank'>manifest<\/a> | <a href='link al virtual tour' target='_blank'>Virtual Tour<\/a>"
+        },
+        {
             "label": "Date",
             "value": "I sec. d.C."
-        },
-        {
-            "label": "Culture",
-            "value": "-"
-        },
-        {
-            "label": "Medium / Technique",
-            "value": "marmo giallo antico (trapezoforo); marmo bianco (maschere)"
         },
         {
             "label": "Dimensions",
             "value": "altezza cm 86; altezza solo trapezoforo cm 55; larghezza cm 201"
         },
         {
-            "label": "Number of Inventory",
-            "value": "LXIIa"
-        },
-        {
-            "label": "Location",
-            "value": "<a href='https://galleriaborghese.beniculturali.it/il-museo/la-villa/sala-1-sala-della-paolina/' target='_blank'>Sala I - Sala della Paolina<\/a> | <a href='https://raw.githubusercontent.com/ElenaBarchielli/testmanifest/main/manifest_panoramica/manifest_sala1.json' target='_blank'>manifest<\/a>"
-        },
-        {
-            "label": "Place Created",
-            "value": "-"
-        },
-        {
-            "label": "Signature(s)",
-            "value": "-"
-        },
-        {
-            "label": "Mark(s)",
-            "value": "-"
-        },
-        {
             "label": "Classification",
             "value": "<a href='https://www.collezionegalleriaborghese.it/collezione/arte-antica' target='_blank'>Arte antica<\/a>"
         },
         {
-            "label": "Object Type",
-            "value": "-"
+            "label": "Medium / Technique",
+            "value": "marmo giallo antico (trapezoforo); marmo bianco (maschere)"
         },
         {
-            "label": "Collection",
-            "value": "<a href=’https://galleriaborghese.beniculturali.it/' target='_blank'>Galleria Borghese<\/a>"
-        },
-        {
-            "label": "Rights Statement",
-            "value": "-"
-        },
-        {
-            "label": "Full Artwork Details",
-            "value": "L’elemento è ricordato, con un secondo che fa da pendant, nella Nomenclatura degli oggetti di antica scultura del 1828 nella sala I, insieme al Gruppo di Leda Giacente con il cigno: “alli due lati della medesima due frammenti di ornato uno con Erma, l’altro con cista mistica” e ancora “Sostegno di trapezoforo; Erma doppia con maschere; cista mistica” (Archivio Apostolico Vaticano, Archivio Borghese, b. 348, fasc. 33: Moreno 1997, pp. 91-92, 112). Si tratta di una composizione di frammenti eterogenei uniti in epoca moderna, probabilmente in occasione dell’allestimento della sala. Si conserva antico il trapezoforo composto da due zampe ferine arcuate laterali con candelabra frontali, sul quale è stata posta una corona vegetale di foglie di grandi dimensioni e un’erma doppia con maschere, di fattura moderna. I candelabra sono decorati da un motivo vegetale a colonna, composto da una pianta che si diparte da un bocciolo inferiore e termina in un fiore con petali arricciati. La scultura, dal carattere puramente decorativo, si può inserire nelle composizioni definite “chimeriche”, costituite dall’accostamento di elementi dissonanti, in questo caso parte antichi e parte di ispirazione antica. La delicata cura nella resa plastica delle foglie dei candelabra suggerisce per il frammento antico un inquadramento cronologico nel I secolo d.C. Giulia Ciccarello"
-        },
-        {
-            "label": "Frame",
-            "value": "-"
+            "label": "Provenance",
+            "value": "Collezione Borghese, ricordato nella Nomenclatura del 1828 (Archivio Apostolico Vaticano, Archivio Borghese, b. 348, fasc. 33: Moreno 1997, pp. 91, 112); Inventario Fidecommissario Borghese, 1833, C., p. 44, n. 40. Acquisto dello Stato, 1902.."
         },
         {
             "label": "Exhibitions",
             "value": "-"
         },
         {
-            "label": "Restauration",
+            "label": "Conservation and Diagnostic",
             "value": "ante 1828 restauro e integrazione di parti. 1996-97 Consorzio Capitolino di Elisabetta Zatti ed Elisabetta Caracciolo"
+        },
+        {
+            "label": "Status",
+            "value": "on view"
+        },
+        {
+            "label": "Full Artwork Details",
+            "value": "L’elemento è ricordato, con un secondo che fa da pendant, nella Nomenclatura degli oggetti di antica scultura del 1828 nella sala I, insieme al Gruppo di Leda Giacente con il cigno: “alli due lati della medesima due frammenti di ornato uno con Erma, l’altro con cista mistica” e ancora “Sostegno di trapezoforo; Erma doppia con maschere; cista mistica” (Archivio Apostolico Vaticano, Archivio Borghese, b. 348, fasc. 33: Moreno 1997, pp. 91-92, 112). Si tratta di una composizione di frammenti eterogenei uniti in epoca moderna, probabilmente in occasione dell’allestimento della sala. Si conserva antico il trapezoforo composto da due zampe ferine arcuate laterali con candelabra frontali, sul quale è stata posta una corona vegetale di foglie di grandi dimensioni e un’erma doppia con maschere, di fattura moderna. I candelabra sono decorati da un motivo vegetale a colonna, composto da una pianta che si diparte da un bocciolo inferiore e termina in un fiore con petali arricciati. La scultura, dal carattere puramente decorativo, si può inserire nelle composizioni definite “chimeriche”, costituite dall’accostamento di elementi dissonanti, in questo caso parte antichi e parte di ispirazione antica. La delicata cura nella resa plastica delle foglie dei candelabra suggerisce per il frammento antico un inquadramento cronologico nel I secolo d.C. Giulia Ciccarello"
         },
         {
             "label": "Bibliography",
             "value": "-"
         },
         {
-            "label": "Provenance",
-            "value": "Collezione Borghese, ricordato nella Nomenclatura del 1828 (Archivio Apostolico Vaticano, Archivio Borghese, b. 348, fasc. 33: Moreno 1997, pp. 91, 112); Inventario Fidecommissario Borghese, 1833, C., p. 44, n. 40. Acquisto dello Stato, 1902.."
+            "label": "Rights Statement",
+            "value": "-"
         }
     ],
     "thumbnail": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif/full/full/0/default.jpg",
@@ -163,5 +139,6 @@
         }
     ],
     "license": "https://galleriaborghese.beniculturali.it/info/foto-e-video/",
-    "related": "https://www.collezionegalleriaborghese.it/opere/trapezoforo-erma-doppia-con-maschere-frammenti-eterogenei-composti-arbitrariamente-in-eta-moderna"
+    "related": "https://www.collezionegalleriaborghese.it/opere/trapezoforo-erma-doppia-con-maschere-frammenti-eterogenei-composti-arbitrariamente-in-eta-moderna",
+    "collection": "<a href=’https://galleriaborghese.beniculturali.it/' target='_blank'>Galleria Borghese<\/a>"
 }

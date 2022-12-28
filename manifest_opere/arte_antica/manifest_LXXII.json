@@ -15,80 +15,56 @@
             "value": "-"
         },
         {
+            "label": "Number of Inventory",
+            "value": "LXXII"
+        },
+        {
+            "label": "Location",
+            "value": "<a href='https://galleriaborghese.beniculturali.it/il-museo/la-villa/sala-1-sala-della-paolina/' target='_blank'>Sala I - Sala della Paolina<\/a> | <a href='https://raw.githubusercontent.com/ElenaBarchielli/testmanifest/main/manifest_panoramica/manifest_sala1.json' target='_blank'>manifest<\/a> | <a href='link al virtual tour' target='_blank'>Virtual Tour<\/a>"
+        },
+        {
             "label": "Date",
             "value": "II secolo d.C."
-        },
-        {
-            "label": "Culture",
-            "value": "-"
-        },
-        {
-            "label": "Medium / Technique",
-            "value": "marmo di Paro (gruppo); marmo di Luni (testa)"
         },
         {
             "label": "Dimensions",
             "value": "altezza cm 120; larghezza cm 158; testa cm 30"
         },
         {
-            "label": "Number of Inventory",
-            "value": "LXXII"
-        },
-        {
-            "label": "Location",
-            "value": "<a href='https://galleriaborghese.beniculturali.it/il-museo/la-villa/sala-1-sala-della-paolina/' target='_blank'>Sala I - Sala della Paolina<\/a> | <a href='https://raw.githubusercontent.com/ElenaBarchielli/testmanifest/main/manifest_panoramica/manifest_sala1.json' target='_blank'>manifest<\/a>"
-        },
-        {
-            "label": "Place Created",
-            "value": "-"
-        },
-        {
-            "label": "Signature(s)",
-            "value": "-"
-        },
-        {
-            "label": "Mark(s)",
-            "value": "-"
-        },
-        {
             "label": "Classification",
             "value": "<a href='https://www.collezionegalleriaborghese.it/collezione/arte-antica' target='_blank'>Arte antica<\/a>"
         },
         {
-            "label": "Object Type",
-            "value": "-"
+            "label": "Medium / Technique",
+            "value": "marmo di Paro (gruppo); marmo di Luni (testa)"
         },
         {
-            "label": "Collection",
-            "value": "<a href=’https://galleriaborghese.beniculturali.it/' target='_blank'>Galleria Borghese<\/a>"
-        },
-        {
-            "label": "Rights Statement",
-            "value": "-"
-        },
-        {
-            "label": "Full Artwork Details",
-            "value": "La scultura è composta da elementi di differente provenienza, assemblati probabilmente con l’intenzione di creare un pendant al gruppo della Leda con cigno presente nella parete opposta della sala (Inv. LXII). Il Manilli nel 1650 ricorda “nell’ordine di sopra della facciata”, nel II Recinto del Giardino del Lago, un gruppo in cima a una colonna, costituito da una “Venere à sedere, con la mano sopra una gamba, che tiene alzata”, nella quale è probabilmente da identificare l’opera in esame (p. 153). Anche il Montelatici nel 1700 parla di una “venere con una gamba alzata sopr’un ginocchio”, posta nella medesima collocazione; inoltre, fa menzione, nella camera delle Tre Grazie al secondo piano, di una “piccola statua d’un Amorino sedente” (p. 301). Il Nibby nel 1832 indica il gruppo già composto nella sua odierna sistemazione, la sala I, definendolo: una “statua di Venere in marmo pario, assisa, nella mossa di asciugarsi”, ritenendola un “lavoro non ispregevole”. Nota, inoltre che “l’amorino che con occhio furbo la guarda ha molta espressione” (p. 65). Nello studio del 1841 cita, in più, la presenza di una ranocchia (p. 915). Il Venturi e il Giusti utilizzano per la descrizione della scultura la stessa espressione: “gruppo rappresentante Venere in atto di acconciarsi e Amore assistente” (1893 p. 21; 1904 p. 21). Il Moreno ritiene l’opera una rielaborazione moderna, composta da elementi inquadrabili nella prima metà del II secolo d.C., elaborati su modelli ellenistici di periodi diversi (2003, p. 159, n. 128). Il gruppo è composto da una figura femminile assisa su una roccia, nuda ad eccezione di un panneggio adagiato sulla gamba destra. Le gambe sono flesse, quella destra avanzata e quella sinistra nascosta dietro la roccia. Il capo è rivolto frontalmente, diretto, nella composizione moderna, ad una figura di Erote alato, seduto davanti a lei. La giovane figura, nuda, poggia entrambe le mani sul ginocchio sinistro portato al petto e indirizza il capo, di restauro, verso la donna. Nel basamento è presente una piccola ranocchia al di sotto del piede della donna e un delfino nascosto tra le gambe. L’elegante posizione della donna sembra richiamare la ninfa dell’invito alla danza in un gruppo con satiro intento a suonare uno strumento, rinvenuti nel 1830 nell’area della Villa di Sette Bassi, oggi conservati nella collezione Torlonia (MT 21; MT 162: Settis, Gasparri 2020, pp. 192-195). Le sculture Borghese appaiono fortemente rilavorate e la disposizione moderna non permette l’individuazione dell’originario contesto. In base esclusivamente ad osservazioni stilistiche appare verisimile confermare la datazione proposta dal Moreno al II secolo d.C. Giulia Ciccarello"
-        },
-        {
-            "label": "Frame",
-            "value": "-"
+            "label": "Provenance",
+            "value": "Collezione Borghese, la figura femminile è citata per la prima volta nel II Recinto del Giardino del Lago, nel 1650 (Manilli, p. 153); l’Eros alato è menzionato nel 1700 nella camera delle Tre Grazie al secondo piano (Montelatici, p. 301). All’interno delle sale il gruppo si ritrova ricomposto nel 1832 nella sala I (Nibby, p. 65); Inventario Fidecommissario Borghese, 1833, C., p. 43, n. 36. Acquisto dello Stato, 1902."
         },
         {
             "label": "Exhibitions",
             "value": "-"
         },
         {
-            "label": "Restauration",
+            "label": "Conservation and Diagnostic",
             "value": "1906 - Romeo Lazzari: 'Attaccata un'anfora (..) Approfondito il buco e attaccato con un perno di (..)', 1913 - Cesare Fossi: 'Vasetto della Venere al bagno 'riattaccatura', 1922 - Cesare Fossi : 'Vasetto in una Venere riattaccato nella sala della Venere del Canova', 1996 - Consorzio Capitolino"
+        },
+        {
+            "label": "Status",
+            "value": "on view"
+        },
+        {
+            "label": "Full Artwork Details",
+            "value": "La scultura è composta da elementi di differente provenienza, assemblati probabilmente con l’intenzione di creare un pendant al gruppo della Leda con cigno presente nella parete opposta della sala (Inv. LXII). Il Manilli nel 1650 ricorda “nell’ordine di sopra della facciata”, nel II Recinto del Giardino del Lago, un gruppo in cima a una colonna, costituito da una “Venere à sedere, con la mano sopra una gamba, che tiene alzata”, nella quale è probabilmente da identificare l’opera in esame (p. 153). Anche il Montelatici nel 1700 parla di una “venere con una gamba alzata sopr’un ginocchio”, posta nella medesima collocazione; inoltre, fa menzione, nella camera delle Tre Grazie al secondo piano, di una “piccola statua d’un Amorino sedente” (p. 301). Il Nibby nel 1832 indica il gruppo già composto nella sua odierna sistemazione, la sala I, definendolo: una “statua di Venere in marmo pario, assisa, nella mossa di asciugarsi”, ritenendola un “lavoro non ispregevole”. Nota, inoltre che “l’amorino che con occhio furbo la guarda ha molta espressione” (p. 65). Nello studio del 1841 cita, in più, la presenza di una ranocchia (p. 915). Il Venturi e il Giusti utilizzano per la descrizione della scultura la stessa espressione: “gruppo rappresentante Venere in atto di acconciarsi e Amore assistente” (1893 p. 21; 1904 p. 21). Il Moreno ritiene l’opera una rielaborazione moderna, composta da elementi inquadrabili nella prima metà del II secolo d.C., elaborati su modelli ellenistici di periodi diversi (2003, p. 159, n. 128). Il gruppo è composto da una figura femminile assisa su una roccia, nuda ad eccezione di un panneggio adagiato sulla gamba destra. Le gambe sono flesse, quella destra avanzata e quella sinistra nascosta dietro la roccia. Il capo è rivolto frontalmente, diretto, nella composizione moderna, ad una figura di Erote alato, seduto davanti a lei. La giovane figura, nuda, poggia entrambe le mani sul ginocchio sinistro portato al petto e indirizza il capo, di restauro, verso la donna. Nel basamento è presente una piccola ranocchia al di sotto del piede della donna e un delfino nascosto tra le gambe. L’elegante posizione della donna sembra richiamare la ninfa dell’invito alla danza in un gruppo con satiro intento a suonare uno strumento, rinvenuti nel 1830 nell’area della Villa di Sette Bassi, oggi conservati nella collezione Torlonia (MT 21; MT 162: Settis, Gasparri 2020, pp. 192-195). Le sculture Borghese appaiono fortemente rilavorate e la disposizione moderna non permette l’individuazione dell’originario contesto. In base esclusivamente ad osservazioni stilistiche appare verisimile confermare la datazione proposta dal Moreno al II secolo d.C. Giulia Ciccarello"
         },
         {
             "label": "Bibliography",
             "value": "-"
         },
         {
-            "label": "Provenance",
-            "value": "Collezione Borghese, la figura femminile è citata per la prima volta nel II Recinto del Giardino del Lago, nel 1650 (Manilli, p. 153); l’Eros alato è menzionato nel 1700 nella camera delle Tre Grazie al secondo piano (Montelatici, p. 301). All’interno delle sale il gruppo si ritrova ricomposto nel 1832 nella sala I (Nibby, p. 65); Inventario Fidecommissario Borghese, 1833, C., p. 43, n. 36. Acquisto dello Stato, 1902."
+            "label": "Rights Statement",
+            "value": "-"
         }
     ],
     "thumbnail": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif/full/full/0/default.jpg",
@@ -163,5 +139,6 @@
         }
     ],
     "license": "https://galleriaborghese.beniculturali.it/info/foto-e-video/",
-    "related": "https://www.collezionegalleriaborghese.it/opere/statua-femminile-seduta-e-statua-di-eros-seduto"
+    "related": "https://www.collezionegalleriaborghese.it/opere/statua-femminile-seduta-e-statua-di-eros-seduto",
+    "collection": "<a href=’https://galleriaborghese.beniculturali.it/' target='_blank'>Galleria Borghese<\/a>"
 }

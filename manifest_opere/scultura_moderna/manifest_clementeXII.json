@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://raw.githubusercontent.com/ElenaBarchielli/testmanifest/main/manifest_opere/manifest_clementeXII.json",
+    "@id": "https://raw.githubusercontent.com/ElenaBarchielli/testmanifest/main/manifest_opere/scultura_moderna/manifest_clementeXII.json",
     "@type": "sc:Manifest",
     "label": "Busto di Clemente XII, Bracci Pietro",
     "description": "Il pontefice raffigurato con piglio austero in questo busto intensamente espressivo è il toscano Clemente XII Corsini; egli fu qui ritratto, probabilmente dal romano Pietro Bracci, con indosso il camauro, una stola finemente decorata e la mozzetta orlata di pelliccia e mossa da profonde pieghe. Il volto, serio e accigliato, è scolpito con una resa realistica delle rughe.  L’opera, non documentata nel diario in cui Pietro Bracci elencò tutte le opere da lui prodotte, gli è stata riferita dalla critica in seguito al confronto con un altro busto di Clemente XII, conservato presso la Galleria Nazionale d'Arte Antica di Roma. Per la datazione dell’opera si fa riferimento agli anni del pontificato di Clemente XII, anche se non ne è da escluderne un’esecuzione successiva.",
@@ -15,84 +15,56 @@
             "value": "Bracci Pietro (Roma 1700 - 1773)"
         },
         {
+            "label": "Number of Inventory",
+            "value": "CCLXXII"
+        },
+        {
+            "label": "Location",
+            "value": "<a href='https://galleriaborghese.beniculturali.it/il-museo/la-villa/sala-1-sala-della-paolina/' target='_blank'>Sala I - Sala della Paolina<\/a> | <a href='https://raw.githubusercontent.com/ElenaBarchielli/testmanifest/main/manifest_panoramica/manifest_sala1.json' target='_blank'>manifest<\/a> | <a href='link al virtual tour' target='_blank'>Virtual Tour<\/a>"
+        },
+        {
             "label": "Date",
             "value": "'700-'800"
-        },
-        {
-            "label": "Culture",
-            "value": "-"
-        },
-        {
-            "label": "Medium / Technique",
-            "value": "marble"
         },
         {
             "label": "Dimensions",
             "value": "h 76 cm (- × - in.)"
         },
         {
-            "label": "Number of Inventory",
-            "value": "CCLXXII"
-        },
-        {
-            "label": "Location",
-            "value": "<a href='https://galleriaborghese.beniculturali.it/il-museo/la-villa/sala-1-sala-della-paolina/' target='_blank'>Sala I - Sala della Paolina<\/a> | <a href='https://raw.githubusercontent.com/ElenaBarchielli/testmanifest/main/manifest_panoramica/manifest_sala1.json' target='_blank'>manifest<\/a>"
-        },
-        {
-            "label": "Currently exhibited",
-            "value": "No"
-        },
-        {
-            "label": "Place Created",
-            "value": "-"
-        },
-        {
-            "label": "Signature(s)",
-            "value": "-"
-        },
-        {
-            "label": "Mark(s)",
-            "value": "-"
-        },
-        {
             "label": "Classification",
             "value": "<a href='https://www.collezionegalleriaborghese.it/collezione/scultura' target='_blank'>Scultura Moderna<\/a>"
         },
         {
-            "label": "Object Type",
-            "value": "-"
+            "label": "Medium / Technique",
+            "value": "marble"
         },
         {
-            "label": "Collection",
-            "value": "<a href=’https://galleriaborghese.beniculturali.it/' target='_blank'>Galleria Borghese<\/a>"
-        },
-        {
-            "label": "Rights Statement",
-            "value": "-"
-        },
-        {
-            "label": "Full Artwork Details",
-            "value": "Il pontefice Clemente XII, con il capo coperto dal camauro, indossa una stola annodata all’altezza del petto e finemente decorata a volute – tra le quali si riconoscono il Triregno e lo stemma bandato alla fascia attraversante della famiglia Corsini –, e la mozzetta, orlata di pelliccia e mossa da pieghe profondamente scavate e volumetriche. Il volto, serio ed intensamente espressivo, è scolpito con una resa realistica delle rughe che restituisce appieno l’età avanzata del papa, salito al soglio quasi ottantenne.  Nato a Firenze nel 1652, il pontefice salì al soglio pontificio nel 1730 e nel decennio in cui regnò diede il via a numerosi importanti cantieri artistici romani, tra cui spiccano la fontana di Trevi, il palazzo della Consulta, le facciate di S. Giovanni in Laterano e S. Giovanni dei Fiorentini; nel 1734 egli inoltre dispose l'apertura al pubblico dei Musei Capitolini. Eseguito in un elegante stile tardo barocco, il busto è stato attribuito dalla critica a Pietro Bracci (De Rinaldis 1935, p. 8; Fokker 1938, p. 350, Della Pergola 1951, p. 8; Faldi 1954, p. 43) sulla base del confronto con l'altro busto di Clemente XII, attribuito al medesimo artista, conservato presso la Galleria Nazionale d'Arte Antica di Roma, nonostante non risulti citato nel diario che egli tenne a partire dal 1725, in cui elencò tutte le opere da lui prodotte. Riccoboni, invece, lo ricondusse piuttosto alla maniera dello scultore, ma non la considerò autografa (1942, p. 299). Di Pietro Bracci, nato a Roma da un intagliatore, la tradizione narra che prima di praticare la scultura abbia studiato filosofia e lettere presso i Gesuiti, tanto che nel 1724 era stato ammesso nell’Accademia dell’Arcadia con il nome di Gilisio Niddanio. Artisticamente si formò con Giuseppe Chiari per il disegno, e studiò scultura con Camillo Rusconi, il più noto scultore attivo a Roma nel primo quarto del Settecento (Honour 1971, pp. 620-623) La datazione del ritratto si riferisce in genere agli anni di pontificato di Clemente XII, sebbene non sia da escluderne un’esecuzione successiva alla morte del papa (Galleria Borghese, 2000, p. 76). Il ritratto di Clemente XII è presente nella Villa Borghese dal 1910, in seguito a una donazione dell'Istituto per Ciechi di Roma 0 (Faldi 1954, p. 43).       Sonja Felici"
-        },
-        {
-            "label": "Frame",
-            "value": "-"
+            "label": "Provenance",
+            "value": "Donazione dell’Ospedale Istituto dei Ciechi di Roma, 1910. "
         },
         {
             "label": "Exhibitions",
             "value": "-"
         },
         {
-            "label": "Restauration",
+            "label": "Conservation and Diagnostic",
             "value": "1920 Lario, 1996-1997 Consorzio Capitolino, 2020-2021 Opus"
+        },
+        {
+            "label": "Status",
+            "value": "on view"
+        },
+        {
+            "label": "Full Artwork Details",
+            "value": "Il pontefice Clemente XII, con il capo coperto dal camauro, indossa una stola annodata all’altezza del petto e finemente decorata a volute – tra le quali si riconoscono il Triregno e lo stemma bandato alla fascia attraversante della famiglia Corsini –, e la mozzetta, orlata di pelliccia e mossa da pieghe profondamente scavate e volumetriche. Il volto, serio ed intensamente espressivo, è scolpito con una resa realistica delle rughe che restituisce appieno l’età avanzata del papa, salito al soglio quasi ottantenne.  Nato a Firenze nel 1652, il pontefice salì al soglio pontificio nel 1730 e nel decennio in cui regnò diede il via a numerosi importanti cantieri artistici romani, tra cui spiccano la fontana di Trevi, il palazzo della Consulta, le facciate di S. Giovanni in Laterano e S. Giovanni dei Fiorentini; nel 1734 egli inoltre dispose l'apertura al pubblico dei Musei Capitolini. Eseguito in un elegante stile tardo barocco, il busto è stato attribuito dalla critica a Pietro Bracci (De Rinaldis 1935, p. 8; Fokker 1938, p. 350, Della Pergola 1951, p. 8; Faldi 1954, p. 43) sulla base del confronto con l'altro busto di Clemente XII, attribuito al medesimo artista, conservato presso la Galleria Nazionale d'Arte Antica di Roma, nonostante non risulti citato nel diario che egli tenne a partire dal 1725, in cui elencò tutte le opere da lui prodotte. Riccoboni, invece, lo ricondusse piuttosto alla maniera dello scultore, ma non la considerò autografa (1942, p. 299). Di Pietro Bracci, nato a Roma da un intagliatore, la tradizione narra che prima di praticare la scultura abbia studiato filosofia e lettere presso i Gesuiti, tanto che nel 1724 era stato ammesso nell’Accademia dell’Arcadia con il nome di Gilisio Niddanio. Artisticamente si formò con Giuseppe Chiari per il disegno, e studiò scultura con Camillo Rusconi, il più noto scultore attivo a Roma nel primo quarto del Settecento (Honour 1971, pp. 620-623) La datazione del ritratto si riferisce in genere agli anni di pontificato di Clemente XII, sebbene non sia da escluderne un’esecuzione successiva alla morte del papa (Galleria Borghese, 2000, p. 76). Il ritratto di Clemente XII è presente nella Villa Borghese dal 1910, in seguito a una donazione dell'Istituto per Ciechi di Roma 0 (Faldi 1954, p. 43).       Sonja Felici"
         },
         {
             "label": "Bibliography",
             "value": "-"
         },
         {
-            "label": "Provenance",
-            "value": "Donazione dell’Ospedale Istituto dei Ciechi di Roma, 1910. "
+            "label": "Rights Statement",
+            "value": "-"
         }
     ],
     "thumbnail": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/bracci-clemente.tif/full/full/0/default.jpg",
@@ -167,5 +139,6 @@
         }
     ],
     "license": "https://galleriaborghese.beniculturali.it/info/foto-e-video/",
-    "related": "https://www.collezionegalleriaborghese.it/opere/busto-di-clemente-xii"
+    "related": "https://www.collezionegalleriaborghese.it/opere/busto-di-clemente-xii",
+    "collection": "<a href=’https://galleriaborghese.beniculturali.it/' target='_blank'>Galleria Borghese<\/a>"
 }

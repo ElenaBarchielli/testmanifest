@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://raw.githubusercontent.com/ElenaBarchielli/testmanifest/main/manifest_opere/arte_antica/manifest_LXIV.json",
+    "@id": "https://raw.githubusercontent.com/ElenaBarchielli/testmanifest/main/manifest_opere/arte_antica.json",
     "@type": "sc:Manifest",
     "label": "Rilievo con Aiace e Cassandra presso il Palladio, I sec. d.C.",
     "description": "Il bassorilievo è decorato con la scena del “ratto di Cassandra”, l’oltraggioso stupro della principessa troiana compiuto da Aiace presso il santuario di Atena a Troia, qui evocato dal pilastro sulla sinistra e dal simulacro della dea, il Palladio, eretto su un piedistallo a gradini. Sulla sinistra l’eroe, nudo a eccezione del mantello aperto a ventaglio dietro le spalle, trascina a sé Cassandra, identificata anche dall’iscrizione [Cas]SA[ndra]. Nel tentativo disperato di opporsi alla presa dell’antagonista la donna, aggrappata al simulacro con la sinistra, lascia scivolare mantello e chitone lungo la spalla destra, scoprendo un seno. Parte di un più ampio fregio architettonico raffigurante probabilmente l’Iliupersis, il rilievo è un prodotto di una officina neoattica eseguito su modelli tarantini. Menzionato da Winckelmann nei sotterranei della Villa nel 1797, dal 1832 è segnalato nella sala I.",
@@ -15,80 +15,57 @@
             "value": "-"
         },
         {
+            "label": "Number of Inventory",
+            "value": "LXIV"
+        },
+        {
+            "label": "Location",
+            "value": "<a href='https://galleriaborghese.beniculturali.it/il-museo/la-villa/sala-1-sala-della-paolina/' target='_blank'>Sala I - Sala della Paolina<\/a> | <a href='https://raw.githubusercontent.com/ElenaBarchielli/testmanifest/main/manifest_panoramica/manifest_sala1.json' target='_blank'>manifest<\/a> | <a href='link al virtual tour' target='_blank'>Virtual Tour<\/a>"
+        },
+        {
             "label": "Date",
             "value": "I sec. d.C."
-        },
-        {
-            "label": "Culture",
-            "value": "-"
-        },
-        {
-            "label": "Medium / Technique",
-            "value": "marmo di Paros"
         },
         {
             "label": "Dimensions",
             "value": "cm. 84 x 84"
         },
         {
-            "label": "Number of Inventory",
-            "value": "LXIV"
-        },
-        {
-            "label": "Location",
-            "value": "<a href='https://galleriaborghese.beniculturali.it/il-museo/la-villa/sala-1-sala-della-paolina/' target='_blank'>Sala I - Sala della Paolina<\/a> | <a href='https://raw.githubusercontent.com/ElenaBarchielli/testmanifest/main/manifest_panoramica/manifest_sala1.json' target='_blank'>manifest<\/a>"
-        },
-        {
-            "label": "Place Created",
-            "value": "-"
-        },
-        {
-            "label": "Signature(s)",
-            "value": "-"
-        },
-        {
-            "label": "Mark(s)",
-            "value": "-"
-        },
-        {
             "label": "Classification",
             "value": "<a href='https://www.collezionegalleriaborghese.it/collezione/arte-antica' target='_blank'>Arte antica<\/a>"
         },
         {
-            "label": "Object Type",
-            "value": "-"
+            "label": "Medium / Technique",
+            "value": "marmo di Paros"
         },
         {
-            "label": "Collection",
-            "value": "<a href=’https://galleriaborghese.beniculturali.it/' target='_blank'>Galleria Borghese<\/a>"
-        },
-        {
-            "label": "Rights Statement",
-            "value": "-"
-        },
-        {
-            "label": "Full Artwork Details",
-            "value": " Il “bellissimo bassorilievo” visto da J. J. Winckelmann nei sotterranei della Villa nel 1797 venne probabilmente spostato nella sala I nell’ambito del nuovo riallestimento della palazzina promosso da Camillo Borghese tra il 1819 e il 1832, là dove è ricordato nelle guide del 1832-1838 da Antonio Nibby, utilizzato per la decorazione parietale e inserito in una cornice moderna.  La scena raffigurata è solo parte di un più ampio fregio, inquadrata fra un pilastro sulla sinistra e, all’estremità opposta, il simulacro divino di Atena – riconoscibile dall’egida stilizzata e dall’asta (ora perduta) nella destra – eretto su una base a gradini che evocano un ambiente templare. Le due figure, una maschile e l’altra femminile, sono rappresentate secondo uno schema divergente: a sinistra l’uomo, con indosso solo il mantello fermato al collo da una fibula e aperto a ventaglio dietro le spalle dal movimento concitato, fa perno sulla gamba sinistra mentre con entrambe le mani trascina a sé la figura femminile. La donna, con il ginocchio sinistro puntato sui gradini del piedistallo dell’idolo e il piede destro sovrapposto a quello dell’uomo, si protende disperatamente a destra, verso la statua, che cinge saldamente con il braccio sinistro, mentre con l’altro arto tenta di opporsi alla presa dell’antagonista. Il movimento le sconvolge la capigliatura e fa scivolare mantello e chitone lungo la spalla destra, lasciandole scoperto un seno.  L'interpretazione, supportata dalle fonti, individua nelle due figure Aiace e Cassandra, figlia di Priamo re di Troia, trovando conferma nelle lettere SA incise tra le teste dei personaggi, riconosciute già dal Nibby come parte centrale dell’iscrizione [Cas]sa[ndra]. L’episodio rimanda alla caduta di Troia, quando la principessa si rifugia nel tempio di Atena, inseguita da Aiace, e raggiunge la statua della dea – il Palladio – cercando asilo, ma l'eroe, incurante di ciò, la afferra e la trascina via.  Mentre gli autori più antichi individuano l’oltraggio di Aiace nella violazione dell’asilo garantito da Atena (Iliupersis, 108; Euripide, Troiane 69-71), a partire dall’età ellenistica compare una versione del mito caratterizzata da una spiccata valenza erotica, in cui la colpa dell’eroe è lo stupro della fanciulla, poi cristallizzata in tutte le fonti letterarie successive, greche e latine (Licofrone, Alessandra, 348-372; Pausania, 5, 29; Ovidio, Metamorfosi 13, 408-411). Ed è questa seconda versione a influenzare lo schema iconografico proposto nel rilievo Borghese, ampiamente attestato nella ceramica attica a figure rosse (Paoletti 1994, p. 963, nn. 111-120; Grilli 2015, pp. 125-127), come nella kalpis attica a figure rosse del Pittore di Cleofrade al Museo Archeologico Nazionale di Napoli, in cui Cassandra è rappresentata nuda, con indosso il mantello aperto, chiara allusione allo stupro che ha luogo durante l’episodio, nel momento in cui si aggrappa al simulacro di Atena per sottrarsi, invano, alla presa sacrilega di Aiace (MANN inv. 81669, H 2422). La pulitura della lastra ha messo in luce segni di profonde bruciature nascoste da una patina artificiale compatibili con un incendio, che potrebbe aver determinato la distruzione dell’edificio di cui il rilievo costituiva parte del fregio architettonico continuo, incentrato probabilmente sul tema della caduta di Troia. Sulla base del confronto con figurazioni italiote è possibile supporre la presenza di una sacerdotessa a destra del gruppo principale (Touchefeu 1981, p. 343 nn. 58-59). L’esecuzione dei panneggi rimanda a una possibile produzione italiota, trovando riscontri iconografici e stilistici in ambiente tarantino e pestano della prima metà del IV sec. a.C., o più plausibilmente neoattica, forse a Roma, eseguita su modelli tarantini.         Jessica Clementi"
-        },
-        {
-            "label": "Frame",
-            "value": "-"
+            "label": "Provenance",
+            "value": "Sotterranei della Villa (1797); Inventario Fidecommissario Borghese, 1833, C., p. 45, n. 49. Acquisto dello Stato, 1902. "
         },
         {
             "label": "Exhibitions",
             "value": "-"
         },
         {
-            "label": "Restauration",
+            "label": "Conservation and Diagnostic",
             "value": "1996, Consorzio Capitolinoi"
+        },
+
+        {
+            "label": "Status",
+            "value": "on view"
+        },
+        {
+            "label": "Full Artwork Details",
+            "value": " Il “bellissimo bassorilievo” visto da J. J. Winckelmann nei sotterranei della Villa nel 1797 venne probabilmente spostato nella sala I nell’ambito del nuovo riallestimento della palazzina promosso da Camillo Borghese tra il 1819 e il 1832, là dove è ricordato nelle guide del 1832-1838 da Antonio Nibby, utilizzato per la decorazione parietale e inserito in una cornice moderna.  La scena raffigurata è solo parte di un più ampio fregio, inquadrata fra un pilastro sulla sinistra e, all’estremità opposta, il simulacro divino di Atena – riconoscibile dall’egida stilizzata e dall’asta (ora perduta) nella destra – eretto su una base a gradini che evocano un ambiente templare. Le due figure, una maschile e l’altra femminile, sono rappresentate secondo uno schema divergente: a sinistra l’uomo, con indosso solo il mantello fermato al collo da una fibula e aperto a ventaglio dietro le spalle dal movimento concitato, fa perno sulla gamba sinistra mentre con entrambe le mani trascina a sé la figura femminile. La donna, con il ginocchio sinistro puntato sui gradini del piedistallo dell’idolo e il piede destro sovrapposto a quello dell’uomo, si protende disperatamente a destra, verso la statua, che cinge saldamente con il braccio sinistro, mentre con l’altro arto tenta di opporsi alla presa dell’antagonista. Il movimento le sconvolge la capigliatura e fa scivolare mantello e chitone lungo la spalla destra, lasciandole scoperto un seno.  L'interpretazione, supportata dalle fonti, individua nelle due figure Aiace e Cassandra, figlia di Priamo re di Troia, trovando conferma nelle lettere SA incise tra le teste dei personaggi, riconosciute già dal Nibby come parte centrale dell’iscrizione [Cas]sa[ndra]. L’episodio rimanda alla caduta di Troia, quando la principessa si rifugia nel tempio di Atena, inseguita da Aiace, e raggiunge la statua della dea – il Palladio – cercando asilo, ma l'eroe, incurante di ciò, la afferra e la trascina via.  Mentre gli autori più antichi individuano l’oltraggio di Aiace nella violazione dell’asilo garantito da Atena (Iliupersis, 108; Euripide, Troiane 69-71), a partire dall’età ellenistica compare una versione del mito caratterizzata da una spiccata valenza erotica, in cui la colpa dell’eroe è lo stupro della fanciulla, poi cristallizzata in tutte le fonti letterarie successive, greche e latine (Licofrone, Alessandra, 348-372; Pausania, 5, 29; Ovidio, Metamorfosi 13, 408-411). Ed è questa seconda versione a influenzare lo schema iconografico proposto nel rilievo Borghese, ampiamente attestato nella ceramica attica a figure rosse (Paoletti 1994, p. 963, nn. 111-120; Grilli 2015, pp. 125-127), come nella kalpis attica a figure rosse del Pittore di Cleofrade al Museo Archeologico Nazionale di Napoli, in cui Cassandra è rappresentata nuda, con indosso il mantello aperto, chiara allusione allo stupro che ha luogo durante l’episodio, nel momento in cui si aggrappa al simulacro di Atena per sottrarsi, invano, alla presa sacrilega di Aiace (MANN inv. 81669, H 2422). La pulitura della lastra ha messo in luce segni di profonde bruciature nascoste da una patina artificiale compatibili con un incendio, che potrebbe aver determinato la distruzione dell’edificio di cui il rilievo costituiva parte del fregio architettonico continuo, incentrato probabilmente sul tema della caduta di Troia. Sulla base del confronto con figurazioni italiote è possibile supporre la presenza di una sacerdotessa a destra del gruppo principale (Touchefeu 1981, p. 343 nn. 58-59). L’esecuzione dei panneggi rimanda a una possibile produzione italiota, trovando riscontri iconografici e stilistici in ambiente tarantino e pestano della prima metà del IV sec. a.C., o più plausibilmente neoattica, forse a Roma, eseguita su modelli tarantini.         Jessica Clementi"
         },
         {
             "label": "Bibliography",
             "value": "-"
         },
         {
-            "label": "Provenance",
-            "value": "Sotterranei della Villa (1797); Inventario Fidecommissario Borghese, 1833, C., p. 45, n. 49. Acquisto dello Stato, 1902. "
+            "label": "Rights Statement",
+            "value": "-"
         }
     ],
     "thumbnail": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif/full/full/0/default.jpg",
@@ -163,5 +140,6 @@
         }
     ],
     "license": "https://galleriaborghese.beniculturali.it/info/foto-e-video/",
-    "related": "https://www.collezionegalleriaborghese.it/opere/rilievo-con-aiace-e-cassandra-presso-il-palladio"
+    "related": "https://www.collezionegalleriaborghese.it/opere/rilievo-con-aiace-e-cassandra-presso-il-palladio",
+    "collection": "<a href=’https://galleriaborghese.beniculturali.it/' target='_blank'>Galleria Borghese<\/a>"
 }

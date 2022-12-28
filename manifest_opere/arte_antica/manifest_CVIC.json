@@ -3,11 +3,6 @@
     "@id": "https://raw.githubusercontent.com/ElenaBarchielli/testmanifest/main/manifest_opere/arte_antica/manifest_CVIC.json",
     "@type": "sc:Manifest",
     "label": "Statua di fanciullo ammantato, II sec. d.C.",
-    "service": {
-        "profile": "http://iiif.io/api/search/0/search",
-        "@id": "http://54.38.189.118:8081/search-api/8b7d06f9e564a4c4a7988ed2c44abe83/search",
-        "@context": "http://iiif.io/api/search/0/context.json"
-    },
     "description": "La statua, assieme ad altre due molto simili (inv. LXV, inv. LXIX) poste nella medesima sala I, è ricordata da Ennio Quirino Visconti, nel 1796, a decorare il giardino della Villa Pinciana. Con la ricostituzione della collezione dopo la vendita napoleonica queste sculture furono destinate a essere esposte all’interno delle sale della Galleria Borghese. La giovane figura, rappresentata stante, indossa un lungo mantello che ne lascia scoperti i piedi nudi. Le braccia sono nascoste sotto la veste, il sinistro flesso in avanti, mentre il destro è ripiegato sul petto. I lineamenti del volto sono morbidi e infantili, le labbra appena dischiuse in un sorriso e sul capo è posto un pileo dal quale fuoriescono dei riccioli ribelli  che incorniciano la fronte. L’aspetto giovanile, le ridotte dimensioni, l’abbigliamento con il mantello e pileo avvicinano la scultura alla tipologia iconografica del genius cucullatus o a quella di Telesforo, figlio o assistente di Asclepio. ",
     "metadata": 
     [
@@ -20,80 +15,56 @@
             "value": "-"
         },
         {
+            "label": "Number of Inventory",
+            "value": "CVIC"
+        },
+        {
+            "label": "Location",
+            "value": "<a href='https://galleriaborghese.beniculturali.it/il-museo/la-villa/sala-1-sala-della-paolina/' target='_blank'>Sala I - Sala della Paolina<\/a> | <a href='https://raw.githubusercontent.com/ElenaBarchielli/testmanifest/main/manifest_panoramica/manifest_sala1.json' target='_blank'>manifest<\/a> | <a href='link al virtual tour' target='_blank'>Virtual Tour<\/a>"
+        },
+        {
             "label": "Date",
             "value": "II sec. d.C."
-        },
-        {
-            "label": "Culture",
-            "value": "-"
-        },
-        {
-            "label": "Medium / Technique",
-            "value": "marmo di Luni"
         },
         {
             "label": "Dimensions",
             "value": "altezza cm 73"
         },
         {
-            "label": "Number of Inventory",
-            "value": "CVIC"
-        },
-        {
-            "label": "Location",
-            "value": "<a href='https://galleriaborghese.beniculturali.it/il-museo/la-villa/sala-1-sala-della-paolina/' target='_blank'>Sala I - Sala della Paolina<\/a> | <a href='https://raw.githubusercontent.com/ElenaBarchielli/testmanifest/main/manifest_panoramica/manifest_sala1.json' target='_blank'>manifest<\/a>"
-        },
-        {
-            "label": "Place Created",
-            "value": "-"
-        },
-        {
-            "label": "Signature(s)",
-            "value": "-"
-        },
-        {
-            "label": "Mark(s)",
-            "value": "-"
-        },
-        {
             "label": "Classification",
             "value": "<a href='https://www.collezionegalleriaborghese.it/collezione/arte-antica' target='_blank'>Arte antica<\/a>"
         },
         {
-            "label": "Object Type",
-            "value": "-"
+            "label": "Medium / Technique",
+            "value": "marmo di Luni"
         },
         {
-            "label": "Collection",
-            "value": "<a href=’https://galleriaborghese.beniculturali.it/' target='_blank'>Galleria Borghese<\/a>"
-        },
-        {
-            "label": "Rights Statement",
-            "value": "-"
-        },
-        {
-            "label": "Full Artwork Details",
-            "value": "La statua, di dimensioni ridotte, raffigura un fanciullo da poco entrato nella pubertà, in posizione frontale. Il corpo è avvolto da un ampio mantello che lascia scoperti i piedi nudi, privi di calzari. Sotto il panneggio sono visibili le braccia, il sinistro flesso in avanti a trattenere la veste, il destro ripiegato sul petto. La testa, ritenuta da Paolo Moreno non pertinente (Moreno, Viacava 2003, p.145, n. 110), è coperta da un berretto a forma di calotta semisferica, ben calcato sul capo. Il volto, con gote paffute, ha un naso tondo ben evidenziato e labbra sorridenti dischiuse. La fronte è incorniciata da una coroncina di piccoli riccioli, trattenuti dal copricapo. La fattura di quest’ultimo è da ricondurre a quella dei pilei. Nel mondo romano, il pilleus era particolarmente diffuso e caratteristico di numerose figure istituzionali, divine o popolari, con molteplici valenze. Viene descritto come un “berretto di feltro rotondo, ben aderente alle tempie, della forma di mezzo uovo” (Georges, Calonghi 1939, s.v. pileus) in uso presso “i pontefici, i flamini, i Salii e che si dava agli schiavi in segno d'affrancamento” (Ernout, Meillet 1959, s.v. pilleus). In Tito Livio troviamo, infatti, l’espressione servi ad pileum vocati per indicare la liberazione degli schiavi (Tito Livio, Historiae, XXIV, 32, 9), mentre Dionigi di Alicarnasso indica che la parola greca πῖλος/pílos corrispondeva all’apex dei flamini, cioè la verghetta che si trovava sulla punta del loro berretto bianco (Dionigi di Alicarnasso, Antiquitates Romanae, 2,64). Petronio nel Satyricon testimonia la credenza popolare secondo la quale il pileo era tipico del folletto Incubus e chi fosse riuscito a strapparglielo dal capo si sarebbe potuto impossessare del suo tesoro (Petronio Arbitro, Satyricon XXXVIII, 8). Anselmo Calvetti, che nel 2000 dedica un ampio studio alla statua Borghese, ritiene che sia un’entità malefica legata al sonno, dotata del potere di generare incubi e tormentare il dormiente, così come è descritto da Plinio il Vecchio nella Naturalis Historia (Plinio il Vecchio, Naturalis Historia, XXX, 84). Il termine deriva dalla parola latina incub-are con il significato di “dormire presso un luogo sacro, per ricevere, per mezzo di sogni, informazioni dalla divinità sull'avvenire in genere, ovvero (di un malato) informazioni sulla sua malattia” (Georges, Calonghi 1939, s.v. incubus). È noto che presso gli ambulacri d'Asclepio, in particolare ad Epidauro e all'Isola Tiberina in Roma, i malati dormissero nel luogo, per ricevere la salvezza dal dio (Guarducci 1971, pp.267-281). Aiutante o figlio di Asclepio era considerato Telesforo, figura con la quale la scultura Borghese presenta una stretta somiglianza e che risulta presente in un altro gruppo della stessa Galleria (sala VI, inv.CIC). Secondo Waldemar Deonna, che ha approfondito tale figura mitologica, Telesforo “ha la statura e l'età di un fanciullo in piedi, dall'apparenza piacevole e gaia. Un mantello con cappuccio, spesso senza pieghe o solo con alcune, lo ricopre interamente, non lascia libere che raramente le braccia e gli giunge fino ai piedi, che sono nudi” (Deonna 1955, pp.44-46). Le attribuzioni di Telesforo, che può essere accostato alla figura del genius cucullatus, sono quelle di portare la fine della malattia, quindi rimettendo in salute oppure la fine della vita, accompagnando alla morte. Nella medesima sala I della Galleria Borghese sono presenti, poste negli angoli, altre due statuette molto simili di aspetto, che si distinguono solo per lievi varianti (inv. LXV, inv. LXIX). Ennio Quirino Visconti, nel 1796, descrive nell’attuale sala V, una statuetta di Telesforo coperta da un pileo e avvolta in un mantello e aggiunge che “Molte altre statuette simili sono sparse nel bosco della Villa Pinciana” (Visconti, Lamberti 1796, pp.40-41). La statua descritta da Visconti fu trasferita al Museo del Louvre, mentre quelle presenti nella sala I corrisponderebbero alle sculture sparse nel giardino in seguito collocate ad ornare le colonne del Portico durante la riorganizzazione della Galleria ed infine poste nella sala III su rocchi di marmo cipollino (Moreno, Viacava 2003, p.145, n.110). Nel 1893, Adolfo Venturi ricorda la statua Borghese in esame situata da sola nella sala VI (Venturi 1893, p.42). Il modello iconografico di tali statuette ammantate ebbe una larghissima diffusione nel mondo romano, di certo era diffuso l’uso di porle nei giardini privati in segno di buon auspicio e benevolenza. Giulia Ciccarello "
-        },
-        {
-            "label": "Frame",
-            "value": "-"
+            "label": "Provenance",
+            "value": "Collezione Borghese (citato per la prima volta nei giardini con altre simili da Lamberti, Visconti 1796, pp. 40-41); Inventario Fidecommissario Borghese, 1833, C., p.47, n.91. Acquisto dello Stato, 1902."
         },
         {
             "label": "Exhibitions",
             "value": "-"
         },
         {
-            "label": "Restauration",
+            "label": "Conservation and Diagnostic",
             "value": "1827 Antonio D’Este"
+        },
+        {
+            "label": "Status",
+            "value": "on view"
+        },
+        {
+            "label": "Full Artwork Details",
+            "value": "La statua, di dimensioni ridotte, raffigura un fanciullo da poco entrato nella pubertà, in posizione frontale. Il corpo è avvolto da un ampio mantello che lascia scoperti i piedi nudi, privi di calzari. Sotto il panneggio sono visibili le braccia, il sinistro flesso in avanti a trattenere la veste, il destro ripiegato sul petto. La testa, ritenuta da Paolo Moreno non pertinente (Moreno, Viacava 2003, p.145, n. 110), è coperta da un berretto a forma di calotta semisferica, ben calcato sul capo. Il volto, con gote paffute, ha un naso tondo ben evidenziato e labbra sorridenti dischiuse. La fronte è incorniciata da una coroncina di piccoli riccioli, trattenuti dal copricapo. La fattura di quest’ultimo è da ricondurre a quella dei pilei. Nel mondo romano, il pilleus era particolarmente diffuso e caratteristico di numerose figure istituzionali, divine o popolari, con molteplici valenze. Viene descritto come un “berretto di feltro rotondo, ben aderente alle tempie, della forma di mezzo uovo” (Georges, Calonghi 1939, s.v. pileus) in uso presso “i pontefici, i flamini, i Salii e che si dava agli schiavi in segno d'affrancamento” (Ernout, Meillet 1959, s.v. pilleus). In Tito Livio troviamo, infatti, l’espressione servi ad pileum vocati per indicare la liberazione degli schiavi (Tito Livio, Historiae, XXIV, 32, 9), mentre Dionigi di Alicarnasso indica che la parola greca πῖλος/pílos corrispondeva all’apex dei flamini, cioè la verghetta che si trovava sulla punta del loro berretto bianco (Dionigi di Alicarnasso, Antiquitates Romanae, 2,64). Petronio nel Satyricon testimonia la credenza popolare secondo la quale il pileo era tipico del folletto Incubus e chi fosse riuscito a strapparglielo dal capo si sarebbe potuto impossessare del suo tesoro (Petronio Arbitro, Satyricon XXXVIII, 8). Anselmo Calvetti, che nel 2000 dedica un ampio studio alla statua Borghese, ritiene che sia un’entità malefica legata al sonno, dotata del potere di generare incubi e tormentare il dormiente, così come è descritto da Plinio il Vecchio nella Naturalis Historia (Plinio il Vecchio, Naturalis Historia, XXX, 84). Il termine deriva dalla parola latina incub-are con il significato di “dormire presso un luogo sacro, per ricevere, per mezzo di sogni, informazioni dalla divinità sull'avvenire in genere, ovvero (di un malato) informazioni sulla sua malattia” (Georges, Calonghi 1939, s.v. incubus). È noto che presso gli ambulacri d'Asclepio, in particolare ad Epidauro e all'Isola Tiberina in Roma, i malati dormissero nel luogo, per ricevere la salvezza dal dio (Guarducci 1971, pp.267-281). Aiutante o figlio di Asclepio era considerato Telesforo, figura con la quale la scultura Borghese presenta una stretta somiglianza e che risulta presente in un altro gruppo della stessa Galleria (sala VI, inv.CIC). Secondo Waldemar Deonna, che ha approfondito tale figura mitologica, Telesforo “ha la statura e l'età di un fanciullo in piedi, dall'apparenza piacevole e gaia. Un mantello con cappuccio, spesso senza pieghe o solo con alcune, lo ricopre interamente, non lascia libere che raramente le braccia e gli giunge fino ai piedi, che sono nudi” (Deonna 1955, pp.44-46). Le attribuzioni di Telesforo, che può essere accostato alla figura del genius cucullatus, sono quelle di portare la fine della malattia, quindi rimettendo in salute oppure la fine della vita, accompagnando alla morte. Nella medesima sala I della Galleria Borghese sono presenti, poste negli angoli, altre due statuette molto simili di aspetto, che si distinguono solo per lievi varianti (inv. LXV, inv. LXIX). Ennio Quirino Visconti, nel 1796, descrive nell’attuale sala V, una statuetta di Telesforo coperta da un pileo e avvolta in un mantello e aggiunge che “Molte altre statuette simili sono sparse nel bosco della Villa Pinciana” (Visconti, Lamberti 1796, pp.40-41). La statua descritta da Visconti fu trasferita al Museo del Louvre, mentre quelle presenti nella sala I corrisponderebbero alle sculture sparse nel giardino in seguito collocate ad ornare le colonne del Portico durante la riorganizzazione della Galleria ed infine poste nella sala III su rocchi di marmo cipollino (Moreno, Viacava 2003, p.145, n.110). Nel 1893, Adolfo Venturi ricorda la statua Borghese in esame situata da sola nella sala VI (Venturi 1893, p.42). Il modello iconografico di tali statuette ammantate ebbe una larghissima diffusione nel mondo romano, di certo era diffuso l’uso di porle nei giardini privati in segno di buon auspicio e benevolenza. Giulia Ciccarello "
         },
         {
             "label": "Bibliography",
             "value": "-"
         },
         {
-            "label": "Provenance",
-            "value": "Collezione Borghese (citato per la prima volta nei giardini con altre simili da Lamberti, Visconti 1796, pp. 40-41); Inventario Fidecommissario Borghese, 1833, C., p.47, n.91. Acquisto dello Stato, 1902."
+            "label": "Rights Statement",
+            "value": "-"
         }
     ],
     "thumbnail": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/Canova-Paolina.tif/full/full/0/default.jpg",
@@ -168,5 +139,6 @@
         }
     ],
     "license": "https://galleriaborghese.beniculturali.it/info/foto-e-video/",
-    "related": "https://www.collezionegalleriaborghese.it/opere/statua-di-fanciullo-ammantato"
+    "related": "https://www.collezionegalleriaborghese.it/opere/statua-di-fanciullo-ammantato",
+    "collection": "<a href=’https://galleriaborghese.beniculturali.it/' target='_blank'>Galleria Borghese<\/a>"
 }
