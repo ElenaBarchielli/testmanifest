@@ -67,7 +67,7 @@
             "value": "-"
         }
     ],
-    "thumbnail": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/bernini-amore.tif/full/full/0/default.jpg",
+    "thumbnail": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/bernini-amore.png/full/full/0/default.jpg",
     "viewDirection": "right-to-left",
     "attribution": "Digital image courtesy of the <a href='https://galleriaborghese.beniculturali.it/info/foto-e-video/' target='_blank'>Galleria Borghese<\/a>.",
     "logo": "https://galleriaborghese.beniculturali.it/wp-content/uploads/logo.svg",
@@ -82,30 +82,30 @@
             "startCanvas": "-",
             "canvases": [
                 {
-                    "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/bernini-amore.tif",
+                    "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/bernini-amore.png",
                     "@type": "sc:Canvas",
                     "label": "Main Image",
                     "width": 3817,
                     "height": 4237,
                     "images": [
                         {
-                            "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/bernini-amore.tif/full/full/0/default.jpg",
+                            "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/bernini-amore.png/full/full/0/default.jpg",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
                             "resource": {
-                                "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/bernini-amore.tif",
+                                "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/bernini-amore.png",
                                 "@type": "dctypes:Image",
-                                "format": "image/jpeg",
+                                "format": "image/png",
                                 "service": {
                                     "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/bernini-amore.tif",
+                                    "@id": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/bernini-amore.png",
                                     "profile": "http://iiif.io/api/image/2/profiles/level0.json"
                                 }
                             },
-                            "on": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/bernini-amore.tif/full/full/0/default.jpg"
+                            "on": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/bernini-amore.png/full/full/0/default.jpg"
                         }
                     ],
-                    "thumbnail": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/bernini-amore.tif/full/full/0/default.jpg"
+                    "thumbnail": "https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/bernini-amore.png/full/full/0/default.jpg"
                 },
                 {
                     "@id":"https://6012.cophilab-cloud.ilc.cnr.it/share/tirocinio/sala_panoramica.png/info.json",
